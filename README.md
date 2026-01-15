@@ -1,10 +1,10 @@
 # XIVData
 
-This is a collection of CSV files created from Final Fantasy XIV's game data. This data is used to update [FFXIV Collect](https://github.com/mattantonelli/ffxiv-collect).
+This is a collection of CSV files created from Final Fantasy XIV's game data. This data is used to update [FFXIV Collect](https://github.com/skyborn-industries/ffxiv-collect).
 
 ### Usage
 
-This data is updated on patch day using [XIVData Oxidizer](https://github.com/mattantonelli/xiv-data-oxidizer). See that repository for more information if you would like to extract the data yourself.
+This data is updated on patch day using [XIVData Oxidizer](https://github.com/skyborn-industries/xiv-data-oxidizer). See that repository for more information if you would like to extract the data yourself.
 
 ---
 
