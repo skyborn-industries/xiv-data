@@ -1,4 +1,4 @@
-#,InternalName,Name,DataCenter,Region,UserType,IsPublic
+#,InternalName,Name,DataCenter,UserType,Region,IsPublic
 0,crossworld,Dev,0,0,0,False
 1,reserved1,Dev,0,0,0,False
 2,c-contents,c-contents,0,0,1,False
