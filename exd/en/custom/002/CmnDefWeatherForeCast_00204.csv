@@ -1,0 +1,9 @@
+0,TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_000_000,A wise woman once said that she who does not pay heed to the skies will most surely get wet. Sound advice if you ask me. Would you like to hear what the skies tell us this fine day?
+1,TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_000_050,"At  it is currently . The forecast calls for continued clear skies. Tomorrow at this time, the area should still be ."
+2,TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_000_100,"The weather...? Have you not seen the sky? Today, tomorrow, and every day henceforth will be plagued by everlasting light. "
+3,TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_000_200,"If you've come to ask about the weather...my apologies, but I feel wholly unqualified to speak about it at this time..."
+4,TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_000_300,"If you've come to ask about the weather...my apologies, but I feel wholly unqualified to speak about it at this time..."
+5,TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_000_400,"If you've come to ask about the weather...my apologies, but I feel wholly unqualified to speak about it at this time..."
+6,TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_100_000,Thank you for accessing the forecast terminal. Acquiring meteorological data...
+7,TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_100_050,"At  it is currently . Prediction models forecast continued clear skies. According to extended projections, the area will still be  this time tomorrow."
+8,TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_100_100,Error detected in meteorological assessment matrix. Forecast unavailable.

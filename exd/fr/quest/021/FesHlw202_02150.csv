@@ -1,0 +1,126 @@
+0,TEXT_FESHLW202_02150_SEQ_00,"* *Cette quête est un événement à durée limitée.*
+
+L'enquêteur a une autre mission à vous confier."
+1,TEXT_FESHLW202_02150_SEQ_01,"Cette quête ne peut être commencée et effectuée que pendant la durée de l'événement saisonnier correspondant. Pour plus de détails, veuillez consulter The Lodestone.
+
+L'enquêteur veut savoir ce que les saltimbanques du Cirque intercontinental mijotent dans la Forêt du nord. Puisque vous avez accepté de l'aider, rendez-vous au plus vite au Moulin des Bois."
+2,TEXT_FESHLW202_02150_SEQ_02,"Vous avez parlé à l'enquêteur et à une nourrice, qui vous ont appris les subites disparitions d'enfants dans le hameau. Allez interroger les habitants du Moulin des Bois, il y a peut-être eu des témoins."
+3,TEXT_FESHLW202_02150_SEQ_03,"Vous avez discuté avec plusieurs personnes. Il semblerait qu'une femme ait été aperçue en train de discuter avec des enfants. Prévenez vite l'enquêteur, qui se trouve toujours au Moulin des Bois."
+4,TEXT_FESHLW202_02150_SEQ_04,L'enquêteur vous a demandé de poursuivre vos in­ves­ti­ga­tions. La femme aperçue par certains habitants se trouve peut-être encore dans l'enceinte du hameau. Allez vous positionner à l'endroit indiqué.
+5,TEXT_FESHLW202_02150_SEQ_05,"Vous vous êtes rendue à l'endroit où le mage avait été aperçu, et vous avez vu une petite fille en train de discuter avec une jeune femme avant d'être changée en monstre. Le sort est vraisemblablement irréversible. Le Cirque intercontinental compte ainsi récolter l'énergie de la terreur de ses innocentes victimes afin de l'utiliser pour restaurer la Nuit des démons. Heu­reu­se­ment pour vous et les enfants, une femme à tête de citrouille s'est manifestée et vous a donné d' censés rompre le charme... Retournez vite voir l'enquêteur !"
+6,TEXT_FESHLW202_02150_SEQ_06,"L'enquêteur de la guilde vous a demandé de suivre les conseils de la femme à tête de citrouille. Vous n'avez pas tellement le choix après tout. Équipez-vous , , de  et de , et retournez le voir au Moulin des Bois."
+7,TEXT_FESHLW202_02150_SEQ_07,"Vous êtes retournée voir l'enquêteur, vêtue d'une tenue parfaite pour la Veillée des saints. Allez distribuer les biscuits aux enfants transformés en monstres au Moulin des Bois avant qu'il ne soit trop tard."
+8,TEXT_FESHLW202_02150_SEQ_08," ont fait effet sur les monstres du Moulin des Bois, qui sont redevenus des enfants et sont sûrement rentrés chez eux à l'heure qu'il est. Retournez voir l'enquêteur pour vous en assurer."
+9,TEXT_FESHLW202_02150_SEQ_09,"L'enquêteur vous a dit que les habitants du village étaient en train de compter les enfants pour s'assurer qu'il n'en manque aucun, mais on peut dire que tout est rentré dans l'ordre grâce à vous. Mal­heu­reu­se­ment, il a encore besoin de votre aide pour résoudre une autre affaire..."
+10,TEXT_FESHLW202_02150_SEQ_10,
+11,TEXT_FESHLW202_02150_SEQ_11,
+12,TEXT_FESHLW202_02150_SEQ_12,
+13,TEXT_FESHLW202_02150_SEQ_13,
+14,TEXT_FESHLW202_02150_SEQ_14,
+15,TEXT_FESHLW202_02150_SEQ_15,
+16,TEXT_FESHLW202_02150_SEQ_16,
+17,TEXT_FESHLW202_02150_SEQ_17,
+18,TEXT_FESHLW202_02150_SEQ_18,
+19,TEXT_FESHLW202_02150_SEQ_19,
+20,TEXT_FESHLW202_02150_SEQ_20,
+21,TEXT_FESHLW202_02150_SEQ_21,
+22,TEXT_FESHLW202_02150_SEQ_22,
+23,TEXT_FESHLW202_02150_SEQ_23,
+24,TEXT_FESHLW202_02150_TODO_00,Parler à l'enquêteur
+25,TEXT_FESHLW202_02150_TODO_01,Recueillir des in­for­ma­tions
+26,TEXT_FESHLW202_02150_TODO_02,Retourner voir l'enquêteur
+27,TEXT_FESHLW202_02150_TODO_03,Se rendre à l'endroit indiqué
+28,TEXT_FESHLW202_02150_TODO_04,Retourner voir l'enquêteur
+29,TEXT_FESHLW202_02150_TODO_05,Retourner voir l'enquêteur avec une tenue digne de la Veillée des saints
+30,TEXT_FESHLW202_02150_TODO_06,Distribuer  aux montres suspects
+31,TEXT_FESHLW202_02150_TODO_07,Retourner voir l'enquêteur
+32,TEXT_FESHLW202_02150_TODO_08,
+33,TEXT_FESHLW202_02150_TODO_09,
+34,TEXT_FESHLW202_02150_TODO_10,
+35,TEXT_FESHLW202_02150_TODO_11,
+36,TEXT_FESHLW202_02150_TODO_12,
+37,TEXT_FESHLW202_02150_TODO_13,
+38,TEXT_FESHLW202_02150_TODO_14,
+39,TEXT_FESHLW202_02150_TODO_15,
+40,TEXT_FESHLW202_02150_TODO_16,
+41,TEXT_FESHLW202_02150_TODO_17,
+42,TEXT_FESHLW202_02150_TODO_18,
+43,TEXT_FESHLW202_02150_TODO_19,
+44,TEXT_FESHLW202_02150_TODO_20,
+45,TEXT_FESHLW202_02150_TODO_21,
+46,TEXT_FESHLW202_02150_TODO_22,
+47,TEXT_FESHLW202_02150_TODO_23,
+48,TEXT_FESHLW202_02150_GODRIQUELAIN_000_000,"J'ai tout ce qu'il me faut, je vais de ce pas prendre la route du Moulin des Bois. Je compte sur vous pour m'y rejoindre dès que possible !"
+49,TEXT_FESHLW202_02150_MEMBERA02150_000_001,"Cette année, ce sont les enfants qui vont être au cœur des festivités !"
+50,TEXT_FESHLW202_02150_MEMBERB02150_000_002,"Nous offrons une tenue à tous les enfants qui viennent nous voir, et nous avons même des petits biscuits pour récompenser ceux qui sont déjà déguisés ! Si tu connais des petiots qui ont envie de participer, envoie-les au Moulin des Bois."
+51,TEXT_FESHLW202_02150_MEMBERC02150_000_003,"C'est pour un costume ? On ne fait pas dans la taille adulte ce coup-ci ! Une prochaine fois, peut-être."
+52,TEXT_FESHLW202_02150_GODRIQUELAIN_000_010,Vous voilà enfin ! Il paraît que des enfants sont portés disparus... et j'ai un très mauvais pres­sen­ti­ment.
+53,TEXT_FESHLW202_02150_GUARDIAN02150_000_011,"Exactement... Les enfants jouaient tran­quil­le­ment et puis je les ai perdus. J'ai tourné la tête une seconde et pouf, ils n'étaient plus là."
+54,TEXT_FESHLW202_02150_GUARDIAN02150_000_012,（★未使用／削除予定★）
+55,TEXT_FESHLW202_02150_GUARDIAN02150_000_013,"J'ai évidemment pensé qu'ils s'étaient simplement éloignés un peu, mais j'ai eu beau attendre, ils ne sont jamais revenus."
+56,TEXT_FESHLW202_02150_GODRIQUELAIN_000_014,"Ne vous inquiétez pas, nous allons les retrouver !"
+57,TEXT_FESHLW202_02150_GODRIQUELAIN_000_015,"Commençons par recueillir des in­for­ma­tions. Un groupe d'enfants, ça ne passe pas inaperçu. Des gens les ont forcément vus. Je vous conseille d'interroger les individus qui se trouvent dans les parages."
+58,TEXT_FESHLW202_02150_GODRIQUELAIN_000_016,"Nous manquons cruellement d'in­for­ma­tions. Il faudrait interroger les gens d'ici, certains ont peut-être vu ce qui est arrivé à ces enfants."
+59,TEXT_FESHLW202_02150_GUARDIAN02150_000_017,J'espère qu'il n'est rien arrivé aux petits...
+60,TEXT_FESHLW202_02150_VILLAGERA02150_000_020,"Des enfants ? Non, je n'en ai pas vu..."
+61,TEXT_FESHLW202_02150_VILLAGERB02150_000_021,"Vous êtes à la recherche d'enfants disparus ? J'ai ef­fec­ti­ve­ment vu des petites créatures gambader dans la forêt, mais je pense que c'étaient des monstres ou éventuellement des Lalafells... Pas des petiots en tout cas, désolée !"
+62,TEXT_FESHLW202_02150_VILLAGERC02150_000_022,"Si ce sont des enfants que vous cherrrchez, je dois vous dire que j'en ai vu ! Ils discutaient avec un mage un peu plus loin. C'était une femme, il me semble. Je ne saurais pas vous dire s'ils se connaissaient ou non..."
+63,TEXT_FESHLW202_02150_VILLAGERA02150_000_023,"Les enfants disparus ? Non, je ne les ai pas vus..."
+64,TEXT_FESHLW202_02150_VILLAGERB02150_000_024,"J'ai ef­fec­ti­ve­ment vu des petites créatures s'agiter dans la forêt, mais c'étaient des monstres, ou peut-être des Lalafells... mais pas des enfants en tout cas, désolée !"
+65,TEXT_FESHLW202_02150_VILLAGERC02150_000_025,"J'ai ef­fec­ti­ve­ment vu des enfants dans les parrrages. Ils discutaient avec un mage un peu plus loin. C'était une femme, il me semble. Elle leur parlait sur un ton mielleux."
+66,TEXT_FESHLW202_02150_GODRIQUELAIN_000_030,"Pour un si petit hameau, il y a très peu de témoins. Vous avez appris quelque chose, vous ?"
+67,TEXT_FESHLW202_02150_GODRIQUELAIN_000_031,Pardon !? J'ai peur de mal comprendre... Vous êtes en train de me dire que ce mage a peut-être enlevé les enfants ?
+68,TEXT_FESHLW202_02150_GODRIQUELAIN_000_032,"Il n'y a plus qu'une chose à faire : foncer au dernier endroit où on l'a vu et espérer que cette personne ne soit pas partie trop loin ! Partez devant, je dois contacter la guilde des aventuriers, moi. Vite, le temps presse !"
+69,TEXT_FESHLW202_02150_GODRIQUELAIN_000_033,"Les habitants ont bien dû vous dire où ils avaient vu cette femme parler aux enfants, non ? Allez voir si elle s'y trouve encore, voulez-vous ? Faites vite, car s'il s'agit bel et bien d'un enlèvement, le temps nous est compté !"
+70,TEXT_FESHLW202_02150_GUARDIAN02150_000_034,"Je vous en prie, vous êtes la seule personne capable de retrouver ces petits !"
+71,TEXT_FESHLW202_02150_WITCH02150_000_040,"Attention ma petite, je vais lancer l'incantation. Je ne sais pas si on se reverra après, alors profite bien de la Veillée des saints, hi hi hi !"
+72,TEXT_FESHLW202_02150_CHILDA02150_000_041,"Trop bien, merci Madame !"
+73,TEXT_FESHLW202_02150_WITCH02150_000_042,"Par-fait ! Je me suis surpassée, encore une fois."
+74,TEXT_FESHLW202_02150_CHILDA02150_000_043,"Génial, j'ai vraiment changé d'apparence !"
+75,TEXT_FESHLW202_02150_WITCH02150_000_044,"Tu n'es pas sans savoir qu'on ne peut profiter de la Veillée des saints qu'avec un bon déguisement, pas vrai ? Et tu sais ce qu'on fait quand on a une apparence aussi terrifiante que la tienne ?"
+76,TEXT_FESHLW202_02150_WITCH02150_000_045,Merveilleux ! Alors je compte sur toi pour effrayer tous ceux que tu croiseras sur la route du ranch de Brancharquée ! C'est là-bas qu'on a rendez-vous.
+77,TEXT_FESHLW202_02150_CHILDA02150_000_046,C'est parti !
+78,TEXT_FESHLW202_02150_IMPHEAD_000_047,(-Impresario du Cirque intercontinental-)Ha ha ha... Tout se passe comme prévu.
+79,TEXT_FESHLW202_02150_WITCH02150_000_048,Les enfants ne se doutent de rien. Ils sont même contents d'être changés en monstres !
+80,TEXT_FESHLW202_02150_WITCH02150_000_049,"Ils ne comprennent pas que jamais ils ne retrouveront leur apparence d'origine. Perdus dans l'excitation du moment, ils ne se sont même pas posé la question, les pauvres !"
+81,TEXT_FESHLW202_02150_IMPHEAD_000_050,Nous allons enfin atteindre notre véritable objectif ! Nous allons voir renaître la Nuit des démons ! Les saints affaiblis seront impuissants lorsque les monstres et les esprits envahiront les cités !
+82,TEXT_FESHLW202_02150_IMPHEAD_000_051,"Mais pour que les démons pullulent, nous allons avoir besoin, en grande quantité, de l'énergie que nous extrayons de la terreur de nos victimes. Je suis persuadé que ces gamins en produiront plus qu'assez dès qu'ils sauront qu'ils ne retrouveront jamais leur apparence d'origine ! Ha ha ha !"
+83,TEXT_FESHLW202_02150_IMPHEAD_000_052,Les parents repousseront sans doute leur progéniture quand ils la verront revenir sous ces traits. Les petits monstres mourront de peur quand ils comprendront qu'ils sont désormais livrés à eux-mêmes. Ils n'auront pas d'autre choix que de revenir dans nos griffes !
+84,TEXT_FESHLW202_02150_IMPHEAD_000_053,Et ils viendront grossir les rangs de l'armée de monstres que leur effroi nous aura permis de rassembler. Quelle ironie !
+85,TEXT_FESHLW202_02150_WITCH02150_000_054,"Et nous allons faire d'une pierre deux coups ! En plus de récupérer cette énergie dont nous avons tant besoin, nous ferons d'innocentes victimes. Cher impresario, votre plan est démoniaque !"
+86,TEXT_FESHLW202_02150_PUMPKIN_000_055,"(-???-)Qu'y a-t-il, mon amie ? Un problème, hé hé hé ?"
+87,TEXT_FESHLW202_02150_PUMPKIN_100_055,"Ne t'en fais pas, ha ha ha. Je suis là pour t'écouter si tu as des soucis."
+88,TEXT_FESHLW202_02150_PUMPKIN_100_056,"Mais dis-moi, on ne se serait pas déjà rencontrées quelque part ? Enfin bon, dis-moi d'abord ce qui te tracasse, hi hi hi."
+89,TEXT_FESHLW202_02150_PUMPKIN_100_057,"... Tu voudrais redonner forme humaine aux enfants qui ont été changés en monstres ? Il est vrai que ce n'est sûrement pas l'idée qu'ils se faisaient de la Veillée des saints, les pauvres chéris. J'ai tout à fait ce qu'il te faut, ha ha ha."
+90,TEXT_FESHLW202_02150_PUMPKIN_000_056,"Fais-leur goûter un de  et tu verras, ils reprendront forme humaine... comme par magie !"
+91,TEXT_FESHLW202_02150_PUMPKIN_000_057,"Mais tu dois le faire dans les règles de l'art. Tu dois posséder une tenue de la Veillée des saints ou ces biscuits n'auront aucun effet. Et essaie de ne pas te tromper de cible, on ne sait jamais ce qui pourrait se passer, ha ha ha !"
+92,TEXT_FESHLW202_02150_GODRIQUELAIN_000_070,"J'ai contacté la guilde, qui m'a dit qu'elle allait nous apporter tout son soutien compte tenu de la gravité de la situation. Et vous, vous avez du neuf de votre côté ?"
+93,TEXT_FESHLW202_02150_GODRIQUELAIN_000_071,"... P-pardon !? La Nuit des démons ? Cette horrible fête pendant laquelle des monstres envahissent les cités, guidés par d'horribles créatures affublées de têtes de citrouille ?"
+94,TEXT_FESHLW202_02150_GODRIQUELAIN_000_072,C'est pour réinstaurer cette ignoble tradition que les saltimbanques complotent dans l'ombre ?
+95,TEXT_FESHLW202_02150_GODRIQUELAIN_000_073,"Écoutez, je ne sais pas si on peut faire confiance à cette femme à tête de citrouille, mais je n'ai pas l'impression que nous ayons réellement le choix."
+96,TEXT_FESHLW202_02150_GODRIQUELAIN_000_074,"Je vais poursuivre l'enquête de mon côté, avec l'aide de la guilde. Je compte sur vous pour suivre les in­struc­tions que cette fille vous a données et pour sauver les enfants !"
+97,TEXT_FESHLW202_02150_GODRIQUELAIN_000_075,"Si j'ai bien compris, elle veut que vous ayez des vêtements particuliers lorsque vous distribuerez ses  aux enfants, c'est bien ça ?"
+98,TEXT_FESHLW202_02150_GODRIQUELAIN_000_076,Je me demande de quoi elle voulait parler... Sans doute d'une tenue de saison.
+99,TEXT_FESHLW202_02150_SYSTEM_000_076,"Équipez-vous , , de  et de , et retournez vous adresser à l'enquêteur."
+100,TEXT_FESHLW202_02150_SYSTEM_100_076,"Si vous ne disposez pas des pièces d'équipement nécessaires, vous pourrez vous en procurer auprès de la vendeuse suspecte, à Gridania."
+101,TEXT_FESHLW202_02150_GODRIQUELAIN_000_080,Une tenue “digne de la Veillée des saints”... De quoi peut-il bien s'agir ?
+102,TEXT_FESHLW202_02150_GODRIQUELAIN_000_081,"Oh, je n'avais pas remarqué vos vêtements ! Je dois dire que j'ai rarement vu de tenue plus digne de l'esprit de la Veillée des saints."
+103,TEXT_FESHLW202_02150_GODRIQUELAIN_000_082,"Il ne vous reste plus qu'à partir à la recherche de ces enfants changés en monstres et à leur donner un de . Allez, je sais que vous réussirez."
+104,TEXT_FESHLW202_02150_STRANGEDEMONA02150_000_090,"Gare à vous, je vais vous croquer !
+Bah alors, vous ne partez pas en agitant les bras en l'air et en hurlant ? Oups, je ferais mieux de me taire."
+105,TEXT_FESHLW202_02150_STRANGEDEMONA02150_000_091,"Qu'est-ce que c'est ? Si vous dites que c'est bon, je veux bien goûter. Mais je vous mangerai si c'est pas vrai, hi hi hi !"
+106,TEXT_FESHLW202_02150_CHILDA02150_000_092,"Le sort est rompu ! Pfff, espèce de rabat-joie..."
+107,TEXT_FESHLW202_02150_CHILDA02150_000_093,"... On nous cherche partout ? Mince alors, faut que je file !"
+108,TEXT_FESHLW202_02150_STRANGEDEMONB02150_000_094,"Je suis un très vilain monstre avec des griffes acérées, et si vous ne décampez pas vite fait, je vous montre mes coraux... mes *crocs* ! Mince, je bafouille tout le temps."
+109,TEXT_FESHLW202_02150_STRANGEDEMONB02150_000_095,"C'est pour moi ? C'est gentil ! J'avais justement une petite faim, et j'adooore les biscuits."
+110,TEXT_FESHLW202_02150_CHILDB02150_000_096,"Hééé, je suis comme avant !"
+111,TEXT_FESHLW202_02150_CHILDB02150_000_097,"Si la nourrice nous cherche, il faut rentrer im­mé­dia­te­ment avant qu'elle se fasse trop de mouron. Merci d'être venue me chercher. J'espère qu'elle ne va pas nous priver de biscuits !"
+112,TEXT_FESHLW202_02150_STRANGEDEMONC02150_000_098,"Je suis le monstre le plus terrifiant que tu aies jamais rencontré... Je te jure, je suis le plus horrible !"
+113,TEXT_FESHLW202_02150_STRANGEDEMONC02150_000_099,"Oh, un gâteau ! Je préfère ceux au chocolat, mais ça me dérange pas de faire une petite exception."
+114,TEXT_FESHLW202_02150_CHILDC02150_000_100,Qu'est-ce qui vient de se passer ?
+115,TEXT_FESHLW202_02150_CHILDB02150_000_101,"Mince alors, je vais me faire gronder très fort par ma nourrice si je rentre pas tout de suite ! C'est dommage, j'ai fait peur à personne."
+116,TEXT_FESHLW202_02150_GODRIQUELAIN_000_102,Vous ne savez pas quoi faire ? Il me semble que vous devriez être en train de distribuer des biscuits aux pauvres enfants transformés en monstres...
+117,TEXT_FESHLW202_02150_GODRIQUELAIN_000_110,Heureux de vous revoir ! Nous avons vu arriver les enfants les uns après les autres et nous avons compris que vous aviez accompli votre tâche.
+118,TEXT_FESHLW202_02150_GODRIQUELAIN_000_111,Nous avons ef­fec­ti­ve­ment bien fait de croire cette femme à tête de citrouille. Tout est bien qui finit bien ! Nous sommes en train de vérifier si tous les petits sont rentrés chez eux.
+119,TEXT_FESHLW202_02150_GODRIQUELAIN_000_112,"Le calme va enfin revenir au Moulin des Bois ! Enfin j'aimerais y croire, mais j'ai malheureusement eu vent d'une autre affaire éventuellement liée à celle que nous venons d'élucider..."
+120,TEXT_FESHLW202_02150_GUARDIAN02150_000_113,"Le fils du voisin est rentré, et les filles des autres habitants aussi. Je ne crois pas qu'il reste d'enfant porté disparu..."

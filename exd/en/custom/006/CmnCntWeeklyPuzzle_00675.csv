@@ -1,0 +1,46 @@
+0,TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_000,"Ah, Player. Once again, you are openly staring."
+1,TEXT_CMNCNTWEEKLYPUZZLE_00675_Q1_000_001,What would you like to do?
+2,TEXT_CMNCNTWEEKLYPUZZLE_00675_A1_000_001,Play Faux Hollows.
+3,TEXT_CMNCNTWEEKLYPUZZLE_00675_A1_000_002,Exchange faux leaves.
+4,TEXT_CMNCNTWEEKLYPUZZLE_00675_A1_000_003,Ask about Faux Hollows.
+5,TEXT_CMNCNTWEEKLYPUZZLE_00675_A1_000_004,Small talk.
+6,TEXT_CMNCNTWEEKLYPUZZLE_00675_A1_000_005,Nothing.
+7,TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_001,"Yes, yes, I sympathize─Faux Hollows is a delight, if I do say so myself. But that is the very purpose of the enticement, child. To entice. If you would play, you must bring me a worthy tale in return."
+8,TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_002,"I appreciate your enthusiasm, but alas, I have yet to finish transcribing your previous tale. Though I am gifted with the voice of man, I was not similarly blessed with opposable thumbs. Holding a brush for extended periods can be something of a chore."
+9,TEXT_CMNCNTWEEKLYPUZZLE_00675_SYSTEM_000_003,"The faux commander will grant access to Faux Hollows once per week, beginning Tuesday at 5:00 p.m. (Earth time), upon completion of an unreal trial."
+10,TEXT_CMNCNTWEEKLYPUZZLE_00675_SYSTEM_100_003,"Please be advised that Faux Hollows cannot be abandoned once commenced. Furthermore, in the event you enter an instanced duty before completing Faux Hollows, your attempt will be forfeit for the remainder of the week."
+11,TEXT_CMNCNTWEEKLYPUZZLE_00675_SYSTEM_000_004,"Play Faux Hollows?
+(Faux leaves held: 0/1,000)
+**※You are currently carrying the maximum amount of faux leaves, and will not be able to obtain more.**"
+12,TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_005,"You have a story to tell? One of inspiring─and exaggerated─courage, no doubt. Very well!"
+13,TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_006,"A superb flight of fancy! From the colorful characters to their narrow escapes, I daresay it rivals even the Tale of Tenzen! As promised, you shall have your game."
+14,TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_007,"If you *must* have more time to compose your story, very well. But do be quick about it. I am intensely bored."
+15,TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_008,You wish to peruse the rewards I offer? Very well─men cannot live on dreams alone. This is one of their many failings.
+16,TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_100_008,You have questions? I don't doubt it.
+17,TEXT_CMNCNTWEEKLYPUZZLE_00675_Q2_000_001,What will you ask?
+18,TEXT_CMNCNTWEEKLYPUZZLE_00675_A2_000_001,You look like Ser Aymeric...if he were sat on by a chocobo. Why?
+19,TEXT_CMNCNTWEEKLYPUZZLE_00675_A2_000_002,"What is all this “Faux Hollows” business, anyway?"
+20,TEXT_CMNCNTWEEKLYPUZZLE_00675_A2_000_003,Nothing.
+21,TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_009,"This face is indeed a work of enchantment designed to make me more endearing to children of man, but I assure you that any resemblance to real or fictional personages─sat upon or otherwise─is entirely coincidental."
+22,TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_010,"...What, is it so surprising that I endeavored to make myself approachable? Did you expect me to sit at my shrine all day, still as a statue and bored out of my skull? You lot *can* be interesting conversationalists─though ever needlessly dramatic about talking animals."
+23,TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_011,"In all my years, however, I have encountered few with such fascinating stories as Khloe and her friends─yes, you included. If your baffling insistence on comparing my visage to that of some Elezen boy is the price I must pay for good fiction, then I suppose I shall suffer it...though not gladly."
+24,TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_012,It was in fact Rowena's idea to create a new diversion that would encourage a wider variety of adventurers to pay visit to Idyllshire.
+25,TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_013,"She quickly realized, however, that without a special currency or indeed some form of unique challenge, such a thing would attract naught but the usual crowd─those “up to their eyeballs in tomestones,” as she put it."
+26,TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_014,"So it was that I stepped in to offer my ingenuity and arcane talents. My condition: that the central challenge be the telling of worthy stories. This she readily agreed to, as it is not dissimilar to what Khloe had already pioneered."
+27,TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_015,"Khloe herself has been most helpful in this endeavor. She had evidently been at work designing prizes ever since Rowena first spoke the word “game,” and is an excellent storyteller in her own right. She also has an extensive collection of resources─or “friends,” if you prefer."
+28,TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_016,"So here we are. Faux Hollows, operating under the─ahem─auspices of Rowena's House of Splendors. Much like everything else in Idyllshire, if I understand correctly."
+29,TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_017,Tch! Time wasters...
+30,TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_020,"Fascinating─each and every illustration revealed! Your luck is remarkable, I will grant you that. And I shall grant you another chance to impress me with your imagination as well, should you wish it."
+31,TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_021,"If so, you had best see that your second tale is as vivid and enthralling as the first. And I will countenance no unsatisfactory endings!"
+32,TEXT_CMNCNTWEEKLYPUZZLE_00675_SYSTEM_100_021,You have earned a retelling! Complete an unreal trial once more for another chance to play Faux Hollows.
+33,TEXT_CMNCNTWEEKLYPUZZLE_00675_SYSTEM_000_022,You are eligible for only one retelling per week. Retellings will reset every Tuesday at 5:00 p.m. (Earth time).
+34,TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_023,"If I am not mistaken─and for the record, I have not made a mistake in several hundred years─you uncovered each and every illustration. Well done! Now take your leaves and run along."
+35,TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_024,"Ah, by the illustration you sought, I see that you're keen to tell me another tale ere long. I cannot deny that you have earned it, so I will make ready. Perhaps Khloe can lend a hand in the transcription, though I admit her handwriting leaves much to be desired..."
+36,TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_025,"I trust that you enjoyed yourself? Now, if you will excuse me, your tale will not record itself..."
+37,TEXT_CMNCNTWEEKLYPUZZLE_00675_SYSTEM_000_050,"As you have earned no retellings, you cannot access Faux Hollows again until next week."
+38,TEXT_CMNCNTWEEKLYPUZZLE_00675_SYSTEM_000_051,Please return after Tuesday at 5:00 p.m. (Earth time) and speak with the Faux Commander once you have completed an unreal trial.
+39,TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_026,"I must say, child, your luck is dreadful. But fret not─your storytelling abilities are satisfactory, so I daresay you will earn your rewards in due time."
+40,TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_030,"By the kami, these tales of adventure are lengthy! Pray spare me yours for a spell─I've developed a fearsome cramp from all this calligraphy..."
+41,TEXT_CMNCNTWEEKLYPUZZLE_00675_SYSTEM_000_031,Faux Hollows is currently closed. The faux commander will reopen for business when the next unreal trial is made available in a future update.
+42,TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_040,"Your appetite for flipping panels is unparalleled, as is your skill─but I have much work to do ere I meet the other auspices for tea. Please return...er, significantly later."
+43,TEXT_CMNCNTWEEKLYPUZZLE_00675_FAUXCOMMANDER_000_041,"Your appetite for flipping panels is unparalleled─lacking though your skill may be─but I have much work to do ere I meet the other auspices for tea. Please return...er, significantly later."

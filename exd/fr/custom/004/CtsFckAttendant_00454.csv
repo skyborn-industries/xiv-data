@@ -1,0 +1,17 @@
+0,TEXT_CTSFCKATTENDANT_00454_TALK_ACTOR,"Bien le bonsoir chez vous, aventurière. Que puis-je faire pour vous aider ?"
+1,TEXT_CTSFCKATTENDANT_00454_TALK_QUEST_INCOMPLETE,"Bonsoir, aventurière ! Je suis Kasumi, l'assistante personnelle de monsieur Masked Rose. Au cas où vous seriez intéressée par la Revue de mode, n'hésitez pas à vous adresser à lui !"
+2,TEXT_CTSFCKATTENDANT_00454_GUIDEMENU_000_000,Sur quoi vous renseignez-vous ?
+3,TEXT_CTSFCKATTENDANT_00454_GUIDEMENU_001_000,La Revue de mode
+4,TEXT_CTSFCKATTENDANT_00454_GUIDEMENU_002_000,Le système de notation
+5,TEXT_CTSFCKATTENDANT_00454_GUIDEMENU_003_000,Les récompenses
+6,TEXT_CTSFCKATTENDANT_00454_GUIDEMENU_CANCEL,Annuler
+7,TEXT_CTSFCKATTENDANT_00454_GUIDE_001_000,"Le principe de notre Revue de mode est très simple : les par­ti­ci­pants doivent s'habiller en suivant les directives de monsieur Masked Rose ici présent, qui leur donnera ensuite une note selon un système d'évaluation bien précis."
+8,TEXT_CTSFCKATTENDANT_00454_GUIDE_001_001,"Entre nous, monsieur Rose est cer­tai­ne­ment un des critiques de mode les plus respectés dans la profession, mais il faut bien admettre que son jugement peut parfois être assez sévère. Soyez sur votre trente-et-un en toutes cir­cons­tan­ces pour vous attirer ses bonnes grâces !"
+9,TEXT_CTSFCKATTENDANT_00454_SYSTEM_001_002,Le thème de la Revue de mode est réinitialisé tous les mardis à 17h (temps réel).
+10,TEXT_CTSFCKATTENDANT_00454_SYSTEM_001_003,Il est possible d'obtenir jusqu'à quatre évaluations par semaine en vous présentant devant Masked Rose des vendredis à 17h aux mardis à 17h (temps réel).
+11,TEXT_CTSFCKATTENDANT_00454_SYSTEM_001_004,La période des mardis à 17h aux vendredis à 17h est réservée à la préparation des par­ti­ci­pants. Il est donc impossible d'être évalué durant cette période.
+12,TEXT_CTSFCKATTENDANT_00454_GUIDE_002_000,"Vous pouvez vous présenter devant monsieur Rose jusqu'à quatre fois par semaine. Pour chaque évaluation, il vous attribuera une note sur cent points. Par conséquent, n'hésitez pas à vous présenter plusieurs fois durant la période d'évaluation pour obtenir le meilleur score possible."
+13,TEXT_CTSFCKATTENDANT_00454_SYSTEM_002_001,"Veuillez noter que si des mirages ont été appliqués, l'évaluation se basera sur l'apparence actuelle de votre équipement. En outre, votre couvre-chef sera également évalué, même s'il est caché."
+14,TEXT_CTSFCKATTENDANT_00454_GUIDE_003_000,"Même si vous ne tentez votre chance qu'une seule fois au cours de la durée d'un thème, vous recevrez des PGS en guise de récompense. C'est notre façon de vous remercier pour avoir fait un minimum d'efforts."
+15,TEXT_CTSFCKATTENDANT_00454_GUIDE_003_001,"En revanche, ces mêmes PGS pleuvront sur votre tête en quantité astronomique si vous obtenez un score supérieur à quatre-vingts. Voilà pourquoi vous devez faire votre maximum pour être à la pointe de la mode en permanence !"
+16,TEXT_CTSFCKATTENDANT_00454_GUIDE_003_002,"De plus, tous les par­ti­ci­pants réguliers à la Revue de mode auront accès à des articles exclusivement réservés aux habitués. Rendez-nous visite aussi souvent que possible pour découvrir de quoi il s'agit !"

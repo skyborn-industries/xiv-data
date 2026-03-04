@@ -1,0 +1,31 @@
+0,TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_REMON_000_000,"Vous êtes ici pour mes mar­chan­di­ses, n'est-ce pas ? Très bien, montrez-moi la monnaie d'échange et je vous fournirai des mahatma pour l'arme du zodiaque que vous désirez."
+1,TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_MENU_TITLE,Choisissez une arme du zodiaque
+2,TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_MENU_CHOICES, et  (UNKNOWN mahatma restante)
+3,TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_MENU_CANCEL,Annuler
+4,TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_REMON_000_100,（★未使用／削除予定★）
+5,TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_REMON_000_110,（★未使用／削除予定★）
+6,TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_YESNO_MESSAGE,Échanger 0  contre une  pour  et  ?
+7,TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_YESNO_YES,Oui
+8,TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_YESNO_NO,Non
+9,TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_REMON_000_120,"Affaire conclue. Voici votre , un cristal qui saura éveiller un  dans la conscience de votre arme."
+10,TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_REMON_000_121,"Je me suis permis de la fixer à votre arme. C'est à vous de jouer, maintenant !"
+11,TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_SYSTEM_000_130,"Une  a été fixée à votre arme du zodiaque. En participant à différentes missions, vous ferez augmenter son degré de résonance et permettrez ainsi à son âme de s'éveiller progressivement."
+12,TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_SYSTEM_000_131,"Pour vérifier le degré de résonance atteint avec chaque type de mahatma, utilisez la lunette du zodiaque qui se trouve dans l'inventaire."
+13,TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_SYSTEM_000_132,"Une fois que vous aurez atteint le degré de résonance maximum avec les douze types de mahatma, allez mettre Jalzahn au courant."
+14,TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_REMON_000_300,Je vous ai déjà fourni tous les types de mahatma différentes pour cette arme. On peut dire que vous ne chômez pas !
+15,TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_SYSTEM_000_310,"Vous ne pouvez plus fixer de nouvelles mahatma à votre arme. Lorsque vous aurez augmenté le degré de résonance de la dernière à son maximum, allez mettre Jalzahn au courant."
+16,TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_REMON_000_030,Excalibur et Aegis sont indissociables. Je crains que nous ne puissions faire affaire tant que vous ne me montrerez pas les deux en même temps.
+17,TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_SYSTEM_000_040,"Pour acquérir des mahatma, adressez-vous à Remon équipée d'Excalibur et d'Aegis."
+18,TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_REMON_000_040,（★未使用／削除予定★）
+19,TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_SYSTEM_000_050,（★未使用／削除予定★）
+20,TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_REMON_000_050,"Vous croyez que je travaille pour la gloire des Douze, peut-être ? Eh bien, vous vous trompez ! Revenez me voir quand vous aurez plus  !"
+21,TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_REMON_000_060,La  n'a pas encore com­plè­te­ment éveillé le  dans la conscience de votre arme. Vous devez d'abord atteindre le degré de résonance maximum pour que je puisse y fixer une nouvelle mahatma.
+22,TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_SYSTEM_000_070,Vous ne pouvez fixer de nouvelle mahatma sur votre arme du zodiaque tant que celle qui y est déjà attachée n'a pas atteint le degré de résonance maximum.
+23,TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_SYSTEM_000_071,"Pour vérifier le degré de résonance atteint par une mahatma, utilisez la lunette du zodiaque qui se trouve dans l'inventaire."
+24,TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_SYSTEM_000_072,"Notez que si vous avez égaré votre lunette du zodiaque, vous pourrez en obtenir une nouvelle en vous adressant à Drake."
+25,TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_MAGICITE_MENU_TITLE,Choisissez un type de mahatma
+26,TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_MAGICITE_DONE, (Terminé)
+27,TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_MAGICITE_NEXT, (Disponible)
+28,TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_MAGICITE_FUTURE,
+29,TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_REMON_000_070,"Je vous ai déjà procuré une , vous ne vous souvenez pas ?"
+30,TEXT_CMNDEFRELICWEAPON060MAGICITESHOP_00251_REMON_000_071,"Chaque chose en son temps. Vous devez utiliser les mahatma dans l'ordre adéquat, sans quoi leurs effets seront atténués et vous ne pourrez éveiller la conscience de votre arme du zodiaque."

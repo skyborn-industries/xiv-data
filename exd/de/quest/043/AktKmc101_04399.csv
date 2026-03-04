@@ -1,0 +1,101 @@
+0,TEXT_AKTKMC101_04399_SEQ_00,Der Mondwächter hat Wichtiges mit dir zu besprechen.
+1,TEXT_AKTKMC101_04399_SEQ_01,
+2,TEXT_AKTKMC101_04399_SEQ_02,
+3,TEXT_AKTKMC101_04399_SEQ_03,
+4,TEXT_AKTKMC101_04399_SEQ_04,
+5,TEXT_AKTKMC101_04399_SEQ_05,
+6,TEXT_AKTKMC101_04399_SEQ_06,
+7,TEXT_AKTKMC101_04399_SEQ_07,
+8,TEXT_AKTKMC101_04399_SEQ_08,
+9,TEXT_AKTKMC101_04399_SEQ_09,
+10,TEXT_AKTKMC101_04399_SEQ_10,
+11,TEXT_AKTKMC101_04399_SEQ_11,
+12,TEXT_AKTKMC101_04399_SEQ_12,
+13,TEXT_AKTKMC101_04399_SEQ_13,
+14,TEXT_AKTKMC101_04399_SEQ_14,
+15,TEXT_AKTKMC101_04399_SEQ_15,
+16,TEXT_AKTKMC101_04399_SEQ_16,
+17,TEXT_AKTKMC101_04399_SEQ_17,
+18,TEXT_AKTKMC101_04399_SEQ_18,
+19,TEXT_AKTKMC101_04399_SEQ_19,
+20,TEXT_AKTKMC101_04399_SEQ_20,
+21,TEXT_AKTKMC101_04399_SEQ_21,
+22,TEXT_AKTKMC101_04399_SEQ_22,
+23,TEXT_AKTKMC101_04399_SEQ_23,
+24,TEXT_AKTKMC101_04399_TODO_00,Deine Gefährten im Palast des Wächters aufsuchen
+25,TEXT_AKTKMC101_04399_TODO_01, begutachten
+26,TEXT_AKTKMC101_04399_TODO_02, begutachten
+27,TEXT_AKTKMC101_04399_TODO_03, begutachten
+28,TEXT_AKTKMC101_04399_TODO_04, begutachten
+29,TEXT_AKTKMC101_04399_TODO_05,Mit Y'shtola sprechen
+30,TEXT_AKTKMC101_04399_TODO_06,
+31,TEXT_AKTKMC101_04399_TODO_07,
+32,TEXT_AKTKMC101_04399_TODO_08,
+33,TEXT_AKTKMC101_04399_TODO_09,
+34,TEXT_AKTKMC101_04399_TODO_10,
+35,TEXT_AKTKMC101_04399_TODO_11,
+36,TEXT_AKTKMC101_04399_TODO_12,
+37,TEXT_AKTKMC101_04399_TODO_13,
+38,TEXT_AKTKMC101_04399_TODO_14,
+39,TEXT_AKTKMC101_04399_TODO_15,
+40,TEXT_AKTKMC101_04399_TODO_16,
+41,TEXT_AKTKMC101_04399_TODO_17,
+42,TEXT_AKTKMC101_04399_TODO_18,
+43,TEXT_AKTKMC101_04399_TODO_19,
+44,TEXT_AKTKMC101_04399_TODO_20,
+45,TEXT_AKTKMC101_04399_TODO_21,
+46,TEXT_AKTKMC101_04399_TODO_22,
+47,TEXT_AKTKMC101_04399_TODO_23,
+48,TEXT_AKTKMC101_04399_WATCHEROFMOON_000_000,"**Lass uns über die Letzten Tage sprechen, aber nicht hier."
+49,TEXT_AKTKMC101_04399_WATCHEROFMOON_000_001,"**Tatsächlich habe ich deine Ankunft auf dem Mond gespürt. Und wenn mich meine Sinne nicht täuschen, bist du nicht alleine hierher­ge­kommen."
+50,TEXT_AKTKMC101_04399_WATCHEROFMOON_000_002,"**Aufgrund der ... besorgniserregenden Situation fällt es mir zunehmend schwerer, mit Hydaelyn in Kontakt zu treten. Aber sie gab mir zu bedeuten, dass es sich um deine Kameraden handele."
+51,TEXT_AKTKMC101_04399_WATCHEROFMOON_000_003,"**Sie sollten inzwischen in meinem Refugium angelangt sein. Komm, lass uns zu ihnen stoßen. Dort können wir ungestört reden."
+52,TEXT_AKTKMC101_04399_THANCRED_000_010,"Was ist hier vorgefallen, Player?! Und wer ist *der* da?"
+53,TEXT_AKTKMC101_04399_URIANGER_000_015,"Mich dünkt, wir sind etwas zu spät hier eingetroffen ... Gehe ich Recht in der Annahme, dass diese Erscheinung dort der ... *Hausherr* ist?"
+54,TEXT_AKTKMC101_04399_WATCHEROFMOON_000_020,"**Wie ich es mir schon dachte. Das sind die drei anderen Präsenzen, deren Ankunft ich vorhin spürte. Deine Freunde, nicht wahr?"
+55,TEXT_AKTKMC101_04399_YSHTOLA_000_030,"Player! Gut, dich zu sehen. Wir waren ziemlich in Sorge."
+56,TEXT_AKTKMC101_04399_YSHTOLA_000_031,"Eigentlich wollten wir dir so schnell wie möglich folgen, aber wir mussten zunächst gemeinsam mit dem Ilsabard-Korps die Besessenen unter Kontrolle kriegen."
+57,TEXT_AKTKMC101_04399_YSHTOLA_000_032,"Leider konnten wir nicht alle retten. Einige von ihnen haben Sprengladungen gezündet, bevor wir sie entwaffnen konnten. Für sie und viele andere kam unsere Hilfe zu spät."
+58,TEXT_AKTKMC101_04399_YSHTOLA_000_033,"Das Korps kümmert sich nun um die Verwundeten und hilft dabei, die Besessenen zu heilen."
+59,TEXT_AKTKMC101_04399_URIANGER_000_034,"Krile wurde derweil in die Obhut der Heiler gegeben. Ihr Austausch mit Hydaelyn hat sie augenscheinlich stärker erschöpft, als sie zuzugeben bereit war. Sie sollte aber mit etwas Ruhe schnell wieder genesen."
+60,TEXT_AKTKMC101_04399_YSHTOLA_000_035,"Die anderen sind ebenfalls verblieben, um das Ilsabard-Korps bei der Versorgung der Verwundeten und der Heilung der Besessenen zu unterstützen."
+61,TEXT_AKTKMC101_04399_YSHTOLA_000_036,"Aber viel wichtiger ist: Was hat sich hier ereignet? Unser ... Gastgeber hier sieht aus wie eines der Phantome aus Amaurot, wenn ich mich nicht täusche ...?"
+62,TEXT_AKTKMC101_04399_WATCHEROFMOON_000_037,"**Der Eindruck trügt nicht, junge Dame. Ich bin der Mondwächter und wurde gemeinsam mit diesem Ort hier von Hydaelyn erschaffen. Wie mein Name bereits andeutet, ist es ... oder besser gesagt *war* es meine Aufgabe, über den Mond und die Siegel, die Zodiark fesselten, zu wachen."
+63,TEXT_AKTKMC101_04399_YSHTOLA_000_038,Wie bitte? Zodiark ist *besiegt*?! Was ...? Aber das ...
+64,TEXT_AKTKMC101_04399_WATCHEROFMOON_000_039,"**Diese Heldin hier besiegelte das Ende der dunklen Gottheit. Allerdings hat dies bedauernswerte Folgen ... Die Ätherströme, die den Mond und den Planeten in einer delikaten Balance hielten, beginnen nun, sich aufzulösen. Die Letzten Tage werden erneut ihren Lauf nehmen - der Untergang des gesamten Planeten."
+65,TEXT_AKTKMC101_04399_WATCHEROFMOON_000_040,"**Um dieses finstere Schicksal abzuwenden, werdet ihr mei..."
+66,TEXT_AKTKMC101_04399_THANCRED_000_041,Was ist?! Alles in Ordnung?
+67,TEXT_AKTKMC101_04399_WATCHEROFMOON_000_042,"**Verzeiht. Um Zodiarks Entkommen zu verhindern, habe ich versucht, die Siegelmagie aufrechtzuerhalten ... Die Anstrengung fordert nun wohl ihren Tribut ..."
+68,TEXT_AKTKMC101_04399_WATCHEROFMOON_000_043,"**Bitte, gestattet mir einen Moment der Ruhe. Dann werde ich all eure Fragen beantworten."
+69,TEXT_AKTKMC101_04399_YSHTOLA_000_044,"Aber natürlich. Sagt Bescheid, wenn Ihr Euch erholt habt."
+70,TEXT_AKTKMC101_04399_YSHTOLA_000_045,"Diese Kristalle hier beinhalten Auf­zeich­nun­gen Eurer Zeit hier auf dem Mond, habe ich Recht? Würde es Euch etwas ausmachen, wenn wir sie betrachten, während Ihr Euch ausruht?"
+71,TEXT_AKTKMC101_04399_WATCHEROFMOON_000_046,"**Aber natürlich. Wenn ihr sie in chronologischer Reihenfolge betrachten möchtet, empfehle ich, im obersten Stockwerk zu beginnen ..."
+72,TEXT_AKTKMC101_04399_YSHTOLA_000_047,"Dann wollen wir uns doch mal etwas umschauen, solange unser Gastgeber sich erholt. Willst du dich oben umsehen, Player?"
+73,TEXT_AKTKMC101_04399_THANCRED_000_050,"Zodiark ist geschlagen. <schnaub> So manchem Ascian würde der Spott im Halse stecken bleiben, wenn er wüsste, dass eine Unvollkommene ihre großartigste Schöpfung in Stücke gehauen hat."
+74,TEXT_AKTKMC101_04399_THANCRED_000_051,"Ich glaube, der Untergang Zodiarks war am Ende unvermeidlich. Schließlich war das auch von Anfang an Fandaniels Plan."
+75,TEXT_AKTKMC101_04399_THANCRED_000_052,"Aber wenn du ihn nicht aufgehalten hättest, hätte er wohl weiter alles darangesetzt, Tod und Leid über die Welt zu bringen, und das mit der nicht unerheblichen Hilfe Zodiarks. Insofern ist dieses Szenario vielleicht nicht ideal, aber zumindest das kleinere Übel."
+76,TEXT_AKTKMC101_04399_URIANGER_000_055,Ob der Ascian hier seit der Einkerkerung Zodiarks auf dem Mond Wacht hält?
+77,TEXT_AKTKMC101_04399_URIANGER_000_056,Möglicherweise ist in diesen Auf­zeich­nun­gen sein ganzes Lebenswerk festgehalten. Wir sollten sie sorgfältig studieren.
+78,TEXT_AKTKMC101_04399_YSHTOLA_000_060,"Um so viel zu erfahren wie möglich, sollte jeder von uns einen Bereich über­nehmen. Sondiere du oben die Kristalle, ich begutachte die hier unten. Du solltest sie lesen können, indem du dich konzentrierst und deinen Geist öffnest. Du wirst sehen, es ist nicht schwer ..."
+79,TEXT_AKTKMC101_04399_WATCHEROFMOON_000_065,"**Noch einen Moment ... der Ruhe, bitte ..."
+80,TEXT_AKTKMC101_04399_SYSTEM_000_070,Du öffnest dem Kristall deinen Geist und vor deinem inneren Auge erscheinen uralte Auf­zeich­nun­gen über Zodiark.
+81,TEXT_AKTKMC101_04399_MEMORYA04399_000_071,"(-Kristallisierte Erinnerungen-)**Heute keine Auffälligkeiten. Alle Siegel intakt ...
+Heute keine Auffälligkeiten. Alle Siegel intakt ... ...
+Heute keine Auffälligkeiten. Alle Siegel intakt ... ... ..."
+82,TEXT_AKTKMC101_04399_SYSTEM_000_072,"Diese Auf­zeich­nun­gen scheinen bis zur Zersplitterung des Planeten zurückzureichen und sind Zeuge einer langen, langen Wacht."
+83,TEXT_AKTKMC101_04399_SYSTEM_000_080,Du öffnest dem Kristall deinen Geist und vor deinem inneren Auge erscheinen Erinnerungen an eine große Katastrophe.
+84,TEXT_AKTKMC101_04399_SYSTEM_000_081,(-Uralte Auf­zeich­nun­gen-)Mit ein jeder Verschmelzung eines Splitters mit dem Ursprung wächst Zodiarks Drang nach Freiheit. Die Siegel sind aufs Äußerste strapaziert. Wie lange wird Hydaelyns Wille noch dem des dunklen Gottes standhalten?
+85,TEXT_AKTKMC101_04399_SYSTEM_000_082,In den Auf­zeich­nun­gen schwingt ein Gefühl von Erschöpfung und Sorge mit. Die Aufrechterhaltung der Siegel scheint stark an Hydaelyns Kräften zu zehren ...
+86,TEXT_AKTKMC101_04399_SYSTEM_000_090,Du öffnest dem Kristall deinen Geist und vor deinem inneren Auge erscheinen weitere Auf­zeich­nun­gen einer Verschmelzung mit dem Ursprung.
+87,TEXT_AKTKMC101_04399_SYSTEM_000_091,"(-Uralte Auf­zeich­nun­gen-)Der Mondwächter befürchtet, dass Hydaelyns Kräfte bald schwinden und die Siegel gebrochen werden könnten. Er erwägt es offenbar, Vor­bereitungen zu treffen."
+88,TEXT_AKTKMC101_04399_SYSTEM_000_092,"Die Auf­zeich­nun­gen enthalten Berichte über regelmäßige Wartungsintervalle, die gemeinsam mit gewissen „Loporrit“ durchgeführt werden. Es ist allerdings unklar, wer oder was diese Loporrit sind."
+89,TEXT_AKTKMC101_04399_SYSTEM_000_100,Du öffnest dem Kristall deinen Geist und vor deinem inneren Auge erscheinen Erinnerungen an einen unerwarteten Besucher.
+90,TEXT_AKTKMC101_04399_SYSTEM_000_101,"Der Eintrag berichtet davon, dass Elidibus auf dem Mond erschienen sei, um dem dunklen Gott nahe zu sein, mit dem er auf so besondere Weise verbunden war."
+91,TEXT_AKTKMC101_04399_MEMORYB04399_000_102,"(-Kristallisierte Erinnerungen-)**Die Fraktion um Elidibus strebt danach, Zodiark aus seinem Gefängnis zu befreien, doch ihnen ist offenbar klar geworden, dass sie selbst niemals dazu in der Lage sein werden. Und so bleibt ihnen nichts anderes übrig, als auf den Tag zu warten, an dem alle Splitter wieder mit dem Ursprung vereint sind. Bis dahin wird der Mond sowohl als Zelle als auch als Zuflucht des dunklen Gottes dienen ..."
+92,TEXT_AKTKMC101_04399_MEMORYB04399_000_103,"(-Kristallisierte Erinnerungen-)**Denn sie wissen, dass wir es niemals wagen würden, Zodiark zu vernichten, solange er eingesperrt bleibt ..."
+93,TEXT_AKTKMC101_04399_YSHTOLA_000_110,Konntest du aus den Kristallen etwas Nützliches erfahren?
+94,TEXT_AKTKMC101_04399_YSHTOLA_000_111,Also hat Hydaelyn tatsächlich ihre gesamten Kräfte in die Aufrechterhaltung der Siegel fließen lassen ...
+95,TEXT_AKTKMC101_04399_YSHTOLA_000_112,"Das erklärt, warum es seit der Siebten Katastrophe immer schwieriger geworden ist, mit ihr in Kontakt zu treten."
+96,TEXT_AKTKMC101_04399_YSHTOLA_000_113,Ich habe hier im unteren Stock ebenfalls eine sehr ... interessante Entdeckung gemacht.
+97,TEXT_AKTKMC101_04399_YSHTOLA_000_114,"Dieser Mond hier, auf dem wir stehen, der *ganze* Himmelskörper, wurde von Hydaelyn selbst erschaffen."
+98,TEXT_AKTKMC101_04399_YSHTOLA_000_115,"Als der Mondwächter sagte, er sei gemeinsam mit diesem Ort erschaffen worden, dachte ich, er meinte diesen Palast! Trotz der Zersplitterung muss Hydaelyns Macht unglaublich gewesen sein, wenn sie etwas Gewaltiges wie einen Mond aus dem Nichts erschaffen konnte ..."

@@ -1,0 +1,64 @@
+0,TEXT_BANQIQ111_03816_SEQ_00,"**Règle spéciale :  synchronisation de quête avec limitation de job ou de classe**
+** Il n'est possible de progresser dans cette quête qu'avec la classe qui a servi à la commencer.*
+
+Qhoterl Pasol a besoin d'ingrédients pour colorant."
+1,TEXT_BANQIQ111_03816_SEQ_01,Livrer ce qui vous a été demandé à Qhoterl Pasol
+2,TEXT_BANQIQ111_03816_SEQ_02,
+3,TEXT_BANQIQ111_03816_SEQ_03,
+4,TEXT_BANQIQ111_03816_SEQ_04,
+5,TEXT_BANQIQ111_03816_SEQ_05,
+6,TEXT_BANQIQ111_03816_SEQ_06,
+7,TEXT_BANQIQ111_03816_SEQ_07,
+8,TEXT_BANQIQ111_03816_SEQ_08,
+9,TEXT_BANQIQ111_03816_SEQ_09,
+10,TEXT_BANQIQ111_03816_SEQ_10,
+11,TEXT_BANQIQ111_03816_SEQ_11,
+12,TEXT_BANQIQ111_03816_SEQ_12,
+13,TEXT_BANQIQ111_03816_SEQ_13,
+14,TEXT_BANQIQ111_03816_SEQ_14,
+15,TEXT_BANQIQ111_03816_SEQ_15,
+16,TEXT_BANQIQ111_03816_SEQ_16,
+17,TEXT_BANQIQ111_03816_SEQ_17,
+18,TEXT_BANQIQ111_03816_SEQ_18,
+19,TEXT_BANQIQ111_03816_SEQ_19,
+20,TEXT_BANQIQ111_03816_SEQ_20,
+21,TEXT_BANQIQ111_03816_SEQ_21,
+22,TEXT_BANQIQ111_03816_SEQ_22,
+23,TEXT_BANQIQ111_03816_SEQ_23,
+24,TEXT_BANQIQ111_03816_TODO_00,Extraire  dans la forêt interdite d'Yx'Maja
+25,TEXT_BANQIQ111_03816_TODO_01,
+26,TEXT_BANQIQ111_03816_TODO_02,
+27,TEXT_BANQIQ111_03816_TODO_03,
+28,TEXT_BANQIQ111_03816_TODO_04,
+29,TEXT_BANQIQ111_03816_TODO_05,
+30,TEXT_BANQIQ111_03816_TODO_06,
+31,TEXT_BANQIQ111_03816_TODO_07,
+32,TEXT_BANQIQ111_03816_TODO_08,
+33,TEXT_BANQIQ111_03816_TODO_09,
+34,TEXT_BANQIQ111_03816_TODO_10,
+35,TEXT_BANQIQ111_03816_TODO_11,
+36,TEXT_BANQIQ111_03816_TODO_12,
+37,TEXT_BANQIQ111_03816_TODO_13,
+38,TEXT_BANQIQ111_03816_TODO_14,
+39,TEXT_BANQIQ111_03816_TODO_15,
+40,TEXT_BANQIQ111_03816_TODO_16,
+41,TEXT_BANQIQ111_03816_TODO_17,
+42,TEXT_BANQIQ111_03816_TODO_18,
+43,TEXT_BANQIQ111_03816_TODO_19,
+44,TEXT_BANQIQ111_03816_TODO_20,
+45,TEXT_BANQIQ111_03816_TODO_21,
+46,TEXT_BANQIQ111_03816_TODO_22,
+47,TEXT_BANQIQ111_03816_TODO_23,
+48,TEXT_BANQIQ111_03816_QHOTERLPASOL_000_000,Player connaître textile traditionnel des Qitari ? Douuux et soyeux au toucher ! Qitari utiliser uniquement matériaux naturels. Explorateurs être ravis de travailler dans tenue confortable !
+49,TEXT_BANQIQ111_03816_QHOTERLPASOL_000_001,"Qhoterl Pasol vouloir con­fec­tion­ner tenues toutes neuuuves, mais manquer de colorant ! Player être d'accord pour aller récupérer de quoi en faire, pas vrai ?"
+50,TEXT_BANQIQ111_03816_QHOTERLPASOL_000_010,"Pour fabriquer joli colorant, avoir besoin de trois  ! Player aller à forêt d'Yx'Maja et extraire !"
+51,TEXT_BANQIQ111_03816_QHOTERLPASOL_000_020,"Pour fabriquer joli colorant, avoir besoin de trois  ! Player aller à forêt d'Yx'Maja et récolter !"
+52,TEXT_BANQIQ111_03816_QHOTERLPASOL_000_030,"Pour fabriquer joli colorant, avoir besoin  ! Player utiliser  et pêcher en aval de Nostalgie de Mjrl !"
+53,TEXT_BANQIQ111_03816_QHOTERLPASOL_000_040,"Pour fabriquer joli colorant, avoir besoin de trois  ! Player aller à forêt d'Yx'Maja et extraire !"
+54,TEXT_BANQIQ111_03816_QHOTERLPASOL_000_050,"Pour fabriquer joli colorant, avoir besoin de trois  ! Player aller à forêt d'Yx'Maja et récolter !"
+55,TEXT_BANQIQ111_03816_QHOTERLPASOL_000_060,"Pour fabriquer joli colorant, avoir besoin  ! Player utiliser  et pêcher en aval de Nostalgie de Mjrl !"
+56,TEXT_BANQIQ111_03816_QHOTERLPASOL_000_070,"Avoir trouvé de quoi fabriquer colorant, hein ? Qhoterl Pasol déjà sentir odeur !"
+57,TEXT_BANQIQ111_03816_QHOTERLPASOL_000_080,Parfait parfait ! Textile traditionnel des Qitari pouvoir revêtir plus belles couleuuurs !
+58,TEXT_BANQIQ111_03816_QHOTERLPASOL_000_081,"Player vouloir petit cours de cuuulture générale ? Techniques de tissage des Qitari être directement inspirées par géométrie ronka ! Boucher coin à Player, hein ?"
+59,TEXT_BANQIQ111_03816_QHOTERLPASOL_000_082,"Géométrie ronka être pleine de symboles ! Par exemple, croisement de deux lignes droites représenter coopération et échange, couuurbe représenter éternité et puissance... Profond profond !"
+60,TEXT_BANQIQ111_03816_QHOTERLPASOL_000_083,"Moralité : plus Player coopérer et échanger avec Qitari, plus être puissante pour éternité !"

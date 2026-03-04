@@ -1,0 +1,116 @@
+0,TEXT_BANIXA003_01488_SEQ_00,"**Règle spéciale :  synchronisation de quête**
+* *Avant de commencer cette quête, il est recommandé d'être au niveau 3 minimum pour les disciples de la main, et au niveau 41 minimum pour les disciples de la guerre et de la magie.*
+
+Sezul Totoloc, le chef des Planeurs d'Ehcatl, semble assez inquiet."
+1,TEXT_BANIXA003_01488_SEQ_01,"* *Cette quête est ** synchronisée** avec votre niveau.*
+
+Sezul Totoloc vous a demandé de retrouver la trace de Bozol Eduan, un émérite ingénieur des Planeurs d'Ehcatl parti récupérer . Il devrait se trouver quelque part aux alentours des sources de l'Aulne, dans la Forêt du nord. Allez le chercher."
+2,TEXT_BANIXA003_01488_SEQ_02,"Au moment où vous l'avez retrouvé, Bozol était plutôt mal en point... Il avait été pris à partie par les Ixali subjugués du site de déboisement, qui n'ont pas manqué de vous menacer avant de quitter les lieux. Écoutez ce que l'ingénieur a à vous dire."
+3,TEXT_BANIXA003_01488_SEQ_03,"Incapable de poursuivre sa mission, Bozol vous a confié la fabrication . Rendez-vous à l'installation d'artisanat située aux écuries des Murmures et remettez  à Nellemond."
+4,TEXT_BANIXA003_01488_SEQ_04,"Maintenant que vous avez parlé à Nellemond, servez-vous du kit de matériaux en votre possession pour fabriquer  et rapportez-le à Sezul Totoloc au centre d'essais d'Ehcatl.
+* *Adressez-vous de nouveau à Nellemond si vous n'avez plus de matériaux ou si vous avez perdu l'effet Installation : finition.*"
+5,TEXT_BANIXA003_01488_SEQ_05,"Malgré ses inquiétudes pour son subordonné, le chef des Planeurs d'Ehcatl était ravi de recevoir  de vos mains. Mais qu'adviendrait-il du Dezul Qualan sachant que Bozol ne pouvait plus remplir ses fonctions ? Le malin Tataramu y a vu une belle opportunité pour offrir sa col­la­bo­ra­tion à Sezul, et c'est ainsi que le Lalafell et vous êtes devenus des Planeurs à part entière. Les heures sup­plé­men­tai­res ne font que commencer !"
+6,TEXT_BANIXA003_01488_SEQ_06,
+7,TEXT_BANIXA003_01488_SEQ_07,
+8,TEXT_BANIXA003_01488_SEQ_08,
+9,TEXT_BANIXA003_01488_SEQ_09,
+10,TEXT_BANIXA003_01488_SEQ_10,
+11,TEXT_BANIXA003_01488_SEQ_11,
+12,TEXT_BANIXA003_01488_SEQ_12,
+13,TEXT_BANIXA003_01488_SEQ_13,
+14,TEXT_BANIXA003_01488_SEQ_14,
+15,TEXT_BANIXA003_01488_SEQ_15,
+16,TEXT_BANIXA003_01488_SEQ_16,
+17,TEXT_BANIXA003_01488_SEQ_17,
+18,TEXT_BANIXA003_01488_SEQ_18,
+19,TEXT_BANIXA003_01488_SEQ_19,
+20,TEXT_BANIXA003_01488_SEQ_20,
+21,TEXT_BANIXA003_01488_SEQ_21,
+22,TEXT_BANIXA003_01488_SEQ_22,
+23,TEXT_BANIXA003_01488_SEQ_23,
+24,TEXT_BANIXA003_01488_TODO_00,Localiser Bozol Eduan près des sources de l'Aulne
+25,TEXT_BANIXA003_01488_TODO_01,Parler à Bozol Eduan
+26,TEXT_BANIXA003_01488_TODO_02,"Remettre  à Nellemond, aux écuries des Murmures"
+27,TEXT_BANIXA003_01488_TODO_03,Fabriquer 
+28,TEXT_BANIXA003_01488_TODO_04,
+29,TEXT_BANIXA003_01488_TODO_05,
+30,TEXT_BANIXA003_01488_TODO_06,
+31,TEXT_BANIXA003_01488_TODO_07,
+32,TEXT_BANIXA003_01488_TODO_08,
+33,TEXT_BANIXA003_01488_TODO_09,
+34,TEXT_BANIXA003_01488_TODO_10,
+35,TEXT_BANIXA003_01488_TODO_11,
+36,TEXT_BANIXA003_01488_TODO_12,
+37,TEXT_BANIXA003_01488_TODO_13,
+38,TEXT_BANIXA003_01488_TODO_14,
+39,TEXT_BANIXA003_01488_TODO_15,
+40,TEXT_BANIXA003_01488_TODO_16,
+41,TEXT_BANIXA003_01488_TODO_17,
+42,TEXT_BANIXA003_01488_TODO_18,
+43,TEXT_BANIXA003_01488_TODO_19,
+44,TEXT_BANIXA003_01488_TODO_20,
+45,TEXT_BANIXA003_01488_TODO_21,
+46,TEXT_BANIXA003_01488_TODO_22,
+47,TEXT_BANIXA003_01488_TODO_23,
+48,TEXT_BANIXA003_01488_SEZULTOTOLOC_000_000,"Crroooaac ! Comment va celle-là ? Justement, celui-ci avait besoin de la voir pour lui parler de sa prochaine mission."
+49,TEXT_BANIXA003_01488_SEZULTOTOLOC_000_001,Celle-là a déjà rencontré un dénommé Bozol Eduan ? C'est l'Ixal qui s'occupe de la conception du moteur... Celle-là sera ravie d'apprendre que ça fait déjà un moment que Bozol n'a pas pointé le bout de son bec dans notre centre d'essais !
+50,TEXT_BANIXA003_01488_SEZULTOTOLOC_000_002,"La dernière fois que celui-ci l'a vu, Bozol allait partir récupérer , un truc sans lequel le vaisseau ne pourra jamais s'envoler ! Si jamais ceux-ci ne mettent pas la main dessus, c'en est fini de leur beau rêve..."
+51,TEXT_BANIXA003_01488_SEZULTOTOLOC_000_003,"Celle-là doit im­mé­dia­te­ment partir à la recherche de Bozol et le ramener ici au plus vite ! Celle-là le trouvera... quelque part au sud, oui, voilà !"
+52,TEXT_BANIXA003_01488_SEZULTOTOLOC_000_004,Celle-là doit savoir que Bozol n'est pas un Planeur comme les autres... Personne d'autre ne manie mieux les boulons et les circuits électriques ! Un vrai petit génie !
+53,TEXT_BANIXA003_01488_SEZULTOTOLOC_000_005,"En d'autres termes, Bozol est absolument in­dis­pen­sa­ble au bon déroulement de nos opérations ! Ceux-ci ont besoin d'un moteur surpuissant, et grâce aux fameuses ailes éthérées, sa force de propulsion sera tout simplement gigantesque ! Un événement sans précédent se prépare, et les Planeurs d'Ehcatl en seront les instigateurs !"
+54,TEXT_BANIXA003_01488_BOZOLEDUAN_000_010,Aïe... Celui-ci a mal au bras...
+55,TEXT_BANIXA003_01488_BOZOLEDUAN_000_011,"Crrooaac !? Qu'est-ce que celle-là veut à celui-ci ?
+... Hein ? C'est oncle Sezul qui l'envoie ?"
+56,TEXT_BANIXA003_01488_BOZOLEDUAN_000_012,N-non non non ! Celle-là ne doit pas s'approcher de celui-ci ! Les autres sont peut-être toujours... Crroac !?
+57,TEXT_BANIXA003_01488_IXALBOSS_000_013,"(-Gradé ixal-)Ha ha ha ha ! Celui-là croyait peut-être qu'il allait réussir à s'enfuir ? Pauvre petit poussin ! Celui-là ferait mieux de rejoindre les rangs de ceux-ci, ou celui-ci s'occupera personnellement de son cas !"
+58,TEXT_BANIXA003_01488_BOZOLEDUAN_000_014,Encore ceux-là ? Qu'est-ce que ceux-là veulent à celui-ci maintenant ? Que ceux-là aillent retrouver leur déesse adorée et laissent celui-ci tranquille !
+59,TEXT_BANIXA003_01488_IXALBOSS_000_015,"(-Gradé ixal-)Oh ho ho, mais celui-là a de la compagnie, à ce que celui-ci voit ! Ça doit faire chaud au cœur après avoir été jeté hors de sa tribu comme une vieille chaussette, hihihi !"
+60,TEXT_BANIXA003_01488_IXALBOSS_000_016,"(-Gradé ixal-)Inutile de résister, bande de larves ! Si ceux-là obéissent à ceux-ci, peut-être que ceux-ci les épargneront ! Enfin, si maîtresse Garuda en décide ainsi, hé hé hé..."
+61,TEXT_BANIXA003_01488_IXALBOSS_000_017,(-Gradé ixal-)... Crrrooaac !? Une sans-plumes ? Qu'est-ce que celle-là fait ici ? Et que celle-là baisse les yeux quand celui-ci lui parle !
+62,TEXT_BANIXA003_01488_IXALBOSS_000_018,"(-Gradé ixal-)Hm ! Aucun doute, c'est encore un coup de ce traître de Sezul... Écoutez bien celui-ci ! Que ceux-là aillent dire à leur chef que les adorateurs de Garuda lui cloueront définitivement le bec un jour ou l'autre ! Et aucune de ses manigances ne pourra le sauver, hi hi hi hi !"
+63,TEXT_BANIXA003_01488_IXALBOSS8_000_019,"(-Gradé ixal-)Tel est le seul destin possible pour les Ixali qui bravent l'autorité de la Souffleuse de rafales... Ah, maîtresse Garuda... Ceux-ci seront les esclaves de sa beauté à tout jamais..."
+64,TEXT_BANIXA003_01488_BOZOLEDUAN_000_030,Ouf... ouf... Ceux-ci l'ont échappé belle...
+65,TEXT_BANIXA003_01488_BOZOLEDUAN_000_031,"Les Ixali que celle-là vient de voir ont pris pour fief le site de déboisement situé dans la Forêt du nord. Ce sont les ennemis jurés des Planeurs d'Ehcatl, des pourritures qui ne reculent devant rien pour nous nuire..."
+66,TEXT_BANIXA003_01488_BOZOLEDUAN_000_032,"... Croac ! Aïe aïe aïe, celui-ci ne peut même plus bouger son bras... Et maintenant que ses outils préférés ont été dérobés, qu'est-ce que celui-ci va devenir ?"
+67,TEXT_BANIXA003_01488_BOZOLEDUAN_000_033,"C'est embêtant, mais celui-ci va être obligé de demander de l'aide à une sans-plumes... Celle-là veut bien se dévouer ?"
+68,TEXT_BANIXA003_01488_BOZOLEDUAN_000_034,"Si celle-là pouvait apporter à oncle Sezul cet assortiment de matériaux in­dis­pen­sa­bles pour la fabrication  de haute qualité, tous les Planeurs lui en seraient grandement re­con­nais­sants !"
+69,TEXT_BANIXA003_01488_BOZOLEDUAN_000_035,Ce composant est un élément in­dis­pen­sa­ble au bon fonc­tion­ne­ment d'un moteur au céruleum. Rien de mieux qu'une plaque d'acier solide comme celle-là pour contenir une telle puissance !
+70,TEXT_BANIXA003_01488_BOZOLEDUAN_001_035,Ce composant est un élément in­dis­pen­sa­ble au bon fonc­tion­ne­ment d'un moteur au céruleum. Rien de mieux qu'un bon graissage comme celui-là pour maximiser sa puissance !
+71,TEXT_BANIXA003_01488_BOZOLEDUAN_002_035,Ce composant est un élément in­dis­pen­sa­ble au bon fonc­tion­ne­ment d'un moteur au céruleum. Rien de mieux qu'un bon amortisseur comme celui-là pour maintenir les circuits en place !
+72,TEXT_BANIXA003_01488_BOZOLEDUAN_002_036,"Ce composant est un élément in­dis­pen­sa­ble au bon fonc­tion­ne­ment d'un moteur au céruleum. Sans ça, ceux-ci peuvent d'ores et déjà dire adieu à leur rêve!"
+73,TEXT_BANIXA003_01488_BOZOLEDUAN_000_037,Celui-ci confie donc of­fi­ciel­le­ment à celle-là la charge de le fabriquer !
+74,TEXT_BANIXA003_01488_BOZOLEDUAN_000_038,"Celui-ci a entendu dire que les sans-plumes avaient construit une installation d'artisanat aux écuries des Murmures, à l'est d'ici. Un certain Nellemond devrait pouvoir y aider celle-là. Bonne route !"
+75,TEXT_BANIXA003_01488_BOZOLEDUAN_000_039,"Croac ! Aïe... Le bras de celui-ci le relance... Que celle-là se dépêche, et oncle Sezul la récompensera..."
+76,TEXT_BANIXA003_01488_BOZOLEDUAN_100_039,"Crrooaaac !! Qu'est-ce que celui-ci a mal, mais qu'est-ce que celui-ci a mal... Que celle-là aille vite voir ce Nellemond aux écuries des Murmures, surtout..."
+77,TEXT_BANIXA003_01488_SEZULTOTOLOC_200_039,Mais qu'est-ce qui a bien pu arriver à Bozol ? C'est pourtant pas le genre à s'amuser en chemin... Celui-ci craint le pire...
+78,TEXT_BANIXA003_01488_NELLEMOND_000_040,"Bienvenue à l'installation d'artisanat des Montures Mog, aventurière. Nos services sont disponibles pour tous ceux ayant les moyens et les compétences pour les utiliser."
+79,TEXT_BANIXA003_01488_NELLEMOND_000_041,"Vous avez l'intention de me confier , si je ne m'abuse ? Notre installation n'est pas encore com­plè­te­ment terminée, mais vous devriez y trouver tous les appareils dont vous aurez besoin pour mener à bien votre travail."
+80,TEXT_BANIXA003_01488_NELLEMOND_000_042,"Pour ce faire, il ne vous reste plus qu'à utiliser ces matériaux prêts à servir im­mé­dia­te­ment, et que Byregot soit avec vous !"
+81,TEXT_BANIXA003_01488_NELLEMOND_000_043,L'installation d'artisanat des Montures Mog est ouverte à tous les aventuriers désireux de mettre à profit leur créativité. Nous vous souhaitons bonne chance dans votre recherche de la perfection artisanale.
+82,TEXT_BANIXA003_01488_NELLEMOND_000_044,"Puisque vous semblez avoir terminé votre commande, je ne peux que vous conseiller de l'apporter à son des­ti­na­tai­re. Si jamais il vous arrivait de l'égarer, n'hésitez pas à revenir me voir pour que je vous donne l'au­to­ri­sa­tion d'utiliser notre équipement à nouveau."
+83,TEXT_BANIXA003_01488_SEZULTOTOLOC_000_060,"Ah, c'est pas trop tôt ! Bozol a tout raconté à celui-ci ! Celle-là a réussi à fabriquer le composant ?"
+84,TEXT_BANIXA003_01488_SEZULTOTOLOC_000_061,"Eh ben, on peut vraiment compter sur celle-là... Non seulement Bozol est sauvé, mais le composant est tout simplement parfait !"
+85,TEXT_BANIXA003_01488_SEZULTOTOLOC_100_061,"Que celle-là ne s'inquiète pas, celui-ci saura la récompenser comme il se doit ! Quant à ces maudits subjugués..."
+86,TEXT_BANIXA003_01488_SEZULTOTOLOC_000_062,"Quand est-ce que ces crétins comprendront que leur satanée déesse ne les aidera jamais à retrouver leurs ailes ? Si jamais celui-ci les attrape un jour, celui-ci leur fera comprendre leur malheur !"
+87,TEXT_BANIXA003_01488_TATARAMU_000_063,"... Déesse ? Ai-je bien entendu ? Vous voulez sûrement parler de la Primordiale Garuda, n'est-ce pas ?"
+88,TEXT_BANIXA003_01488_SEZULTOTOLOC_000_064,"Que celui-là écoute quand celui-ci parle ! Celui-là réalise-t-il qu'un ballon n'est rien sans une force motrice contrôlable pour le faire aller de l'avant ? Sans ça, un ballon est comme une vulgaire plume qui virevolte selon les caprices du vent !"
+89,TEXT_BANIXA003_01488_SEZULTOTOLOC_000_065,"Voilà pourquoi les semblables de celui-ci utilisent des “pierres de vent”, spé­cia­le­ment créées pour contrôler les ballons... Et qui en est à l'origine ? Cette maudite Garuda, bien sûr !"
+90,TEXT_BANIXA003_01488_SEZULTOTOLOC_000_066,"Comme leur nom l'indique, ces pierres servent à produire des courants d'air plus ou moins puissants, mais si ceux-là veulent l'avis de celui-ci, les pierres manquent nettement de puissance ! En plus, il est hors de question de s'en remettre à quoi que ce soit issu de cette sorcière !"
+91,TEXT_BANIXA003_01488_SEZULTOTOLOC_000_067,"Primordiale, Primordiale... le cul de celui-ci, oui ! Tout ce que Garuda sait faire à part brailler sans arrêt, c'est de forcer les Ixali subjugués d'obéir au moindre de ses ordres, sans jamais rendre de service en retour !"
+92,TEXT_BANIXA003_01488_SEZULTOTOLOC_000_068,"Il est donc hors de question que ceux-ci s'en remettent à la déesse de malheur de quelque manière que ce soit ! Les artisans sans-plumes sont cent fois plus dignes de confiance, et leur technologie bien plus utile ! "
+93,TEXT_BANIXA003_01488_TATARAMU_000_069,"Je comprends mieux à présent... Les Ixali ayant juré fidélité à Garuda considèrent les Planeurs d'Ehcatl comme des traîtres, des vendus aux sans-plumes, comme vous nous appelez..."
+94,TEXT_BANIXA003_01488_SEZULTOTOLOC_000_070,"Bah, qu'importent ces médisances ! Ceux-ci n'ont que faire des flatteries des humains, et si leurs semblables ont décidé de gâcher leur existence à servir d'esclaves à une Primordiale, ce sera bien fait pour eux ! Les Planeurs d'Ehcatl n'ont qu'un seul but : réaliser leur rêve en parcourant les cieux comme leurs ancêtres, et puis c'est tout !"
+95,TEXT_BANIXA003_01488_SEZULTOTOLOC_000_071,"Le problème, c'est qu'avec Bozol incapable de travailler, il manque maintenant à ceux-ci un élément clef pour achever le Dezul Qualan... Qui va s'occuper de réaliser les plans à sa place, hein ?"
+96,TEXT_BANIXA003_01488_TATARAMU_000_072,... Chef ! Laissez-moi faire ! Je vous jure que je ne vous décevrai pas !
+97,TEXT_BANIXA003_01488_SEZULTOTOLOC_000_073,"Croac ? Un nabot sans-plumes veut remplacer Bozol ? Celui-ci croit que celui-là n'a pas tout à fait compris son rôle dans cette histoire... Celui-là n'est qu'un apprenti et il doit agir comme tel, pigé ?"
+98,TEXT_BANIXA003_01488_TATARAMU_000_074,"Mais écoutez-moi un peu avant de vous énerver pour rien sans arrêt ! Ça fait déjà un bon moment que je réfléchis à un moyen d'améliorer le rendement du moteur, et figurez-vous que je pense bien avoir trouvé une solution pour en diminuer notablement le poids !"
+99,TEXT_BANIXA003_01488_SEZULTOTOLOC_000_075,"Que le nabot ouvre bien ses esgourdes... Puisqu'il n'y pas d'autre alternative, celui-ci est prêt à lui donner une chance, mais si jamais celui-là lui a raconté des salades, sa colère sera terrible !!"
+100,TEXT_BANIXA003_01488_SEZULTOTOLOC_000_076,"... Après l'aventurière sans-plumes dans le rôle de l'artisane, voici le nabot sans-plumes dans celui de l'ingénieur... Et c'est quoi la prochaine étape, hein ? Un Mog à la réception ?"
+101,TEXT_BANIXA003_01488_SEZULTOTOLOC_000_077,"Bon, puisque ceux-ci n'ont pas le choix, ceux-là sont à partir d'aujourd'hui of­fi­ciel­le­ment membres à part entière des Planeurs d'Ehcatl ! Que ceux-là se montrent dignes de cet honneur !"
+102,TEXT_BANIXA003_01488_SYSTEM_000_500,"Grâce à vos efforts, les travaux autour du moteur du Dezul Qualan ont commencé ! Continuez comme ça !"
+103,TEXT_BANIXA003_01488_SYSTEM_000_100,Votre réputation auprès des Ixali des Planeurs d'Ehcatl est passée à “Reconnu”. Votre travail les a convaincus et vous faites maintenant of­fi­ciel­le­ment partie de leur groupe.
+104,TEXT_BANIXA003_01488_SYSTEM_000_101,Vous pouvez désormais lancer de nouvelles quêtes quotidiennes en vous adressant à Methuli Cattlan.
+105,TEXT_BANIXA003_01488_SYSTEM_000_102,（★未使用／削除予定★）
+106,TEXT_BANIXA003_01488_POPMESSAGE_000_200,Vous pouvez maintenant utiliser les installations d'artisanat.
+107,TEXT_BANIXA003_01488_SYSTEM_000_201,"Les objets de qualité normale fabriqués au cours de cette quête n'ayant aucune utilité et ne pouvant être vendus, il est recommandé de les jeter."
+108,TEXT_BANIXA003_01488_TATARAMU_000_006,（★未使用／削除予定★）

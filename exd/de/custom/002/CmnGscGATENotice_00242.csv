@@ -1,0 +1,7 @@
+0,TEXT_CMNGSCGATENOTICE_00242_TALK_ACTOR,Auf dem Platz der Wunder (Ost) findet in Kürze das GATE „Rettet meinen Begleiter!“ statt!
+1,TEXT_CMNGSCGATENOTICE_00242_TALK_SYSTEM,Das nächste GATE findet um 8:00 Uhr (Erdenzeit) auf dem Platz der Wunder (Ost) statt!
+2,TEXT_CMNGSCGATENOTICE_00242_GATE_IN_SESSION,"Das GATE „Rettet meinen Begleiter!“ findet gerade auf dem Platz der Wunder (Ost) statt! Beeil dich, wenn du teilnehmen möchtest!"
+3,TEXT_CMNGSCGATENOTICE_00242_WARP_QUERY,Zum GATE führen lassen?
+4,TEXT_CMNGSCGATENOTICE_00242_WARP_GO,Ja
+5,TEXT_CMNGSCGATENOTICE_00242_WARP_CANCEL,Nein
+6,TEXT_CMNGSCGATENOTICE_00242_GATE_CLOSE_SESSION,Das GATE „Rettet meinen Begleiter!“ findet gerade auf dem Platz der Wunder (Ost) statt! Sieh dir das Treiben auf der Showbühne an!

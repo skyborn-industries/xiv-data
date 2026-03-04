@@ -1,0 +1,23 @@
+0,TEXT_BAHAMUTGUIDETRAVEL_Q1_000_010,Was möchtest du tun?
+1,TEXT_BAHAMUTGUIDETRAVEL_A1_000_011,Die Voraus­setzungen für den Zugang erfahren
+2,TEXT_BAHAMUTGUIDETRAVEL_A1_000_012,„“ beginnen
+3,TEXT_BAHAMUTGUIDETRAVEL_A1_000_013,Abbrechen
+4,TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_050,Die „Verschlungenen Schatten von Bahamut - Begegnung“ bestehen aus mehreren Dungeons. In manchen dieser Dungeons kann keine Rückführung benutzt werden.
+5,TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_051,"Der Spielfortschritt wird in bestimmten Abständen für jeden Spieler einzeln gespeichert, so dass nach einem erneuten Betreten das Spiel an dieser Stelle fortgesetzt werden kann."
+6,TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_052,"Der Spielfortschritt wird wöchentlich zu diesem Zeitpunkt (Erdenzeit) wieder zurückgesetzt:
+Dienstag um 17:00 Uhr (Erdenzeit)"
+7,TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_053,"Für diese Instanz ist eine Gruppe von 8 Abenteurern erforderlich, die mindestens Stufe 50 als Krieger oder Magier erreicht haben."
+8,TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_054,Außerdem müssen alle Spieler den Auftrag „Ein neuer Primae“ beendet haben.
+9,TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_055,Der Startpunkt bestimmt sich nach dem Spielfortschritt des Gruppenanführers.
+10,TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_056,"Wenn die Zugangsvoraussetzungen erfüllt sind, kann ein Grup­pen­mit­glied, das noch nicht den Spielfortschritt des Gruppenanführers erreicht hat, zum Spielabschnitt des Gruppenanführers befördert werden."
+11,TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_0561,Dieses Grup­pen­mit­glied kann also die Mission vom selben Dungeon wie der Gruppenanführer aus fortsetzen.
+12,TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_057,"Allerdings werden weiter fort­ge­schrit­te­ne Grup­pen­mit­glieder nicht zurück zum Gruppenanführer versetzt, um sich mit ihm gemeinsam weiter vorzuarbeiten."
+13,TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_058,"Die Spielzeit für „Die Verschlungenen Schatten von Bahamut - Begegnung“ ist auf 90 Minuten begrenzt. Wenn die Zeit verstrichen ist, endet die Instanz und alle Grup­pen­mit­glieder werden aus dem Dungeon entfernt."
+14,TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_059,Zu diesem Zeitpunkt noch nicht eingesammeltes Beutegut wechselt automatisch in den Besitz der Spieler.
+15,TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_060,"Vorsicht: Wenn das Inventar voll ist, geht der Beutegegenstand verloren."
+16,TEXT_BAHAMUTGUIDETRAVEL_Q2_000_100,Die Instanz „“ beginnen?
+17,TEXT_BAHAMUTGUIDETRAVEL_A2_000_101,Ja
+18,TEXT_BAHAMUTGUIDETRAVEL_A2_000_102,Nein
+19,TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_110,"Die Instanz „“ konnte nicht betreten werden, da die Voraus­setzungen nicht erfüllt sind."
+20,TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_210,"Du hast die Instanz „Die Verschlungenen Schatten von Bahamut - Begegnung“ bereits absolviert. Du kannst sie erst wieder betreten, wenn dein Spielfortschritt zurückgesetzt wurde."
+21,TEXT_BAHAMUTGUIDETRAVEL_SYSTEM_000_211,Der Fortschritt wird jede Woche am Dienstag um 17:00 Uhr (Erdenzeit) wieder zurückgesetzt. Bitte warte bis zu diesem Zeitpunkt.

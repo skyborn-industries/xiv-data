@@ -1,0 +1,17 @@
+0,TEXT_CTSFCKATTENDANT_00454_TALK_ACTOR,"Guten Abend, womit kann ich dienen?"
+1,TEXT_CTSFCKATTENDANT_00454_TALK_QUEST_INCOMPLETE,"Ich bin Kasumi, die Assistentin von Maskierte Rose. Wenn du dich für seine Kleiderkritik interessierst, solltest du erst mal mit ihm sprechen."
+2,TEXT_CTSFCKATTENDANT_00454_GUIDEMENU_000_000,Was möchtest du fragen?
+3,TEXT_CTSFCKATTENDANT_00454_GUIDEMENU_001_000,Wie funktioniert die Kleiderkritik?
+4,TEXT_CTSFCKATTENDANT_00454_GUIDEMENU_002_000,Wie wird bewertet?
+5,TEXT_CTSFCKATTENDANT_00454_GUIDEMENU_003_000,Was für Preise gibt es?
+6,TEXT_CTSFCKATTENDANT_00454_GUIDEMENU_CANCEL,Nichts.
+7,TEXT_CTSFCKATTENDANT_00454_GUIDE_001_000,"Maskierte Rose stellt jede Woche ein modisches Thema, zu dem sich die Kandidaten entsprechend kleiden und dann von ihm bewerten lassen."
+8,TEXT_CTSFCKATTENDANT_00454_GUIDE_001_001,Herr Rose ist ein Ausnahmekritiker und - ganz unter uns - sein Urteil ist ziemlich streng. Du solltest die Veranstaltung nicht aufs leichte Schulterpolster nehmen.
+9,TEXT_CTSFCKATTENDANT_00454_SYSTEM_001_002,Das Thema der Kleiderkritik ändert sich jede Woche am Dienstag um 17:00 Uhr (Erdenzeit).
+10,TEXT_CTSFCKATTENDANT_00454_SYSTEM_001_003,Von Freitag um 17:00 Uhr bis Dienstag um 17:00 Uhr (Erdenzeit) kannst du dich bis zu vier Mal in Augenschein nehmen lassen.
+11,TEXT_CTSFCKATTENDANT_00454_SYSTEM_001_004,Den anderen Teil der Woche gönnt sich Maskierte Rose seinen verdienten Schön­heits­schlaf. In dieser Zeit findet keine Kleiderkritik statt.
+12,TEXT_CTSFCKATTENDANT_00454_GUIDE_002_000,"Bewertet wird auf einer Skala von 1 bis 100 Punkten. Pro Thema kannst du vier Mal antreten. Also Kopf hoch, wenn es beim ersten Mal nicht sofort klappt."
+13,TEXT_CTSFCKATTENDANT_00454_SYSTEM_002_001,"Die Bewertung erfolgt für die angewendeten Projektionen, nicht für die eigentliche Ausrüstung. Auch wird die Kopfbedeckung stets mit bewertet, selbst wenn sie ausgeblendet sein sollte."
+14,TEXT_CTSFCKATTENDANT_00454_GUIDE_003_000,Jede Woche erhältst du für deine erste Teilnahme MGP als Belohnung.
+15,TEXT_CTSFCKATTENDANT_00454_GUIDE_003_001,"Solltest du mehr als 80 Punkte erreichen, gibt es noch mal einen ordentlichen Bonus obendrauf. Also streng dich an, es lohnt sich!"
+16,TEXT_CTSFCKATTENDANT_00454_GUIDE_003_002,"Die Teilnahme an der Kleiderkritik berechtigt außerdem zum Einkauf besonderer Waren. Du siehst, es gibt Gewinner auf allen Seiten!"

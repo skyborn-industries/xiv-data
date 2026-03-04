@@ -1,0 +1,13 @@
+0,TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_000_000,Der Wind und der Himmel verraten viel über die Entwicklung des Wetters in allen Teilen der Welt. Hier sind meine heutigen Prognosen.
+1,TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_000_050,", sagst du? Da ist es momentan .
+Das Wetter bleibt im Verlauf des Tages .
+Der morgige Tag sollte dann  werden."
+2,TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_000_100,", sagst du? Da ist es heiter und trocken. So wie immer. Und so wird es auch morgen sein, es sei denn, es geschieht ein Wunder."
+3,TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_000_200,"Verzeihung, aber zurzeit können für Norvrandt keine Wettervorhersagen getroffen werden."
+4,TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_000_300,"Verzeihung, aber ... zurzeit vermag ich wirklich keine Wettervorhersage zu treffen ..."
+5,TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_000_400,"Verzeihung, aber ... zurzeit ist es schwer, eine ordentliche Vorhersage zu treffen ..."
+6,TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_100_000,"Herzlich willkommen beim Wetterkanal. Heute kann es stürmen, regnen oder schneien, wir sorgen dafür, dass du selbst strahlst wie der Sonnenschein - und dich für alles rüsten kannst, was vom Himmel fällt."
+7,TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_100_050,"In  ist es momentan .
+Das Wetter bleibt im Verlauf des Tages .
+Der morgige Tag wird voraussichtlich ."
+8,TEXT_CMNDEFWEATHERFORECAST_00204_WEATHERFORECAST_100_100,<piep piep> Unerwarteter Fehler. Die Wettervorhersage für diese Region ist momentan nicht verfügbar.

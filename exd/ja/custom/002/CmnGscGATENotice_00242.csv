@@ -1,0 +1,15 @@
+0,TEXT_CMNGSCGATENOTICE_00242_TALK_ACTOR,"「ワンダースクウェア東」にて、ゴールドソーサー主催による、
+「救出！ ミニオンレスキュー」の開催を予定しております。
+ぜひ、参加してくださいね！"
+1,TEXT_CMNGSCGATENOTICE_00242_TALK_SYSTEM,"次回の「G.A.T.E.」は、（地球時間）午前8時00分より、
+「ワンダースクウェア東」で開催されます。
+現地に現れる人物に話しかけて、参加してみましょう！"
+2,TEXT_CMNGSCGATENOTICE_00242_GATE_IN_SESSION,"ただいま、「救出！ ミニオンレスキュー」が、
+「ワンダースクウェア東」で開催中です。
+ぜひ、参加してくださいね！"
+3,TEXT_CMNGSCGATENOTICE_00242_WARP_QUERY,開催場所まで案内しますか？
+4,TEXT_CMNGSCGATENOTICE_00242_WARP_GO,はい
+5,TEXT_CMNGSCGATENOTICE_00242_WARP_CANCEL,いいえ
+6,TEXT_CMNGSCGATENOTICE_00242_GATE_CLOSE_SESSION,"ただいま、「救出！ ミニオンレスキュー」が、
+「ワンダースクウェア東」で開催中です。
+ぜひ、ステージをご観覧ください！"

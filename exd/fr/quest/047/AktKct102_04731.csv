@@ -1,0 +1,111 @@
+0,TEXT_AKTKCT102_04731_SEQ_00,"**Règle spéciale :  classe ou job fixe**
+Chora-Zoi a hâte de poser les mains sur un outil des merveilles."
+1,TEXT_AKTKCT102_04731_SEQ_01,"* *Cette quête fait l'objet de la règle spéciale ** classe ou job fixe**. Il n'est possible de progresser qu'avec la classe ou le job qui a servi à la commencer.*
+
+L'amélioration des outils des merveilles a démarré sur les chapeaux de roue, et pour parvenir à vos fins, vous êtes tenue de livrer des mar­chan­di­ses à Quinnana, qui vous fournira en retour les in­dis­pen­sa­bles matériaux. Donnez-les à Chora-Zoi en compagnie de votre outil lorsque vous aurez terminé votre part du travail."
+2,TEXT_AKTKCT102_04731_SEQ_02,Vous avez amélioré votre outil des merveilles. Continuez de prêter main-forte à Chora-Zoi pour qu'elle puisse faire émerger l'inspiration de ses tripes de métallurgiste !
+3,TEXT_AKTKCT102_04731_SEQ_03,
+4,TEXT_AKTKCT102_04731_SEQ_04,
+5,TEXT_AKTKCT102_04731_SEQ_05,
+6,TEXT_AKTKCT102_04731_SEQ_06,
+7,TEXT_AKTKCT102_04731_SEQ_07,
+8,TEXT_AKTKCT102_04731_SEQ_08,
+9,TEXT_AKTKCT102_04731_SEQ_09,
+10,TEXT_AKTKCT102_04731_SEQ_10,
+11,TEXT_AKTKCT102_04731_SEQ_11,
+12,TEXT_AKTKCT102_04731_SEQ_12,
+13,TEXT_AKTKCT102_04731_SEQ_13,
+14,TEXT_AKTKCT102_04731_SEQ_14,
+15,TEXT_AKTKCT102_04731_SEQ_15,
+16,TEXT_AKTKCT102_04731_SEQ_16,
+17,TEXT_AKTKCT102_04731_SEQ_17,
+18,TEXT_AKTKCT102_04731_SEQ_18,
+19,TEXT_AKTKCT102_04731_SEQ_19,
+20,TEXT_AKTKCT102_04731_SEQ_20,
+21,TEXT_AKTKCT102_04731_SEQ_21,
+22,TEXT_AKTKCT102_04731_SEQ_22,
+23,TEXT_AKTKCT102_04731_SEQ_23,
+24,TEXT_AKTKCT102_04731_TODO_00,Donner  ainsi que **60**  à Chora-Zoi
+25,TEXT_AKTKCT102_04731_TODO_01,
+26,TEXT_AKTKCT102_04731_TODO_02,
+27,TEXT_AKTKCT102_04731_TODO_03,
+28,TEXT_AKTKCT102_04731_TODO_04,
+29,TEXT_AKTKCT102_04731_TODO_05,
+30,TEXT_AKTKCT102_04731_TODO_06,
+31,TEXT_AKTKCT102_04731_TODO_07,
+32,TEXT_AKTKCT102_04731_TODO_08,
+33,TEXT_AKTKCT102_04731_TODO_09,
+34,TEXT_AKTKCT102_04731_TODO_10,
+35,TEXT_AKTKCT102_04731_TODO_11,
+36,TEXT_AKTKCT102_04731_TODO_12,
+37,TEXT_AKTKCT102_04731_TODO_13,
+38,TEXT_AKTKCT102_04731_TODO_14,
+39,TEXT_AKTKCT102_04731_TODO_15,
+40,TEXT_AKTKCT102_04731_TODO_16,
+41,TEXT_AKTKCT102_04731_TODO_17,
+42,TEXT_AKTKCT102_04731_TODO_18,
+43,TEXT_AKTKCT102_04731_TODO_19,
+44,TEXT_AKTKCT102_04731_TODO_20,
+45,TEXT_AKTKCT102_04731_TODO_21,
+46,TEXT_AKTKCT102_04731_TODO_22,
+47,TEXT_AKTKCT102_04731_TODO_23,
+48,TEXT_AKTKCT102_04731_SYSTEM_000_001,"Si vous commencez la quête “L'intégrité comme outil de persuasion” maintenant, l'outil des merveilles que vous pourrez améliorer sera celui d'."
+49,TEXT_AKTKCT102_04731_Q1_000_000,Voulez-vous améliorer l'outil d' ?
+50,TEXT_AKTKCT102_04731_A1_000_001,Non
+51,TEXT_AKTKCT102_04731_A1_000_002,Oui
+52,TEXT_AKTKCT102_04731_SYSTEM_000_004,"Une fois la quête “L'intégrité comme outil de persuasion” commencée, vous ne pourrez améliorer l'outil des merveilles d'une autre classe qu'en la terminant ou l'abandonnant."
+53,TEXT_AKTKCT102_04731_SYSTEM_000_005,Sélectionnez la classe de votre choix puis reparlez à Chora-Zoi.
+54,TEXT_AKTKCT102_04731_SYSTEM_000_003,Vous devez être équipée ou en possession  pour progresser dans la quête “L'intégrité comme outil de persuasion”.
+55,TEXT_AKTKCT102_04731_SYSTEM_100_004,Vous possédez déjà . Sélectionnez une autre classe et reparlez à Chora-Zoi.
+56,TEXT_AKTKCT102_04731_CHORAZOI_000_007,"Alorrrs, Player, que pensez-vous de votre fraîchement baptisé outil des merveilles ? Maître Grenoldt vient justement de m'expliquer le processus initial d'amélioration avec tous les croquis à l'appui."
+57,TEXT_AKTKCT102_04731_CHORAZOI_000_008,"Et comme prévu, c'étaient les crrroquis les mieux dessinés que j'aie jamais vus ! Quand j'y pense, c'est com­plè­te­ment fou de pouvoir améliorer davantage des outils créés par un artisan aussi talentueux, mais c'est pro­ba­ble­ment une preuve sup­plé­men­tai­re de son génie !"
+58,TEXT_AKTKCT102_04731_GRENOLDT_000_009,"T'es trop aimable, Chora-Zoi, mais c'est plutôt moi qui devrais te complimenter. Jusqu'à aujourd'hui, aucun métallurgiste n'avait compris mes indications aussi rapidement que toi. Sur ce, nous ferions mieux d'arrêter la parlotte pour passer au plat de résistance !"
+59,TEXT_AKTKCT102_04731_CHORAZOI_000_010,"V-vous croyez vraiment que je suis déjà prête !? Oh là là, si vous saviez comme j'ai le trrrac... Enfin, il va sans dire que je vous fais entièrement confiance, Maître !"
+60,TEXT_AKTKCT102_04731_GRENOLDT_000_011,"À la bonne heure, et comme tu dois déjà le savoir, tout travail sur des outils commence par le ras­sem­ble­ment des in­dis­pen­sa­bles matériaux. On pourra se les procurer par l'intermédiaire de Mowen et Quinnana, mais leurs prix varieront grandement en fonction de leur rareté."
+61,TEXT_AKTKCT102_04731_GRENOLDT_000_012,"C'est là que ton aide nous sera précieuse, Player. Ton rôle sera de fournir les mar­chan­di­ses exigées à la maison des merveilles en échange de leurs précieux matériaux, et pour ce faire, tu devras utiliser l'outil de base que tu viens d'obtenir."
+62,TEXT_AKTKCT102_04731_GRENOLDT_000_013,"Ainsi, tu l'useras mais le formeras au boulot en même temps, comme un employé à ta botte, bwahaha ! Plus sé­rieu­se­ment, ça te permettra de jauger ses qualités et ses défauts en temps réel, ce qui devrait pas être trop ardu pour quelqu'un d'aussi expérimenté que toi."
+63,TEXT_AKTKCT102_04731_CHORAZOI_000_015,"Dans ce cas, il faut que je commence à m'entraîner pas plus tard que tout de suite, moi ! Horrrs de question que je gâche ne serait-ce qu'un seul de ces précieux matériaux !"
+64,TEXT_AKTKCT102_04731_GRENOLDT_000_016,"Hé hé, bien parlé, ma petite Chora-Zoi ! Puisque nous sommes tous sur la même longueur d'onde, j'ai plus qu'une chose à dire : au boulot, collègues !"
+65,TEXT_AKTKCT102_04731_CHORAZOI_000_017,"Vous voulez remettre ça avec un autre outil des merveilles ? Mais avec plaisirrr, je suis toujours partante, moi !"
+66,TEXT_AKTKCT102_04731_CHORAZOI_000_018,"Hmm, voyons voirrr... Si je ne me trompe pas, vous allez devoir me rapporter ."
+67,TEXT_AKTKCT102_04731_CHORAZOI_100_018,Les mar­chan­di­ses que la maison des merrrveilles demande en échange sont . À vous de les fabriquer avec vos petites mains bourrées de talent !
+68,TEXT_AKTKCT102_04731_CHORAZOI_000_020,"Surtout, n'oubliez pas la parole sacrée de maître Grenoldt : “Avec l'outil des merveilles et lui uniquement, les mar­chan­di­ses requises tu fabrrriqueras !”"
+69,TEXT_AKTKCT102_04731_CHORAZOI_000_021,"Et enfin, lorsque vous aurez terminé, il ne vous restera plus qu'à remettre le fruit de votre labeurrr à Quinnana. Si vous vous sentez perdue, n'hésitez pas à redemander des ex­pli­ca­tions à maître Grenoldt, il se fera un plaisir de vous remettre sur le droit chemin."
+70,TEXT_AKTKCT102_04731_CHORAZOI_000_019,"Hmm, voyons voirrr... Si je ne me trompe pas, vous allez devoir me rapporter  et ."
+71,TEXT_AKTKCT102_04731_CHORAZOI_100_019,Les mar­chan­di­ses que la maison des merrrveilles demande en échange contre  sont . À vous de les récolter avec vos petites mains bourrées de talent !
+72,TEXT_AKTKCT102_04731_CHORAZOI_100_020,"Surtout, n'oubliez pas la parole sacrée de maître Grenoldt : “Avec l'outil des merveilles et lui uniquement, les mar­chan­di­ses requises tu récolterrras !”"
+73,TEXT_AKTKCT102_04731_CHORAZOI_100_021,"Et enfin, lorsque vous aurez terminé, il ne vous restera plus qu'à remettre le fruit de votre labeurrr à Quinnana. Si vous vous sentez perdue, n'hésitez pas à redemander des ex­pli­ca­tions à maître Grenoldt, il se fera un plaisir de vous remettre sur le droit chemin !"
+74,TEXT_AKTKCT102_04731_CHORAZOI_200_019,"Hmm, voyons voirrr... Si je ne me trompe pas, vous allez devoir me rapporter  et ."
+75,TEXT_AKTKCT102_04731_CHORAZOI_300_019,Les mar­chan­di­ses que la maison des merrrveilles demande en échange sont  et . À vous de les pêcher avec vos petites mains bourrées de talent !
+76,TEXT_AKTKCT102_04731_CHORAZOI_200_020,"Surtout, n'oubliez pas la parole sacrée de maître Grenoldt : “Avec l'outil des merveilles et lui uniquement, les mar­chan­di­ses requises tu pêcherrras !”"
+77,TEXT_AKTKCT102_04731_CHORAZOI_200_021,"Et enfin, lorsque vous aurez terminé, il ne vous restera plus qu'à remettre le fruit de votre labeurrr à Quinnana. Si vous vous sentez perdue, n'hésitez pas à redemander des ex­pli­ca­tions à maître Grenoldt, il se fera un plaisir de vous remettre sur le droit chemin."
+78,TEXT_AKTKCT102_04731_SYSTEM_000_022,"Les outils des merveilles peuvent être améliorés en remettant les éléments nécessaires à Chora-Zoi, près de la halle du Juste."
+79,TEXT_AKTKCT102_04731_SYSTEM_000_023,Les matériaux in­dis­pen­sa­bles à l'amélioration de l'outil peuvent être obtenus auprès de Quinnana en échange des mar­chan­di­ses requises par la maison des merveilles.
+80,TEXT_AKTKCT102_04731_SYSTEM_000_024,"Les mar­chan­di­ses requises peuvent être fabriquées à partir des recettes spéciales du carnet d'artisanat, situées dans la section “Outils des merveilles”."
+81,TEXT_AKTKCT102_04731_SYSTEM_000_025,Ces mar­chan­di­ses doivent impérativement être fabriquées avec l'outil des merveilles destiné à être amélioré. Certaines d'entre elles peuvent toutefois être échangées contre des assignats d'artisan.
+82,TEXT_AKTKCT102_04731_SYSTEM_000_026,Les points de récolte des mar­chan­di­ses requises sont indiqués dans la section “Outils des merveilles” du carnet de récolte.
+83,TEXT_AKTKCT102_04731_SYSTEM_000_027,Ces mar­chan­di­ses doivent impérativement être récoltées avec l'outil des merveilles.
+84,TEXT_AKTKCT102_04731_SYSTEM_000_028,"Les produits de la mer nécessaires doivent être pêchés avec un appât spécial, disponible auprès de Quinnana près de la halle du Juste."
+85,TEXT_AKTKCT102_04731_SYSTEM_000_029,Ces produits de la mer doivent impérativement être pêchés avec l'outil des merveilles.
+86,TEXT_AKTKCT102_04731_SYSTEM_000_030,"En outre, l'outil des merveilles ne doit pas avoir été équipé et doit figurer dans l'inventaire ou l'arsenal afin de pouvoir être remis à Chora-Zoi."
+87,TEXT_AKTKCT102_04731_GRENOLDT_000_031,"T'as besoin que je te rappelle les étapes une par une ? Pas de problème, de toute façon, y en a que deux ! La première, c'est d'obtenir les mar­chan­di­ses exigées par la maison des merveilles à l'aide de ton outil du même nom."
+88,TEXT_AKTKCT102_04731_GRENOLDT_000_032,"Et la seconde, c'est tout simplement de les remettre à Quinnana, qui se fera un plaisir de te les échanger contre les matériaux dont la camarade Chora-Zoi a besoin ! Attends... Ça ferait pas trois étapes au total ? La vache, faut que je réapprenne à compter, moi !"
+89,TEXT_AKTKCT102_04731_SYSTEM_000_034,"Les outils des merveilles peuvent être améliorés en remettant les éléments nécessaires à Chora-Zoi, près de la halle du Juste."
+90,TEXT_AKTKCT102_04731_SYSTEM_000_035,Les matériaux in­dis­pen­sa­bles à l'amélioration de l'outil peuvent être obtenus auprès de Quinnana en échange des mar­chan­di­ses requises par la maison des merveilles.
+91,TEXT_AKTKCT102_04731_SYSTEM_000_036,"Les mar­chan­di­ses requises peuvent être fabriquées à partir des recettes spéciales du carnet d'artisanat, situées dans la section “Outils des merveilles”."
+92,TEXT_AKTKCT102_04731_SYSTEM_000_037,Ces mar­chan­di­ses doivent impérativement être fabriquées avec l'outil des merveilles destiné à être amélioré. Certaines d'entre elles peuvent toutefois être échangées contre des assignats d'artisan.
+93,TEXT_AKTKCT102_04731_SYSTEM_000_038,Les points de récolte des mar­chan­di­ses requises sont indiqués dans la section “Outils des merveilles” du carnet de récolte.
+94,TEXT_AKTKCT102_04731_SYSTEM_000_039,Ces mar­chan­di­ses doivent impérativement être récoltées avec l'outil des merveilles.
+95,TEXT_AKTKCT102_04731_SYSTEM_000_040,"Les produits de la mer nécessaires doivent être pêchés avec un appât spécial, disponible auprès de Quinnana près de la halle du Juste."
+96,TEXT_AKTKCT102_04731_SYSTEM_000_041,Ces produits de la mer doivent impérativement être pêchés avec l'outil des merveilles.
+97,TEXT_AKTKCT102_04731_SYSTEM_000_042,"En outre, l'outil des merveilles ne doit pas avoir été équipé et doit figurer dans l'inventaire ou l'arsenal afin de pouvoir être remis à Chora-Zoi."
+98,TEXT_AKTKCT102_04731_CHORAZOI_000_050,"Merci infiniment, Player ! Ça alors, vous avez été plus rapide que votre ombre ! Donnez-moi tout d'un coup, on ne dirait pas comme ça mais j'ai des grrros bras !"
+99,TEXT_AKTKCT102_04731_CHORAZOI_000_051,"Superrr, nous voilà arrivés au bout de notre première épreuve ! Après toute la sueur que vous devez avoir versée, à mon tour d'en remplir quelques seaux pour améliorer ce merveilleux outil comme il le mérite !"
+100,TEXT_AKTKCT102_04731_GRENOLDT_000_052,"Je savais déjà que t'étais pas née de la dernière pluie, mais t'as réussi à surpasser mes attentes, mon amie. Avec des associées aussi dévouées que Mowen et toi, ces outils vont devenir le nec plus ultra de tous les temps !"
+101,TEXT_AKTKCT102_04731_CHORAZOI_000_053,"Bon, à moi de jouer ! Je vais me mettre au travail de ce pas dans mon atelier. Soyez patiente, nous tâcherons de revenir en compagnie du prrrécieux sésame aussi vite que possible !"
+102,TEXT_AKTKCT102_04731_CHORAZOI_000_054,"Et voilàààà ! J'avais un peu peur d'abîmer les matériaux à cause de mon manque d'expérience, mais maître Grenoldt était là pour me guider mi­nu­tieu­se­ment à chaque étape et tout s'est dérrroulé comme sur des roulettes !"
+103,TEXT_AKTKCT102_04731_CHORAZOI_000_055,"De toute façon, je n'ai fait que suivre son crrroquis à l'ilm près. À mon avis, vous ne pourrez qu'être amplement satisfaite du résultat !"
+104,TEXT_AKTKCT102_04731_GRENOLDT_000_056,"Chora-Zoi est modeste, car j'ai pas fait grand-chose à part la regarder travailler, et en toute honnêteté, j'ai pas trouvé le moindre petit poil qui dépassait de son ouvrage ! Player, laisse-moi te dire que tu vas te régaler !"
+105,TEXT_AKTKCT102_04731_CHORAZOI_000_057,"Et voilà un autre outil des merveilles prrrêt à faire des ravages ! Au passage, j'ai été encore plus rapide que la dernière fois, pas vrai ? Hé hé, je sens que je progresse à pas de géant !"
+106,TEXT_AKTKCT102_04731_CHORAZOI_000_058,"Sans plus tarrrder, voici votre  ! Regardez-moi un peu ce joujou d'exception, s'il est pas magnifique !"
+107,TEXT_AKTKCT102_04731_SYSTEM_000_002,（★未使用／削除予定★）

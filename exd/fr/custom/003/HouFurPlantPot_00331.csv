@@ -1,0 +1,19 @@
+0,TEXT_HOUFURPLANTPOT_00331_TALK_NONE,Le pot de fleurs est vide.
+1,TEXT_HOUFURPLANTPOT_00331_END_EVENT,Annuler
+2,TEXT_HOUFURPLANTPOT_00331_SET_SEED,Ensemencer
+3,TEXT_HOUFURPLANTPOT_00331_SET_FERTILIZER,Mettre de l'engrais
+4,TEXT_HOUFURPLANTPOT_00331_CARE,Entretenir
+5,TEXT_HOUFURPLANTPOT_00331_DISPOSE,Arracher
+6,TEXT_HOUFURPLANTPOT_00331_HARVEST,Récolter
+7,TEXT_HOUFURPLANTPOT_00331_TALK_DEAD,Le semis  s'est fané...
+8,TEXT_HOUFURPLANTPOT_00331_TALK_VIGOROUS,Le semis  se porte bien.
+9,TEXT_HOUFURPLANTPOT_00331_TALK_DEPRESSED,Le semis  n'a pas l'air en grande forme...
+10,TEXT_HOUFURPLANTPOT_00331_TALK_RIPE, est arrivé à maturité !
+11,TEXT_HOUFURPLANTPOT_00331_ASK_DISPOSE,"Une fois arraché, le semis sera définitivement perdu. Confirmer ?"
+12,TEXT_HOUFURPLANTPOT_00331_ASK_DISPOSE_YES,Oui
+13,TEXT_HOUFURPLANTPOT_00331_ASK_DISPOSE_NO,Non
+14,TEXT_HOUFURPLANTPOT_00331_TALK_FLOWER_VIGOROUS, est planté dans le pot. Le développement se fait sans problème.
+15,TEXT_HOUFURPLANTPOT_00331_TALK_FLOWER_DEPRESSED, est planté dans le pot. Le développement manque de vigueur...
+16,TEXT_HOUFURPLANTPOT_00331_FLOWER_PREDICT,Vous avez le sentiment que la plante va donner des fleurs rouges.
+17,TEXT_HOUFURPLANTPOT_00331_FLOWER_PREDICT_UNKNOWN,Vous avez le sentiment que la plante va donner des fleurs rouges ou d'une couleur inédite.
+18,TEXT_HOUFURPLANTPOT_00331_FLOWERED, est en floraison.

@@ -1,0 +1,44 @@
+0,TEXT_HOUFIXCOMPANYSUBMARINE_00447_TALK_ACTOR,
+1,TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_SELECT_TITLE_0,Select an option.
+2,TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_SELECT_TITLE,"Vessels deployed: UNKNOWN/UNKNOWN
+Ceruleum tanks: UNKNOWN
+Select a submersible."
+3,TEXT_HOUFIXCOMPANYSUBMARINE_00447_ADD_NEW_SUBMARINE,Outfit and register a submersible. (Dive credits required: UNKNOWN)
+4,TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_NAME,*UNKNOWN*. (Rank: UNKNOWN) 
+5,TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_NAME_FINISH,*UNKNOWN*. (Rank: UNKNOWN) [Voyage complete]
+6,TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_SELECT_EXIT,Nothing.
+7,TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_CMD_TITLE,"Vessels deployed: UNKNOWN/UNKNOWN
+Ceruleum tanks: UNKNOWN
+*UNKNOWN* (Rank: UNKNOWN) - Available"
+8,TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_CMD_EXPEDITION,Deploy submersible on subaquatic voyage
+9,TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_CMD_RESULT,View previous voyage log
+10,TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_CMD_PARTS,Change submersible components
+11,TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_CMD_REPAIR_PARTS,Repair submersible components
+12,TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_CMD_SETTING,Change submersible preferences
+13,TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_CONF_COLOR,Paint submersible
+14,TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_CONF_NAME,Change submersible name
+15,TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_CONF_REMOVE,Dismantle submersible
+16,TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_VOY_TITLE,"Vessels deployed: UNKNOWN/UNKNOWN
+*UNKNOWN* (Rank: UNKNOWN) - Deployed
+Voyage complete in UNKNOWNd UNKNOWNh UNKNOWNm"
+17,TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_VOY_CUR_COND,Recall submersible
+18,TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_VOY_CUR_MAP,View navigational charts
+19,TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_VOY_CUR_STATUS,View submersible status
+20,TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_NAME_TITLE,Rename your submersible.
+21,TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_NAME_CAPTION,Submersible Name
+22,TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_NAME_MES_0,"Names must be formed from alphanumeric characters. The following punctuation marks are also allowed:
+**' . , : ; ! ? & - _**
+• Double spaces/underscores are not allowed.
+• A space cannot be used before or after the name.
+• Names consisting solely of punctuation marks are prohibited."
+23,TEXT_HOUFIXCOMPANYSUBMARINE_00447_REMOVE_SUBMARINE_TITLE,"Are you certain you wish to dismantle *UNKNOWN*?
+**Please note that while submersible components will be returned, your submersible's registration, rank, and accrued experience will be lost.**"
+24,TEXT_HOUFIXCOMPANYSUBMARINE_00447_REMOVE_SUBMARINE_CHECK,Dismantle Submersible.
+25,TEXT_HOUFIXCOMPANYSUBMARINE_00447_NO_REGISTRATION_1,"To outfit and register a submersible, you must have in your possession the requisite components and dive credits."
+26,TEXT_HOUFIXCOMPANYSUBMARINE_00447_NO_REGISTRATION_2,**Dive credits** can be purchased from resident caretakers with company credits.
+27,TEXT_HOUFIXCOMPANYSUBMARINE_00447_NO_REGISTRATION_3,"**Submersible components** can be constructed in your company workshop. Please note that hull, stern, bow, and bridge components are required to outfit a submersible."
+28,TEXT_HOUFIXCOMPANYSUBMARINE_00447_NO_ENERGY,"You cannot deploy your submersible on subaquatic voyages without ceruleum tanks, which can be purchased from resident caretakers with company credits."
+29,TEXT_HOUFIXCOMPANYSUBMARINE_00447_NO_EXPLOG_1,"Upon the completion of a subaquatic voyage, your mammet will provide a **voyage log** detailing the results."
+30,TEXT_HOUFIXCOMPANYSUBMARINE_00447_NO_EXPLOG_2,The information contained in this log may prove useful in preparing for your next subaquatic voyage.
+31,TEXT_HOUFIXCOMPANYSUBMARINE_00447_NO_EXPLOG_3,Please note that only the log for the previous voyage will be retained.
+32,TEXT_HOUFIXCOMPANYSUBMARINE_00447_NO_REPAIR_ITEM,You cannot repair submersible components without the requisite materials.

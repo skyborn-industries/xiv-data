@@ -1,0 +1,10 @@
+0,TEXT_FESBKCRECOMPLETE_00716_SYSTEM_000_000,"Le rappel événementiel vous permet, durant une période limitée, de rejouer des quêtes saisonnières/événementielles que vous avez déjà terminées."
+1,TEXT_FESBKCRECOMPLETE_00716_YESNO_000_001,Lancer le rappel événementiel ?
+2,TEXT_FESBKCRECOMPLETE_00716_YESNOCHECK_000_002,"La ou les quêtes ci-dessous seront considérées comme non terminées :
+
+　　- 
+
+Vous n'obtiendrez pas de récompenses de quêtes durant le rappel événementiel.
+"
+3,TEXT_FESBKCRECOMPLETE_00716_CHECKBOX_000_003,Lancer le rappel événementiel
+4,TEXT_FESBKCRECOMPLETE_00716_TALK_ACTOR,

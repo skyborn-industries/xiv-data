@@ -1,0 +1,14 @@
+0,TEXT_CMNDEFHOUSINGSIGNBOARD_00135_NO_PERMIT_TO_BUY1,"In order to purchase a plot of land privately, you must have at least one class at level 50."
+1,TEXT_CMNDEFHOUSINGSIGNBOARD_00135_NO_PERMIT_TO_BUY2,"Furthermore, you must hold a rank of second lieutenant or above in one of the Grand Companies."
+2,TEXT_CMNDEFHOUSINGSIGNBOARD_00135_KUGANE_NOT_OPENED,"At present, Shirogane is open for display only. Land sales will commence at a later time."
+3,TEXT_CMNDEFHOUSINGSIGNBOARD_00135_KUGANE_NOT_ARROWED_TO_BUY,"In order to purhase a plot in Shirogane, you must first complete the main scenario quest “Not without Incident.”"
+4,TEXT_CMNDEFHOUSINGSIGNBOARD_00135_ISHGARD_NOT_OPENED,"At present, Empyreum is open for display only. Land sales will commence at a later time."
+5,TEXT_CMNDEFHOUSINGSIGNBOARD_00135_ISHGARD_NOT_ARROWED_TO_BUY,"In order to purchase a plot in Empyreum, you must first complete the main scenario quest “Litany of Peace.”"
+6,TEXT_CMNDEFHOUSINGSIGNBOARD_00135_LAND_LOTTERY_LOTTED,"You have submitted a lottery entry for plot UNKNOWN, ward UNKNOWN, . Your lottery number is UNKNOWN. Results will be available from 8:00 a.m. 27/8/2013."
+7,TEXT_CMNDEFHOUSINGSIGNBOARD_00135_LAND_LOTTERY_LOTTED_2,The status of your lottery entry can be confirmed at any time via the **Estate** tab of the **Timers** interface located under **Duty** in the main menu.
+8,TEXT_CMNDEFHOUSINGSIGNBOARD_00135_LAND_LOTTERY_REFUND_FULL_GIL,Unable to claim refund. You cannot carry any more gil.
+9,TEXT_CMNDEFHOUSINGSIGNBOARD_00135_LAND_LOTTERY_GUIDE,"You have submitted a lottery entry for a different plot. Please confirm the status of your lottery entry by accessing the same placard by which you entered the lottery.
+
+Pending Entry:
+Plot UNKNOWN, Ward UNKNOWN, "
+10,TEXT_CMNDEFHOUSINGSIGNBOARD_00135_LAND_LOTTERY_GUIDE_OK,Accept

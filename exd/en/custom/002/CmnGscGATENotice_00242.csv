@@ -1,0 +1,7 @@
+0,TEXT_CMNGSCGATENOTICE_00242_TALK_ACTOR,"Greetings, madam! Our next scheduled event, “Cliffhanger,” will be held in Wonder Square East. All guests are welcome to participate!"
+1,TEXT_CMNGSCGATENOTICE_00242_TALK_SYSTEM,The next GATE will be held at 8:00 a.m. in Wonder Square East.
+2,TEXT_CMNGSCGATENOTICE_00242_GATE_IN_SESSION,"Greetings, madam! If you wish to participate in “Cliffhanger,” pray make haste to Wonder Square East!"
+3,TEXT_CMNGSCGATENOTICE_00242_WARP_QUERY,Do you wish to participate in this GATE?
+4,TEXT_CMNGSCGATENOTICE_00242_WARP_GO,Yes
+5,TEXT_CMNGSCGATENOTICE_00242_WARP_CANCEL,No
+6,TEXT_CMNGSCGATENOTICE_00242_GATE_CLOSE_SESSION,"Greetings, madam! “Cliffhanger” is currently being held in Wonder Square East. If you wish to observe, you must go there now, before the event ends!"

@@ -1,0 +1,17 @@
+0,TEXT_CTSFCKATTENDANT_00454_TALK_ACTOR,"Greetings, my lady. Is there aught you wish to know about the Fashion Report?"
+1,TEXT_CTSFCKATTENDANT_00454_TALK_QUEST_INCOMPLETE,"Greetings, my lady. If you wish to challenge yourself in the Fashion Report, I invite you to speak with Masked Rose. I am but his humble assistant."
+2,TEXT_CTSFCKATTENDANT_00454_GUIDEMENU_000_000,What would you like to ask?
+3,TEXT_CTSFCKATTENDANT_00454_GUIDEMENU_001_000,What is the Fashion Report?
+4,TEXT_CTSFCKATTENDANT_00454_GUIDEMENU_002_000,How am I judged?
+5,TEXT_CTSFCKATTENDANT_00454_GUIDEMENU_003_000,What are the prizes?
+6,TEXT_CTSFCKATTENDANT_00454_GUIDEMENU_CANCEL,Nothing.
+7,TEXT_CTSFCKATTENDANT_00454_GUIDE_001_000,"The Fashion Report is a challenge unlike any other at the Gold Saucer. Each week, Masked Rose issues a theme to which you are to attire yourself. You then go before him for judging."
+8,TEXT_CTSFCKATTENDANT_00454_GUIDE_001_001,"Be fairly warned: as a leading critic in the field of fashion, Masked Rose does not mince words. Rather, he tears participants to shreds with his barbed tongue. That aside, folk seem to enjoy the experience. The prizes on offer certainly help to soothe the pain."
+9,TEXT_CTSFCKATTENDANT_00454_SYSTEM_001_002,The theme of the fashion challenge is updated each week on Tuesday at 5 p.m. (Earth time).
+10,TEXT_CTSFCKATTENDANT_00454_SYSTEM_001_003,You may submit yourself for judging up to four times each week between Friday at 5 p.m. and the following Tuesday at 5 p.m. (Earth time).
+11,TEXT_CTSFCKATTENDANT_00454_SYSTEM_001_004,The Fashion Report is unavailable outside of these times.
+12,TEXT_CTSFCKATTENDANT_00454_GUIDE_002_000,"Participants are judged on a scale of one to one hundred. Even if you do not score well at first, do not lose heart, for there are more opportunities to impress. To be precise, you may present yourself for evaluation four times per challenge."
+13,TEXT_CTSFCKATTENDANT_00454_SYSTEM_002_001,Please note that glamoured gear is evaluated based on its glamoured appearance. Headgear is also subject to judging even when set to hidden.
+14,TEXT_CTSFCKATTENDANT_00454_GUIDE_003_000,Simply participating once in any fashion challenge will earn you a sum in MGP. 'Tis our little way of encouraging and thanking you.
+15,TEXT_CTSFCKATTENDANT_00454_GUIDE_003_001,"The serious rewards, however, begin when you achieve a score of eighty or above. In this case, you can look forward to a veritable bounty of MGP!"
+16,TEXT_CTSFCKATTENDANT_00454_GUIDE_003_002,"Furthermore, regular challengers will also have access to unique prizes via exchange. So you see, there is no reason not to participate! ...Unless your ego is too fragile to survive Masked Rose's withering words, that is."

@@ -1,0 +1,150 @@
+0,TEXT_BANMOG002_02321_SEQ_00,"**Règle spéciale :  synchronisation de quête**
+Mogzin vous attend pour écouter ce qu'a à dire Tarresson."
+1,TEXT_BANMOG002_02321_SEQ_01,"* *Cette quête est ** synchronisée** avec votre niveau.*
+
+Mogzin vous attendait pour écouter ce que Tarresson a à vous dire. Adressez-vous au vieil artisan ishgardais pour découvrir de quoi il s'agit."
+2,TEXT_BANMOG002_02321_SEQ_02,"Tarresson a demandé des ouvriers sup­plé­men­tai­res au Nid-Mog, mais les renforts tardent à arriver. Soupçonnant une nouvelle plai­san­te­rie, il a demandé à Mogzin de donner une leçon aux traînards, en votre compagnie. Rendez-vous au passe-nuage d'Asah pour parler à Mogupp, le Mog qui était chargé de rassembler les nouveaux ouvriers."
+3,TEXT_BANMOG002_02321_SEQ_03,"Vous avez parlé à Mogupp. Il aurait communiqué différents points de rendez-vous aux autres Mogs, qui seraient désormais éparpillés aux quatre coins de L'Écume des cieux de Dravania. Il aimerait vous aider à les chercher, mais il a semble-t-il bien trop soif pour cela... Demandez à Mogzin ce qu'il pense de la malice de son compère."
+4,TEXT_BANMOG002_02321_SEQ_04,"Essayant de trouver la meilleure manière de donner une leçon à Mogupp, Mogzin a commencé à se décourager. Heu­reu­se­ment, vous étiez là pour lui redonner confiance en lui. Il a alors eu une idée, et vous a demandé de l'accompagner pour aller chercher quelque chose dont il a besoin. Rendez-vous au Nid-Mog pour parler à Moghan."
+5,TEXT_BANMOG002_02321_SEQ_05,"Après quelques tractations, Mogzin a fini par obtenir de Moghan le mystérieux objet dont il avait besoin pour jouer un tour à Mogupp. De quoi peut-il bien s'agir ? Pour le savoir, retournez au passe-nuage d'Asah et parlez à Mogupp."
+6,TEXT_BANMOG002_02321_SEQ_06,"Mogzin a décidé de jouer le jeu de Mogupp en lui faisant cadeau de bouteilles pour se désaltérer. Ravi d'avoir obtenu ce qu'il voulait, ce dernier est alors parti chercher les autres Mogs pour les partager avec eux. Rendez-vous maintenant à la colonie des Maîtres terriens pour retrouver Mogzin et découvrir la conclusion de son plan."
+7,TEXT_BANMOG002_02321_SEQ_07,"La boisson bue par Mogupp et ses amis était en fait une liqueur aux effets dévastateurs. Mogzin a profité de leur moment de faiblesse pour s'approcher et leur murmurer quelques mots à l'oreille. Dans un état second, les tire-au-flanc se sont alors subitement découvert une irrépressible envie d'aller travailler ! Rendez-vous à Bahrr Lehs et parlez à Mogzin pour savoir si tout s'est passé comme il l'avait prévu."
+8,TEXT_BANMOG002_02321_SEQ_08,"De retour à Bahrr Lehs, vous avez découvert que Mogupp et ses confrères avaient travaillé avec tellement de zèle qu'ils étaient déjà à bout de forces ! Mogzin vous a alors suggéré de monter sur une mogrette et de répandre quelques pistils sur leur visage afin de les réveiller. Pour monter sur une mogrette, adressez-vous au Mog distrait, à Bahrr Lehs."
+9,TEXT_BANMOG002_02321_SEQ_09,"Le Mog distrait vous a permis de monter sur une mogrette. Allez retrouver Mogupp et les autres Mogs et répandez quelques pistils sur leur visage pour qu'ils retrouvent leurs esprits.
+* Si vous descendez de la mogrette, parlez au Mog distrait pour remonter dessus."
+10,TEXT_BANMOG002_02321_SEQ_10,"Vous avez répandu quelques pistils sur le visage de Mogupp et de ses amis, qui se sont im­mé­dia­te­ment remis au travail. Allez trouver Mogzin, à Bahrr Lehs, pour lui faire savoir que son plan a fonctionné."
+11,TEXT_BANMOG002_02321_SEQ_11,"Mogzin était ravi de savoir que tout s'était passé comme il l'avait prévu. Fier d'avoir réussi pour la première fois à piéger un Mog avec une de ses plai­san­te­ries, il vous a assuré qu'il consacrerait dorénavant tous ses efforts aux travaux de restauration de Zénith en gardant à l'esprit la devise de la maison Dzemael “La résolution peut renverser des montagnes”. Continuez à veiller sur Mogzin et aidez les Mogdernisateurs célestes à mener à terme leur ambitieux projet !"
+12,TEXT_BANMOG002_02321_SEQ_12,
+13,TEXT_BANMOG002_02321_SEQ_13,
+14,TEXT_BANMOG002_02321_SEQ_14,
+15,TEXT_BANMOG002_02321_SEQ_15,
+16,TEXT_BANMOG002_02321_SEQ_16,
+17,TEXT_BANMOG002_02321_SEQ_17,
+18,TEXT_BANMOG002_02321_SEQ_18,
+19,TEXT_BANMOG002_02321_SEQ_19,
+20,TEXT_BANMOG002_02321_SEQ_20,
+21,TEXT_BANMOG002_02321_SEQ_21,
+22,TEXT_BANMOG002_02321_SEQ_22,
+23,TEXT_BANMOG002_02321_SEQ_23,
+24,TEXT_BANMOG002_02321_TODO_00,Parler à Tarresson
+25,TEXT_BANMOG002_02321_TODO_01,"Parler à Mogupp, au passe-nuage d'Asah"
+26,TEXT_BANMOG002_02321_TODO_02,"Parler à Mogzin, au passe-nuage d'Asah"
+27,TEXT_BANMOG002_02321_TODO_03,"Parler à Moghan, au Nid-Mog"
+28,TEXT_BANMOG002_02321_TODO_04,Parler à Mogupp
+29,TEXT_BANMOG002_02321_TODO_05,"Parler à Mogzin, à la colonie des Maîtres terriens"
+30,TEXT_BANMOG002_02321_TODO_06,Parler à Mogzin
+31,TEXT_BANMOG002_02321_TODO_07,Parler au Mog distrait
+32,TEXT_BANMOG002_02321_TODO_08,Monter sur une mogrette et répandre des pistils à l'endroit indiqué
+33,TEXT_BANMOG002_02321_TODO_09,Parler à Mogzin
+34,TEXT_BANMOG002_02321_TODO_10,
+35,TEXT_BANMOG002_02321_TODO_11,
+36,TEXT_BANMOG002_02321_TODO_12,
+37,TEXT_BANMOG002_02321_TODO_13,
+38,TEXT_BANMOG002_02321_TODO_14,
+39,TEXT_BANMOG002_02321_TODO_15,
+40,TEXT_BANMOG002_02321_TODO_16,
+41,TEXT_BANMOG002_02321_TODO_17,
+42,TEXT_BANMOG002_02321_TODO_18,
+43,TEXT_BANMOG002_02321_TODO_19,
+44,TEXT_BANMOG002_02321_TODO_20,
+45,TEXT_BANMOG002_02321_TODO_21,
+46,TEXT_BANMOG002_02321_TODO_22,
+47,TEXT_BANMOG002_02321_TODO_23,
+48,TEXT_BANMOG002_02321_MOGZIN_000_000,"Player, je vous attendais ! Monsieur Tarresson a quelque chose d'important à nous dire. Allons vite écouter de quoi il s'agit, kuppo !"
+49,TEXT_BANMOG002_02321_MOGZIN_000_001,"Je me demande bien ce que monsieur Tarresson veut nous dire... Allons vite écouter de quoi il s'agit, kuppo !"
+50,TEXT_BANMOG002_02321_TARRESSON_000_010,"Les Mogdernisateurs célestes sont plus motivés que jamais. Ils ont retenu les techniques de base que je leur ai apprises en un rien de temps ! Il ne nous reste plus qu'à débarrasser Bahrr Lehs des débris qui l'encombrent, et nous pourrons commencer les travaux."
+51,TEXT_BANMOG002_02321_TARRESSON_000_011,"Comme nous manquons de bras, j'ai demandé quelques renforts au Nid-Mog, mais j'attends toujours de voir le moindre Mog montrer le bout de son pompon. Sûrement encore une de leurs plai­san­te­ries..."
+52,TEXT_BANMOG002_02321_TARRESSON_000_012,"Mon petit Mogzin, je vais avoir besoin de toi pour rameuter les troupes. Tu vas faire une farce à ceux qui traînent les pattes, je suis sûr que ça leur coupera l'envie de flemmarder !"
+53,TEXT_BANMOG002_02321_MOGZIN_000_013,"Une farce ? C'est-à-dire que... Je dois vous avouer quelque chose, kuppo. Je suis plutôt doué pour piéger les humains, mais je n'ai jamais réussi une seule fois avec les Mogs. Je me demande bien pourquoi..."
+54,TEXT_BANMOG002_02321_TARRESSON_000_014,"C'est cer­tai­ne­ment parce que tu abandonnes à la moindre difficulté. Même lorsqu'il s'agit d'une simple plai­san­te­rie, il faut un minimum de sérieux pour réussir, tu sais ? Comme le dit la devise de ma famille, “La résolution peut renverser des montagnes” !"
+55,TEXT_BANMOG002_02321_TARRESSON_100_014,"Pour parvenir à berner ta cible, tu dois être attentif au moindre détail et ne rien laisser au hasard. La véritable clef du succès, c'est la volonté de réussir, alors commence par avoir confiance en toi !"
+56,TEXT_BANMOG002_02321_MOGZIN_000_015,"La résolution peut renverser des montagnes... Ne rien laisser au hasard... Très bien Monsieur Tarresson, je vais suivre vos conseils et faire une bonne farce aux Mogs qui nous ont fait faux bond, kuppo !"
+57,TEXT_BANMOG002_02321_TARRESSON_000_016,"Voilà, c'est ce qu'il faut se dire ! Après tout, tu es le contremaître des Mogdernisateurs célestes, donc il faut que tu saches te faire respecter. Va donner une leçon à ces petits malins pour leur faire comprendre qu'il est temps de se mettre au travail !"
+58,TEXT_BANMOG002_02321_TARRESSON_000_017,"Player, pourriez-vous accompagner Mogzin ? Si vous voyez qu'il est sur le point de renoncer, n'hésitez pas à lui tirer le pompon pour lui faire entendre raison !"
+59,TEXT_BANMOG002_02321_MOGZIN_000_018,"Player, je vous en prie ! Tout, mais pas mon pompon, kuppo ! Venez, allons trouver Mogupp, au passe-nuage d'Asah. C'est lui qui était censé réunir les autres Mogs pour nous aider à travailler."
+60,TEXT_BANMOG002_02321_MOGZIN_000_019,"C'est lui, c'est Mogupp ! Commençons par écouter ses ex­pli­ca­tions, kuppo."
+61,TEXT_BANMOG002_02321_TARRESSON_000_020,"Je vais rester ici en attendant l'arrivée des renforts. Mogzin a un bon fond, mais il a tendance à baisser les bras un peu trop facilement, alors je compte sur vous pour le motiver quand il en aura besoin !"
+62,TEXT_BANMOG002_02321_MOGUPP_000_030,"Tiens, Mogzin et Player ! C'est à propos des travaux de restauration de Zénith, kuppo ?"
+63,TEXT_BANMOG002_02321_MOGZIN_000_031,"Tout juste. Où sont les Mogs que tu devais recruter ? Sans eux, nous ne pouvons pas déblayer le terrain, et les travaux sont arrêtés, kuppo !"
+64,TEXT_BANMOG002_02321_MOGUPP_000_032,"... C'est ma faute. Je ne leur ai pas donné à tous le même point de rendez-vous, et à l'heure qu'il est, ils sont sûrement éparpillés aux quatre coins de L'Écume des cieux, kuppo..."
+65,TEXT_BANMOG002_02321_MOGUPP_000_033,"J'irais bien les chercher, mais j'ai *tellement* soif ! Si seulement quelqu'un pouvait m'apporter quelque chose à boire... À moins que vous n'ayez envie de fouiller L'Écume des cieux vous-mêmes, kuppo ?"
+66,TEXT_BANMOG002_02321_MOGZIN_000_034,"Je commence à comprendre... Très bien, nous allons t'apporter de quoi te désaltérer. Surtout, ne bouge pas d'un poil de pompon, kuppo !"
+67,TEXT_BANMOG002_02321_MOGZIN_000_035,"Suivez-moi, Player. J'ai quelque chose à vous dire, kuppo."
+68,TEXT_BANMOG002_02321_MOGUPP_000_036,"J'ai si soif, ma gorge est toute desséchée ! Mon pompon me dit que si quelqu'un m'apportait quelque chose à boire, je trouverais nos Mogs ouvriers en un rien de temps, kuppo !"
+69,TEXT_BANMOG002_02321_MOGZIN_000_040,"Monsieur Tarresson avait vu juste. Mogupp essaye de profiter de la situation, kuppo !"
+70,TEXT_BANMOG002_02321_MOGZIN_000_041,"Il mérite une leçon, mais laquelle ?"
+71,TEXT_BANMOG002_02321_MOGZIN_000_042,"Nous pourrions nous servir des fausses noix de kupo avec lesquelles vous m'avez piégé la dernière fois, mais tout le monde a déjà entendu parler de cette histoire au Nid-Mog, kuppo..."
+72,TEXT_BANMOG002_02321_MOGZIN_000_043,"Pourtant, j'ai beau réfléchir, je ne vois pas d'autre solution... Après tout, ces noix sont tellement ressemblantes que Mogupp en oubliera qu'elles sont fausses, kuppo ?"
+73,TEXT_BANMOG002_02321_Q1_000_000,Que dire à Mogzin ?
+74,TEXT_BANMOG002_02321_A1_000_001,Rappelle-toi les paroles de Tarresson.
+75,TEXT_BANMOG002_02321_A1_000_002,Je vais te tirer le pompon !
+76,TEXT_BANMOG002_02321_MOGZIN_000_050,"“La résolution peut renverser des montagnes”... Monsieur Tarresson a raison, il faut que j'ai plus confiance en moi, kuppopo !!!"
+77,TEXT_BANMOG002_02321_MOGZIN_000_060,"... Kuppopo !? Non, pas mon pompon, je vous en supplie !!! Je me souviens des paroles de monsieur Tarresson... Je dois avoir confiance en moi, kuppo !"
+78,TEXT_BANMOG002_02321_MOGZIN_000_070,"Merci Player, vous m'avez ouvert les yeux alors que j'étais sur le point de baisser les bras ! Et vous m'avez donné une idée, kuppo..."
+79,TEXT_BANMOG002_02321_MOGZIN_000_071,"Allons trouver Moghan, au Nid-Mog. Il a exactement ce qu'il me faut pour jouer un tour à Mogupp."
+80,TEXT_BANMOG002_02321_MOGZIN_000_080,"Désolé de vous avoir fait attendre, Player. Je suis passé voir Mogmul en vitesse pour lui demander une bricole, kuppo."
+81,TEXT_BANMOG002_02321_MOGHAN_000_081,"Bonsoir, Mogzin, Player ! Qu'est-ce que je peux faire pour vous aider, kuppo ?"
+82,TEXT_BANMOG002_02321_MOGZIN_000_082,"Nous aimerions donner une leçon à Mogupp, et pour ça, nous avons besoin de ce que tu sais... Tu ne pourrais pas nous en donner juste un petit peu ? Tiens, regarde un peu ce qu'il y a dans ce sac avant de donner ta réponse."
+83,TEXT_BANMOG002_02321_MOGHAN_000_083,"Enfin, tu sais bien que c'est impo... Nom d'un pompon, ce sac est plein à craquer de noix de kupo ! Pourquoi un tel présent, kuppo ?"
+84,TEXT_BANMOG002_02321_MOGZIN_000_084,"Considère ça comme un témoignage de ma gratitude pour les services que tu rends quo­ti­dien­ne­ment aux habitants du Nid-Mog, kuppo."
+85,TEXT_BANMOG002_02321_MOGHAN_000_085,"Vraiment ? Dans ce cas, j'accepte avec grand plaisir. Toi alors, tu sais comment me parler, mon cher Mogzin ! Hé hé hé !"
+86,TEXT_BANMOG002_02321_MOGZIN_000_086,"Mais non, voyons ! C'est bien parce que tu le mérites, mon cher Moghan ! Ho ho ho !"
+87,TEXT_BANMOG002_02321_MOGHAN_000_087,"Bon, je veux bien t'en donner un peu, mais c'est juste pour cette fois. L'effet est très puissant, et personne n'en a jamais utilisé pour une farce, donc tu dois me promettre de le diluer, kuppo !"
+88,TEXT_BANMOG002_02321_MOGZIN_000_088,"Player, nous sommes fin prêts pour le petit tour que nous voulons jouer à Mogupp. Retournons au passe-nuage d'Asah sans plus attendre, kuppo !"
+89,TEXT_BANMOG002_02321_MOGHAN_000_089,"L'effet de cette boisson est ex­trê­me­ment puissant... J'espère que je ne vais pas regretter d'en avoir confié à Mogzin, kuppo !"
+90,TEXT_BANMOG002_02321_MOGZIN_100_090,"Player, je vous attendais ! Vous êtes prête à parler à Mogupp ?"
+91,TEXT_BANMOG002_02321_MOGUPP_000_110,"Tiens, vous revoilà ? J'ai pensé à aller chercher les autres Mogs perdus dans L'Écume des cieux, mais j'ai bien trop soif pour ça, kuppo..."
+92,TEXT_BANMOG002_02321_MOGZIN_000_111,"Ça suffit, kuppo, tu as gagné ! Tu nous as bien eus, nous capitulons. Prends ces bouteilles, et aide-nous à retrouver nos ouvriers !"
+93,TEXT_BANMOG002_02321_MOGUPP_000_112,"Mogzin, Player, je savais que vous me com­pren­driez ! Ne vous en faites pas, je vais retrouver les autres Mogs en moins de temps qu'il ne faut pour dire “kuppo” !"
+94,TEXT_BANMOG002_02321_MOGZIN_000_113,"On dirait que Mogupp n'a rien remarqué... Le pauvre, il va être surpris, kuppo. Venez, suivons-le pour lancer la phase finale de notre plan !"
+95,TEXT_BANMOG002_02321_MOGZIN_000_120,"Regardez, Player ! Mogupp a enfin réuni tous les Mogs perdus, kuppo !"
+96,TEXT_BANMOG002_02321_MOGUPP_000_121,"Hé hé hé, notre plan a fonctionné à merveille ! Il est temps de goûter ce délicieux breuvage offert par Mogzin et Player. Mes amis, buvons ensemble pour fêter notre victoire, kuppo !"
+97,TEXT_BANMOG002_02321_MOGUPP_000_122,"Aaah, rien ne vaut un bon petit verre après une plai­san­te­rie bien réussie, kuppo !"
+98,TEXT_BANMOG002_02321_MOGUPP_100_122,... Hmm ? Je me sens tout bizarre... comme si ma tête était pleine de coton... Serait-ce un coup... de Mogzin... kuppo... ?
+99,TEXT_BANMOG002_02321_MOGZIN_000_123,"Ha ha ha, ils se sont bien fait avoir ! Cette boisson était en fait une liqueur de graines de mauve-nuage. Même diluée, quelques gorgées suffisent pour planer au royaume des rêves duveteux, kuppo !"
+100,TEXT_BANMOG002_02321_MOGZIN_000_124,"Et ce n'est pas tout... Vous allez voir ce qui va se passer quand je vais leur murmurer quelques mots choisis à l'oreille. La phase finale de mon plan, kuppo !"
+101,TEXT_BANMOG002_02321_MOGZIN_000_125,"Kuppopo ! Écoutez-moi bien, les amis !
+Vous savez, le travail, il n'y a rien de plus exquis !♪"
+102,TEXT_BANMOG002_02321_MOGUPP_000_126,"Le travail... exquis, kuppo... ?"
+103,TEXT_BANMOG002_02321_MOGZIN_000_127,"Mais oui ! Venez avec moi travailler !
+Du matin au soir sans s'arrêter, le travail c'est la santé !♪"
+104,TEXT_BANMOG002_02321_MOGUPP_000_128,Le travail... sans s'arrêter... la santé... Kuppopo !?
+105,TEXT_BANMOG002_02321_MOGUPP_000_129,"Comme c'est étrange... Je suis pris d'une irrépressible envie de travailler, tout à coup... Nom d'un pompon ! Il n'y a pas une seconde à perdre, il faut que j'aille travailler im­mé­dia­te­ment, kuppo !"
+106,TEXT_BANMOG002_02321_MOGZIN_000_130,"Vous ne rêvez pas, Player, ils sont partis en direction du site des travaux ! Venez, suivons-les, kuppo !"
+107,TEXT_BANMOG002_02321_MOGUPP_000_131,"Le travail, c'est la santé, qu'il disait... Du matin au soir, sans s'arrêter... Je crois que j'ai trop travaillé... Je n'en peux plus, kuppo..."
+108,TEXT_BANMOG002_02321_TARRESSON_000_132,"Les Mogs qui devaient venir en renfort se sont finalement montrés, et ils se sont mis à travailler comme si leur vie en dépendait ! Je ne sais pas ce que vous leur avez fait, mais une chose est sûre, c'est efficace."
+109,TEXT_BANMOG002_02321_MOGZIN_000_140,"Player, nous avons un problème ! Comme vous pouvez le voir, les travaux de déblaiement sont au point mort, kuppo..."
+110,TEXT_BANMOG002_02321_MOGZIN_000_141,"Mogupp et les autres Mogs ont ef­fec­ti­ve­ment travaillé d'arrache-pompon... sauf qu'ils sont déjà à bout de forces, kuppo ! Je pensais qu'ils étaient un peu plus endurants..."
+111,TEXT_BANMOG002_02321_MOGZIN_000_142,"J'ai une idée, kuppo. Pourriez-vous monter sur une mogrette, et répandre quelques pistils sur leur visage ? Ils ont un effet apaisant sur nous autres Mogs célestes."
+112,TEXT_BANMOG002_02321_MOGZIN_000_143,"Allez parler au Mog distrait, c'est lui qui s'occupe de faire pousser des mogrettes, à partir de mauves-nuages. Je compte sur vous, kuppo !"
+113,TEXT_BANMOG002_02321_MOGZIN_000_145,"Adressez-vous au Mog distrait pour monter sur une mogrette puis répandez quelques pistils sur le visage de Mogupp et des autres Mogs. Ça devrait les requinquer, kuppo !"
+114,TEXT_BANMOG002_02321_FLUFFMOG02321_000_150,"Je vous attendais, Player ! Mogzin m'a déjà tout expliqué. Montez sur une mogrette et allez répandre quelques pistils sur le visage de Mogupp et des autres Mogs pour les réveiller, kuppo !"
+115,TEXT_BANMOG002_02321_FLUFFMOG02321_000_154,"Vous voulez remonter sur une mogrette ? Pas de problème, kuppo !"
+116,TEXT_BANMOG002_02321_SYSTEM_000_155,Mogupp et les autres Mogs célestes semblent fourbus... Allez parler au Mog distrait pour monter sur une mogrette et répandre quelques pistils sur leur visage pour les réveiller.
+117,TEXT_BANMOG002_02321_MOGUPP_000_160,"... Kuppo !? Que s'est-il passé ? Je me sens si léger... Si ma fatigue a disparu, ça ne peut vouloir dire qu'une chose : qu'il est temps de retourner travailler ! Allons-y, kuppo !"
+118,TEXT_BANMOG002_02321_MOGUPP_000_162,"Quel plaisir de travailler, je n'ai pas envie de m'arrêter ! Mogzin nous a bien eus, mais nous ne lui en voulons pas. Grâce à lui, nous avons un nouveau passe-temps favori, kuppo !"
+119,TEXT_BANMOG002_02321_FLUFFMOG02321_000_163,"Alors, que pensez-vous de mes mogrettes ? Je ne connais pas de moyen de transport plus confortable. Si vous désirez à nouveau y monter, n'hésitez pas à demander, kuppo !"
+120,TEXT_BANMOG002_02321_MOGZIN_000_170,"Merci Player ! Grâce à votre aide, nous avons reçu les renforts prévus, et en plus ils mettent du cœur à l'ouvrage. Tout le monde travaille dans la bonne humeur, et le déblaiement avance bien, kuppo !"
+121,TEXT_BANMOG002_02321_MOGZIN_000_171,"Quant à moi, je suis très fier d'avoir réussi à jouer un tour à mes confrères Mogs pour la première fois. Maintenant, ils savent à quoi s'en tenir avec le contremaître des Mogdernisateurs célestes !"
+122,TEXT_BANMOG002_02321_MOGZIN_000_172,"Les paroles de monsieur Tarresson m'ont fait comprendre quel était mon problème, kuppo. Désormais, je ne laisserai plus jamais quelqu'un dire que je manque de volonté !"
+123,TEXT_BANMOG002_02321_TARRESSON_000_173,"Ha ha ha ha ! Je constate avec plaisir que tu as bien mûri, mon petit Mogzin ! Tant mieux, car cela te sera aussi utile pour devenir un artisan accompli. N'oublie jamais l'état d'esprit qui est le tien aujourd'hui !"
+124,TEXT_BANMOG002_02321_MOGZIN_000_174,"C'est promis, kuppopo ! À partir de maintenant, j'adopte la devise de votre famille. Je ne sais pas si je vais renverser des montagnes, mais je suis résolu à mener à bien la restauration de Zénith !"
+125,TEXT_BANMOG002_02321_SYSTEM_000_180,"Grâce aux efforts de Mogupp et des autres Mogs célestes venus en renfort, les débris qui encombraient Bahrr Lehs ont été déblayés !"
+126,TEXT_BANMOG002_02321_SYSTEM_000_190,Votre réputation auprès des Mogdernisateurs célestes est passée à “Reconnu”. L'aide que vous avez apportée à Mogzin l'a convaincu de votre valeur.
+127,TEXT_BANMOG002_02321_SYSTEM_000_191,Vous pouvez désormais lancer de nouvelles quêtes quotidiennes en vous adressant à Mogek.
+128,TEXT_BANMOG002_02321_SYSTEM_000_192,"De plus, trois quêtes sup­plé­men­tai­res vous sont proposées, uniquement pendant la journée d'obtention de votre nouveau rang de réputation. Vous ne pouvez les accepter que dans la limite de votre quota quotidien."
+129,TEXT_BANMOG002_02321_SYSTEM_000_193,Mogek vous les proposera après que vous aurez lancé celles qui étaient disponibles avant le gain de rang.
+130,TEXT_BANMOG002_02321_SYSTEM_000_194,Vous pouvez aussi faire l'acquisition de nouveaux articles correspondant au rang “Reconnu” auprès de Mogmul. Faites-en bon usage au cours de vos aventures !
+131,TEXT_BANMOG002_02321_TARRESSON_000_037,（★未使用／削除予定★）
+132,TEXT_BANMOG002_02321_MOGUPP_000_072,（★未使用／削除予定★）
+133,TEXT_BANMOG002_02321_TARRESSON_000_073,（★未使用／削除予定★）
+134,TEXT_BANMOG002_02321_TARRESSON_000_090,（★未使用／削除予定★）
+135,TEXT_BANMOG002_02321_TARRESSON_000_114,（★未使用／削除予定★）
+136,TEXT_BANMOG002_02321_FLUFFMOG02321_000_133,（★未使用／削除予定★）
+137,TEXT_BANMOG002_02321_MOGUPP_000_144,（★未使用／削除予定★）
+138,TEXT_BANMOG002_02321_TARRESSON_000_145,（★未使用／削除予定★）
+139,TEXT_BANMOG002_02321_MOGUPP_000_151,（★未使用／削除予定★）
+140,TEXT_BANMOG002_02321_TARRESSON_000_152,（★未使用／削除予定★）
+141,TEXT_BANMOG002_02321_MOGZIN_000_153,（★未使用／削除予定★）
+142,TEXT_BANMOG002_02321_TARRESSON_000_161,（★未使用／削除予定★）
+143,TEXT_BANMOG002_02321_MOGZIN_000_175,（★未使用／削除予定★）
