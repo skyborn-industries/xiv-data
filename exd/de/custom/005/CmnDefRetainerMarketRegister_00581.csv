@@ -1,4 +1,3 @@
-#,0,1
 0,TEXT_CMNDEFRETAINERMARKETREGISTER_00581_ERROR_DISABLE,Dieser Schalter ist momentan geschlossen. Bitte versuche es später noch einmal.
 1,TEXT_CMNDEFRETAINERMARKETREGISTER_00581_ERROR_RETAINER_COUNT,Du hast momentan gar keinen Gehilfen.
 2,TEXT_CMNDEFRETAINERMARKETREGISTER_00581_ERROR_RETAINER_CHARGE,"Du kannst keinen Gehilfen anstellen, weil der Vertrag ausgelaufen ist."

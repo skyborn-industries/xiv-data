@@ -1,4 +1,3 @@
-#,0,1
 0,TEXT_EXITRANGE_DISMOUNT_Q,"マウントに乗った状態で、これ以上先に進むことはできません。
 マウントから降りますか？"
 1,TEXT_EXITRANGE_DISMOUNT_YES,はい

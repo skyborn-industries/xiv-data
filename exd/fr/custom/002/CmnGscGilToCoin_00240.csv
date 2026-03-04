@@ -1,4 +1,3 @@
-#,0,1
 0,TEXT_CMNGSCGILTOCOIN_00240_TALK_ACTOR,"Soyez la bienvenue au Gold Saucer des Manderville, aventurière ! Vous désirez vous procurer des points ? Je m'occupe de vous tout de suite !"
 1,TEXT_CMNGSCGILTOCOIN_00240_ERROR_GIL,"... Je suis désolé, mais vous n'avez pas assez de gils. Veuillez revenir plus tard."
 2,TEXT_CMNGSCGILTOCOIN_00240_ERROR_COIN_MAX,"... Je suis désolé, mais le nombre de points en votre possession est supérieur à la limite que le bureau de change est autorisé à fournir."

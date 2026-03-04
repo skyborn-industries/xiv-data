@@ -1,4 +1,3 @@
-#,0,1
 0,TEXT_EXITRANGE_DISMOUNT_Q,You cannot proceed any further while mounted. Dismount?
 1,TEXT_EXITRANGE_DISMOUNT_YES,Yes
 2,TEXT_EXITRANGE_DISMOUNT_NO,Not Yet

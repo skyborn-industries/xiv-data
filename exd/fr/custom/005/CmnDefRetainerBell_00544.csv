@@ -1,4 +1,3 @@
-#,0,1
 0,TEXT_CMNDEFRETAINERBELL_00544_INACTIVE_TASK_ABORT,"La tâche confiée ne pouvant plus être accomplie, le jeton va vous être rendu et la demande faite au servant sera annulée."
 1,TEXT_CMNDEFRETAINERBELL_00544_LVUP_NO_CLASS,"Aucune classe n'ayant été attribuée à ce servant, vous ne pouvez pas lui donner ."
 2,TEXT_CMNDEFRETAINERBELL_00544_LVUP_NO_EFFECT,"Le servant ayant déjà atteint le niveau UNKNOWN, vous ne pouvez pas lui donner ."

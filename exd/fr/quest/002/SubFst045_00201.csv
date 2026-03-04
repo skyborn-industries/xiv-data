@@ -1,4 +1,3 @@
-#,0,1
 0,TEXT_SUBFST045_00201_SEQ_00,"Galfrid, instructeur au Bannock, veut vérifier que vous avez un équipement convenable avant de vous confier du travail."
 1,TEXT_SUBFST045_00201_SEQ_01,"Galfrid aimerait vous confier du travail, mais seulement à condition que vous soyez suf­fi­sam­ment bien équipée pour affronter les dangers de la forêt. Munissez-vous donc d'une arme et de pièces d'armure (cases “tête”, “torse”, “mains”, “jambes” et “pieds”) de niveau d'objet supérieur ou égal à 5, puis présentez-vous à lui."
 2,TEXT_SUBFST045_00201_SEQ_02,Galfrid a constaté que votre équipement convient au travail qu'il veut vous confier. Il pourra à présent vous proposer des missions l'esprit tranquille. 

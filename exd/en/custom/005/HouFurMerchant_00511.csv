@@ -1,4 +1,3 @@
-#,0,1
 0,TEXT_HOUFURMERCHANT_00511_CALL_RETAINER_FAILED,Your retainer did not respond.
 1,TEXT_HOUFURMERCHANT_00511_CALL_FAILED_NO_CHARGE,"The retainer managing this mannequin has been released from service. To access this mannequin, place it again and assign a new retainer."
 2,TEXT_HOUFURMERCHANT_00511_CHANGE_STATUS_DISABLE,You must remove all gear from the mannequin before changing its settings.

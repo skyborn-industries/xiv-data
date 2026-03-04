@@ -1,4 +1,3 @@
-#,0,1
 0,TEXT_CMNDEFRETAINERBELL_00544_INACTIVE_TASK_ABORT,The assigned venture will be abandoned as it is no longer available.
 1,TEXT_CMNDEFRETAINERBELL_00544_LVUP_NO_CLASS,Unable to use . You must first assign a class for your retainer.
 2,TEXT_CMNDEFRETAINERBELL_00544_LVUP_NO_EFFECT,Unable to use . Your retainer has already attained level UNKNOWN.

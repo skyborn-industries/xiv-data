@@ -1,4 +1,3 @@
-#,0,1
 0,TEXT_CMNDEFRETAINERCALL_00010_INACTIVE_TASK_ABORT,Die Unternehmung ist zurzeit nicht möglich. Der Auftrag wird abgebrochen und die Wertmarken zurückerstattet.
 1,TEXT_CMNDEFRETAINERCALL_00010_LVUP_NO_CLASS, kann nicht verwendet werden. Du musst deinem Gehilfen erst einen Job zuweisen.
 2,TEXT_CMNDEFRETAINERCALL_00010_LVUP_NO_EFFECT, kann nicht verwendet werden. Dein Gehilfe hat bereits Stufe UNKNOWN erreicht.

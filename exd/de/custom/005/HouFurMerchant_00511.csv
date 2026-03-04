@@ -1,4 +1,3 @@
-#,0,1
 0,TEXT_HOUFURMERCHANT_00511_CALL_RETAINER_FAILED,Der Gehilfe konnte nicht herbeigerufen werden.
 1,TEXT_HOUFURMERCHANT_00511_CALL_FAILED_NO_CHARGE,"Du kannst den Gehilfen nicht rufen, weil der Vertrag abgelaufen ist."
 2,TEXT_HOUFURMERCHANT_00511_CHANGE_STATUS_DISABLE,"Kleiderpuppen-Einstellungen können nicht geändert werden, solange Ausrüstung ausgestellt wird."
