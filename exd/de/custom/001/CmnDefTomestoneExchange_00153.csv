@@ -1,0 +1,7 @@
+#,0,1
+0,TEXT_CMNDEFTOMESTONEEXCHANGE_00153_HELP,? Die werden als Zahlungsmittel nicht mehr akzeptiert. Die Sammler scheinen das Interesse daran verloren zu haben.
+1,TEXT_CMNDEFTOMESTONEEXCHANGE_00153_TALK_NOT_HAVE,Ich könnte deine gegen  eintauschen ... wenn du welche besitzen würdest.
+2,TEXT_CMNDEFTOMESTONEEXCHANGE_00153_TALK_Q,"Wenn du möchtest, gebe ich dir  für . Zu ein bisschen Geld kann ich die sicher noch machen."
+3,TEXT_CMNDEFTOMESTONEEXCHANGE_00153_EXCHANGE_Q,UNKNOWN  gegen UNKNOWN  tauschen?
+4,TEXT_CMNDEFTOMESTONEEXCHANGE_00153_EXCHANGE_YES,Tauschen
+5,TEXT_CMNDEFTOMESTONEEXCHANGE_00153_EXCHANGE_NO,Abbrechen

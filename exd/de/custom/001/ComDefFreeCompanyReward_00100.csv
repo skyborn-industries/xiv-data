@@ -1,0 +1,15 @@
+#,0,1
+0,TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_001,"Willkommen. Ich bin von der Verwaltungsoffizierin des Mahlstroms beauftragt, die mit uns affiliierten Freien Ge­sell­schaften im Tausch gegen Ge­sell­schaftstaler mit verschiedenen Stärkungen und Verbesserungen auszustatten."
+1,TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_Q,Was möchtest du tun?
+2,TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_A1,Mit Ge­sell­schaftstalern Ge­sell­schaftskommandos erwerben
+3,TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_FCC_SHOP,Mit Ge­sell­schaftstalern Gegenstände erwerben
+4,TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_A2,Mehr über Ge­sell­schaftstaler erfahren
+5,TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_A3,Nichts
+6,TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_010,"Ge­sell­schaftstaler? Das ist die Währung, die Freie Ge­sell­schaften statt Gil oder Staatstalern benutzen. "
+7,TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_011,"Sie werden angehäuft, wenn ihre Mitglieder verschiedenste Aufgaben im Namen der Freien Ge­sell­schaft erfüllen."
+8,TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_012,"Diese Währung kann dann bei dem Quartiermeister für Freie Ge­sell­schaften der affiliierten Staatlichen Ge­sell­schaft eingetauscht werden, um verschiedene hilfreiche Effekte und Gegenstände zu erhalten."
+9,TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_013,"Der Tausch ist nur möglich, wenn die Freie Ge­sell­schaft ihren Rang erhöht und damit das Recht zum Erwerben dieser sogenannten Ge­sell­schaftskommandos erlangt."
+10,TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_014,"Außerdem muss dir der Anführer der Ge­sell­schaft das Recht gegeben haben, Ge­sell­schaftstaler zu verwenden."
+11,TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_ERR1,"Bist du noch nicht Mitglied einer Freien Ge­sell­schaft? Das solltest du aber in Erwägung ziehen, denn die Vorteile sind beachtlich."
+12,TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_ERR2,（★未使用／削除予定★）
+13,TEXT_COMDEFFREECOMPANYREWARD_00100_TALK_ACTOR_ERR3,"Ich bin nur für die Freien Ge­sell­schaften zuständig, die auch mit uns affiliiert sind. Bitte wende dich an den zuständigen Verwaltungsoffizier deiner Staatlichen Ge­sell­schaft. Er kann dir die Stärkungseffekte verschaffen, an denen du interessiert bist. "

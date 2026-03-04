@@ -1,0 +1,7 @@
+#,0,1
+0,TEXT_CMNDEFTOMESTONEEXCHANGE_00153_HELP,"Des , vous dites ? Rowena ne les prend plus, ça ne se vendait pas. Mais vous savez, dans ce métier, on trouve vite un autre filon !"
+1,TEXT_CMNDEFTOMESTONEEXCHANGE_00153_TALK_NOT_HAVE,"Si vous vouliez, je pourrais vous les échanger contre des ... Mais vous n'avez pas , alors ça ne vous servira pas..."
+2,TEXT_CMNDEFTOMESTONEEXCHANGE_00153_TALK_Q,"Si vous voulez, je peux prendre vos  et vous donner des  en échange. Alors ?"
+3,TEXT_CMNDEFTOMESTONEEXCHANGE_00153_EXCHANGE_Q,Échanger 0  contre 0  ?
+4,TEXT_CMNDEFTOMESTONEEXCHANGE_00153_EXCHANGE_YES,Échanger
+5,TEXT_CMNDEFTOMESTONEEXCHANGE_00153_EXCHANGE_NO,Annuler

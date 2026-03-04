@@ -1,0 +1,81 @@
+#,0,1
+0,TEXT_BANIXA607_01568_SEQ_00,"**Règle spéciale :  synchronisation de quête**
+* *Avant de commencer cette quête, il est recommandé d'être au niveau 16 minimum pour les disciples de la main, et au niveau 49 minimum pour les disciples de la guerre et de la magie.*
+
+Jezul Ahuatan a une commande des plus délicates et raffinées à vous confier."
+1,TEXT_BANIXA607_01568_SEQ_01,"* *Cette quête est ** synchronisée** avec votre niveau.*
+
+Jezul Ahuatan aimerait que vous fabriquiez deux . Rendez-vous à Natalan pour y trouver l'éclaireur des Planeurs d'Ehcatl en possession des matériaux puis, en mode de discussion **Dire**, dites-lui “Bientôt nous retrouverons”."
+2,TEXT_BANIXA607_01568_SEQ_02,L'éclaireur des Planeurs d'Ehcatl vous a remis les matériaux dont vous avez besoin. Rendez-vous maintenant au camp de la Tête du dragon pour demander à Norbettaux l'au­to­ri­sa­tion d'utiliser ses équipements d'artisanat.
+3,TEXT_BANIXA607_01568_SEQ_03,"Vous pouvez maintenant faire usage de l'installation d'artisanat. Servez-vous des matériaux pour fabriquer deux  et apportez-les à Jezul Ahuatan, au centre d'essais d'Ehcatl.
+* *Adressez-vous de nouveau à Norbettaux si vous n'avez plus de matériaux ou si vous avez perdu l'effet Installation : finition II.*"
+4,TEXT_BANIXA607_01568_SEQ_04,"Quand vous lui avez remis , Jezul Ahuatan était touché par la beauté de vos créations. Il vous a confié que le projet du Dezul Qualan était né d'un rêve de Sezul Totoloc. Quant aux mots de passe que vous avez utilisés jusqu'ici, ils forment la promesse faite entre les Planeurs d'Ehcatl et leur chef. “Tel le vent, haut dans le ciel nous nous envolerons. Ayatlan, terre sacrée, bientôt nous retrouverons.” Accompagnez-les dans les dernières marches qui les séparent de leur terre promise !"
+5,TEXT_BANIXA607_01568_SEQ_05,
+6,TEXT_BANIXA607_01568_SEQ_06,
+7,TEXT_BANIXA607_01568_SEQ_07,
+8,TEXT_BANIXA607_01568_SEQ_08,
+9,TEXT_BANIXA607_01568_SEQ_09,
+10,TEXT_BANIXA607_01568_SEQ_10,
+11,TEXT_BANIXA607_01568_SEQ_11,
+12,TEXT_BANIXA607_01568_SEQ_12,
+13,TEXT_BANIXA607_01568_SEQ_13,
+14,TEXT_BANIXA607_01568_SEQ_14,
+15,TEXT_BANIXA607_01568_SEQ_15,
+16,TEXT_BANIXA607_01568_SEQ_16,
+17,TEXT_BANIXA607_01568_SEQ_17,
+18,TEXT_BANIXA607_01568_SEQ_18,
+19,TEXT_BANIXA607_01568_SEQ_19,
+20,TEXT_BANIXA607_01568_SEQ_20,
+21,TEXT_BANIXA607_01568_SEQ_21,
+22,TEXT_BANIXA607_01568_SEQ_22,
+23,TEXT_BANIXA607_01568_SEQ_23,
+24,TEXT_BANIXA607_01568_TODO_00,"En mode de discussion **Dire**, dire “Bientôt nous retrouverons” à l'éclaireur des Planeurs d'Ehcatl"
+25,TEXT_BANIXA607_01568_TODO_01,Apporter  à Norbettaux
+26,TEXT_BANIXA607_01568_TODO_02,Fabriquer 
+27,TEXT_BANIXA607_01568_TODO_03,
+28,TEXT_BANIXA607_01568_TODO_04,
+29,TEXT_BANIXA607_01568_TODO_05,
+30,TEXT_BANIXA607_01568_TODO_06,
+31,TEXT_BANIXA607_01568_TODO_07,
+32,TEXT_BANIXA607_01568_TODO_08,
+33,TEXT_BANIXA607_01568_TODO_09,
+34,TEXT_BANIXA607_01568_TODO_10,
+35,TEXT_BANIXA607_01568_TODO_11,
+36,TEXT_BANIXA607_01568_TODO_12,
+37,TEXT_BANIXA607_01568_TODO_13,
+38,TEXT_BANIXA607_01568_TODO_14,
+39,TEXT_BANIXA607_01568_TODO_15,
+40,TEXT_BANIXA607_01568_TODO_16,
+41,TEXT_BANIXA607_01568_TODO_17,
+42,TEXT_BANIXA607_01568_TODO_18,
+43,TEXT_BANIXA607_01568_TODO_19,
+44,TEXT_BANIXA607_01568_TODO_20,
+45,TEXT_BANIXA607_01568_TODO_21,
+46,TEXT_BANIXA607_01568_TODO_22,
+47,TEXT_BANIXA607_01568_TODO_23,
+48,TEXT_BANIXA607_01568_JEZULAHUATAN_000_000,"Croaaac ! Celui-ci a cherché celle-là partout ! Elle va fabriquer deux , et pas question de travail bâclé !"
+49,TEXT_BANIXA607_01568_JEZULAHUATAN_000_010,"Elle se dit peut-être que ça ne va pas changer grand-chose au résultat final, mais elle se trompe com­plè­te­ment ! Une décoration en métal précieux sera du plus bel effet sur le Dezul Qualan."
+50,TEXT_BANIXA607_01568_JEZULAHUATAN_000_020,"Elle se dit peut-être que ça ne va pas changer grand-chose au résultat final, mais elle se trompe com­plè­te­ment ! De la peinture à la teinte raffinée sera du plus bel effet pour agrémenter le Dezul Qualan de motifs ixali."
+51,TEXT_BANIXA607_01568_JEZULAHUATAN_000_030,"Elle se dit peut-être que ça ne va pas changer grand-chose au résultat final, mais elle se trompe com­plè­te­ment ! Une décoration en bois et cuir précieux sera du plus bel effet sur le Dezul Qualan."
+52,TEXT_BANIXA607_01568_JEZULAHUATAN_000_040,Il est inutile de préciser que celle-là est tenue de faire usage des matériaux les plus délicats pour cette commande. Qu'elle sache qu'elle pourra les trouver à Natalan !
+53,TEXT_BANIXA607_01568_JEZULAHUATAN_000_041,"En fait, un éclaireur des Planeurs qui se trouve ac­tu­el­le­ment sur place a collecté quelques échan­til­lons de matériaux rares et précieux au cours de ses pérégrinations qui devraient par­fai­te­ment répondre aux besoins de celle-là."
+54,TEXT_BANIXA607_01568_JEZULAHUATAN_000_042,"Comme celle-là en a l'habitude maintenant, aucun contact ne pourra être établi sans mot de passe ! Cette fois-ci, elle devra dire “Bientôt nous retrouverons” au frère ixal."
+55,TEXT_BANIXA607_01568_JEZULAHUATAN_000_050,"Un éclaireur des Planeurs qui se trouve ac­tu­el­le­ment à Natalan a en sa possession des matériaux qui devraient par­fai­te­ment répondre aux besoins de celle-là. Qu'elle n'oublie pas de lui dire le mot de passe, “Bientôt nous retrouverons” !"
+56,TEXT_BANIXA607_01568_IXALSPY01568_000_061,Crrrroooaaac !? Que la chienne des cités ne s'approche pas davantage de celui-ci !
+57,TEXT_BANIXA607_01568_SYSTEM_100_061,"En mode de discussion **Dire**, utilisez le clavier ou le clavier virtuel pour lui donner le mot de passe “Bientôt nous retrouverons”."
+58,TEXT_BANIXA607_01568_SYSTEM_100_062,Bientôt nous retrouverons
+59,TEXT_BANIXA607_01568_IXALSPY01568_000_063,Croac !? Celle-là est donc la sœur des Planeurs qui a besoin d'... Celui-ci a ce qu'il lui faut !
+60,TEXT_BANIXA607_01568_IXALSPY01568_000_064,"Maintenant, que celle-là emporte ces matériaux au camp de la Tête du dragon et s'adresse à un humain du nom de Norbettaux... Il expliquera à celle-là tout ce qu'elle aura besoin de savoir."
+61,TEXT_BANIXA607_01568_IXALSPY01568_000_066,Que celle-là emporte ces matériaux au camp de la Tête du dragon et s'adresse à un humain du nom de Norbettaux... Il expliquera à celle-là tout ce qu'elle aura besoin de savoir.
+62,TEXT_BANIXA607_01568_NORBETTAUX_000_070,"Bien le bonsoir, amie aventurière ! Que nous vaut votre visite, aujourd'hui ?"
+63,TEXT_BANIXA607_01568_NORBETTAUX_000_071,"Ma foi, voici ce que j'appelle des matériaux d'une grande délicatesse. Quelque chose me dit que votre commande du jour est quelque peu in­ha­bi­tuelle... Mais je suis sûr qu'une fois de plus, vous allez vous en sortir comme un chef. À vous de jouer !"
+64,TEXT_BANIXA607_01568_NORBETTAUX_000_100,"Les équipements du camp sont tout à vous. Si jamais vous manquez de temps ou de matériaux, n'hésitez pas à me faire signe."
+65,TEXT_BANIXA607_01568_NORBETTAUX_100_100,"Vous avez fini votre travail ? Dans ce cas, il ne vous reste plus qu'à livrer votre commanditaire. Si jamais il vous arrive un problème, venez tout de suite me le faire savoir, d'accord ?"
+66,TEXT_BANIXA607_01568_JEZULAHUATAN_000_130,"Ah, quel plaisir de revoir celle-là ! Son petit séjour à Natalan lui a plu ? J'espère qu'il l'aura inspirée pour exprimer toute sa sensibilité d'artisan."
+67,TEXT_BANIXA607_01568_JEZULAHUATAN_000_131,"Crrroooaaaac ! Quel charme ! Quelle élégance ! Quelle splendeur !!! Avec un tel ornement, le Dezul Qualan sera le plus majestueux des aéronefs ayant jamais plané au-dessus d'Éorzéa. Enfin, le rêve de ceux-ci va devenir réalité..."
+68,TEXT_BANIXA607_01568_JEZULAHUATAN_000_132,"Oui, le rêve de ceux-ci ! Car c'est comme ça que tout a commencé... Celui-ci va confier un petit secret à celle-là. Se rappelle-t-elle de tous les mots de passe qu'elle a utilisés ?"
+69,TEXT_BANIXA607_01568_JEZULAHUATAN_000_133,"“Tel le vent, haut dans le ciel nous nous envolerons.
+Ayatlan, terre sacrée, bientôt nous retrouverons.”
+C'est la promesse d'oncle Sezul, le rêve de tous les Planeurs d'Ehcatl !"
+70,TEXT_BANIXA607_01568_POPMESSAGE_000_200,Vous pouvez maintenant utiliser les installations d'artisanat.
+71,TEXT_BANIXA607_01568_SYSTEM_200_200,"Les objets de qualité normale fabriqués au cours de cette quête n'ayant aucune utilité et ne pouvant être vendus, il est recommandé de les jeter."

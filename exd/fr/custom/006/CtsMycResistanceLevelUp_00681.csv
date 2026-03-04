@@ -1,0 +1,28 @@
+#,0,1
+0,TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_001,"Bienvenue, Player ! Je suis l'officier chargé d'évaluer les faits d'armes de nos soldats."
+1,TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_002,"J'attends avec impatience que vous me contiez les vôtres, enfin, une fois que vous aurez rejoint nos troupes sur le champ de bataille. On ne vous appelle pas la grande libératrice pour rien, j'en suis sûr ! "
+2,TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_010,"Bonsoir. Voulez-vous vanter quelque nouveau fait d'armes, soldate ?"
+3,TEXT_CTSMYCRESISTANCELEVELUP_00681_Q1_000_001,Que faites-vous ?
+4,TEXT_CTSMYCRESISTANCELEVELUP_00681_A1_000_001,Énumérer vos nouveaux faits d'armes
+5,TEXT_CTSMYCRESISTANCELEVELUP_00681_A1_000_002,En savoir plus sur le rang de résistant
+6,TEXT_CTSMYCRESISTANCELEVELUP_00681_A1_000_003,Annuler
+7,TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_020,"Allons bon, Player ! Vous êtes connue comme le loup blanc ! Nous apprécions grandement les exploits que vous enchaînez sur le champ de bataille, mais je vous ai déjà offert la plus grande récompense que je puisse octroyer !"
+8,TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_030,"Hmm... Vous devrez briller encore un peu plus sur le champ de bataille, si vous désirez vous voir couverte de gloire."
+9,TEXT_CTSMYCRESISTANCELEVELUP_00681_SYSTEM_000_031,Il vous manque encore 0 point de faits d'armes pour passer au rang de résistante supérieur.
+10,TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_040,Im­pres­sionnant ! La férocité dont vous avez fait preuve exaltera à coup sûr les autres soldats !
+11,TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_050,Ces nouveaux exploits ne feront qu'asseoir d'autant plus votre réputation de grande libératrice ! Et je sais que ce ne seront pas les derniers !
+12,TEXT_CTSMYCRESISTANCELEVELUP_00681_SYSTEM_000_051,Votre rang de résistante vous permet de poursuivre l'histoire de Garde-la-Reine !
+13,TEXT_CTSMYCRESISTANCELEVELUP_00681_SYSTEM_000_052,Votre rang de résistante vous permet de poursuivre l'histoire de Garde-la-Reine ! Les Hauts plateaux de Zadnor vous attendent !
+14,TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_060,"Étant donné votre con­tri­bu­tion à la résistance, j'ai pris la liberté de faire agrandir votre malle du rappel. Ainsi, vous pourrez employer d'autant plus de techniques de combat d'antan !"
+15,TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_065,"Au fait, nos recherches nous en ont appris un peu plus sur les éclats oubliés. Votre malle du rappel est désormais en mesure d'en identifier de nouveaux types, alors je vous recommande d'y jeter un œil à l'occasion !"
+16,TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_070,"Autre chose, Player. Nous récompensons le courage sur le champ de bataille, pas la témérité. Veillez donc à rester prudente, je vous prie. Pour votre bien et votre réputation !"
+17,TEXT_CTSMYCRESISTANCELEVELUP_00681_SYSTEM_000_071,"Si votre rang de résistante est supérieur à UNKNOWN, vous recevez une pénalité de points de faits d'armes lorsque vous perdez con­nais­san­ce sur le front bozjien."
+18,TEXT_CTSMYCRESISTANCELEVELUP_00681_SYSTEM_000_072,Une pénalité plus sévère vous est infligée si vous vous téléportez à votre point de retour après avoir perdu con­nais­san­ce. La valeur de ces pénalités change en fonction de votre rang de résistante.
+19,TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_080,"Puisque ce sont là tous les faits d'armes que vous avez à me relater, il ne me reste plus qu'à vous souhaiter bonne chance, Player ! Continuez comme ça !"
+20,TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_090,"Mais j'y pense... Selon certains soldats, vous avez d'autres exploits à votre actif. Êtes-vous certaine de ne pas en avoir oublié dans votre rapport ?"
+21,TEXT_CTSMYCRESISTANCELEVELUP_00681_Q2_000_001,Énumérer d'autres faits d'armes ?
+22,TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_100,"Ah ! Je n'en avais pas cru mes oreilles, mais c'était donc vrai ! Je rendrai cela officiel afin que tous vous reconnaissent à votre juste valeur !"
+23,TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_105,"Eh bien, si vous le dites ! Repassez me voir la prochaine fois que vous vous lasserez des combats ! Nous reparlerons de vos faits d'armes !"
+24,TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_110,"Tout de même... Que d'exploits ! Vous êtes l'héroïne de Bozja, Player ! J'aurais bien du mal à vanter encore plus vos mérites !"
+25,TEXT_CTSMYCRESISTANCELEVELUP_00681_RESISTANCEOFFICER_000_111,Permettez-moi de vous remercier personnellement pour les tours de force que vous avez réalisés ici. Vous méritez amplement qu'on vous surnomme la grande libératrice !
+26,TEXT_CTSMYCRESISTANCELEVELUP_00681_PRG_TEST_001,（★未使用／削除予定★）

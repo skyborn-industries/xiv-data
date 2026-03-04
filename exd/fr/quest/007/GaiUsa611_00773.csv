@@ -1,0 +1,58 @@
+#,0,1
+0,TEXT_GAIUSA611_00773_SEQ_00,Erimmont veut que vous aidiez à la préparation de la fameuse sauce de Mun-Tuy.
+1,TEXT_GAIUSA611_00773_SEQ_01,"Pour obtenir une bouteille de sauce le plus vite possible, vous avez accepté d'aider Erimmont à mettre la touche finale à la dernière fournée. Allez dans la réserve pour chercher ,  et ."
+2,TEXT_GAIUSA611_00773_SEQ_02,Vous avez mis la main sur les épices nécessaires. Jetez-les dans la cuve de fermentation pour donner à la sauce de Mun-Tuy sa saveur inimitable.
+3,TEXT_GAIUSA611_00773_SEQ_03,"Les épices secrètes ajoutées et le processus de fermentation terminé, la sauce est bientôt prête. Adressez-vous à Geoffrey pour en obtenir une bouteille."
+4,TEXT_GAIUSA611_00773_SEQ_04,Vous avez enfin obtenu  tant espéré. Retournez au Moulin de la Carrière pour l'apporter à Aedoc.
+5,TEXT_GAIUSA611_00773_SEQ_05,"Aedoc était soulagée de vous voir revenir avec . Grâce à vous, elle a peut-être évité de finir en ragoût !"
+6,TEXT_GAIUSA611_00773_SEQ_06,
+7,TEXT_GAIUSA611_00773_SEQ_07,
+8,TEXT_GAIUSA611_00773_SEQ_08,
+9,TEXT_GAIUSA611_00773_SEQ_09,
+10,TEXT_GAIUSA611_00773_SEQ_10,
+11,TEXT_GAIUSA611_00773_SEQ_11,
+12,TEXT_GAIUSA611_00773_SEQ_12,
+13,TEXT_GAIUSA611_00773_SEQ_13,
+14,TEXT_GAIUSA611_00773_SEQ_14,
+15,TEXT_GAIUSA611_00773_SEQ_15,
+16,TEXT_GAIUSA611_00773_SEQ_16,
+17,TEXT_GAIUSA611_00773_SEQ_17,
+18,TEXT_GAIUSA611_00773_SEQ_18,
+19,TEXT_GAIUSA611_00773_SEQ_19,
+20,TEXT_GAIUSA611_00773_SEQ_20,
+21,TEXT_GAIUSA611_00773_SEQ_21,
+22,TEXT_GAIUSA611_00773_SEQ_22,
+23,TEXT_GAIUSA611_00773_SEQ_23,
+24,TEXT_GAIUSA611_00773_TODO_00,Obtenir 
+25,TEXT_GAIUSA611_00773_TODO_01,Obtenir 
+26,TEXT_GAIUSA611_00773_TODO_02,Obtenir 
+27,TEXT_GAIUSA611_00773_TODO_03,Mettre les épices dans la cuve de fermentation
+28,TEXT_GAIUSA611_00773_TODO_04,Parler à Geoffrey
+29,TEXT_GAIUSA611_00773_TODO_05,Apporter  à Aedoc
+30,TEXT_GAIUSA611_00773_TODO_06,
+31,TEXT_GAIUSA611_00773_TODO_07,
+32,TEXT_GAIUSA611_00773_TODO_08,
+33,TEXT_GAIUSA611_00773_TODO_09,
+34,TEXT_GAIUSA611_00773_TODO_10,
+35,TEXT_GAIUSA611_00773_TODO_11,
+36,TEXT_GAIUSA611_00773_TODO_12,
+37,TEXT_GAIUSA611_00773_TODO_13,
+38,TEXT_GAIUSA611_00773_TODO_14,
+39,TEXT_GAIUSA611_00773_TODO_15,
+40,TEXT_GAIUSA611_00773_TODO_16,
+41,TEXT_GAIUSA611_00773_TODO_17,
+42,TEXT_GAIUSA611_00773_TODO_18,
+43,TEXT_GAIUSA611_00773_TODO_19,
+44,TEXT_GAIUSA611_00773_TODO_20,
+45,TEXT_GAIUSA611_00773_TODO_21,
+46,TEXT_GAIUSA611_00773_TODO_22,
+47,TEXT_GAIUSA611_00773_TODO_23,
+48,TEXT_GAIUSA611_00773_ERIMMONT_000_000,"Vous voulez votre bouteille de sauce ? Écoutez, ma jeune amie, Gridania ne s'est pas faite en un jour."
+49,TEXT_GAIUSA611_00773_ERIMMONT_000_001,"Tiens, puisque vous êtes si impatiente, que diriez-vous de m'aider à mettre la touche finale à ma dernière fournée ? Vous pourriez apprendre quelques trucs in­té­res­sants au passage."
+50,TEXT_GAIUSA611_00773_ERIMMONT_000_002,"Dans la réserve de derrière, je garde quelques épices qui donnent ce goût si particulier à ma sauce. Allez les chercher puis jetez-en un peu dans la cuve de fermentation, et Geoffrey s'occupera du reste. Quand la sauce sera prête, vous serez libre d'en apporter une bouteille à Aedoc."
+51,TEXT_GAIUSA611_00773_SYSTEM_000_000,醸造庫の倉庫からeobj「」をゲット
+52,TEXT_GAIUSA611_00773_SYSTEM_000_001,ムントゥイ醸造庫の釜に「」を3つトレード。
+53,TEXT_GAIUSA611_00773_SYSTEM_000_002,（★未使用／削除予定★）
+54,TEXT_GAIUSA611_00773_NPC1_000_010,"Salut ! Tu fais une journée d'ap­pren­tis­sage aux Caves ? Très bien ! Alors, ,  et , tu as tout mis ? Bien mélanger... C'est prêt ! Tiens, cette bouteille est pour la maison."
+55,TEXT_GAIUSA611_00773_AEDOC_000_010,"Ah, vous revoilà enfin ! Dites-moi que vous rapportez une bouteille de sauce ! Je jurerais avoir entendu les gardes parler de me jeter dans le chaudron..."
+56,TEXT_GAIUSA611_00773_AEDOC_000_020,"Aaah, l'arôme inimitable des fèves de Mun-Tuy fermentées... et la sélection d'épices secrètes d'Erimmont je suppose ! Je vous remercie, Player, vous avez cer­tai­ne­ment évité une mutinerie, aujourd'hui !"

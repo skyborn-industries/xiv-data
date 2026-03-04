@@ -1,0 +1,95 @@
+#,0,1
+0,TEXT_JOBSCH450_01100_SEQ_00,"Alka Zolka sourit jusqu'aux oreilles, et a donc sûrement une bonne nouvelle à partager avec vous."
+1,TEXT_JOBSCH450_01100_SEQ_01,"Alka Zolka vous a révélé avoir découvert des éléments qui pourraient permettre de recréer la tenue que portaient les érudits des temps de Nym. Pour cela, il a contacté Redolent Rose, le maître de la guilde des couturiers, à Ul'dah. Il vous envoie tout d'abord obtenir  à Fangebrume, dans le Mor Dhona. Cherchez donc du côté d' qu'il y a là-bas."
+2,TEXT_JOBSCH450_01100_SEQ_02,"Vous avez jeté un œil du côté , mais des créatures vous ont aussitôt attaquée. Heu­reu­se­ment, vous avez réussi à vous en débarrasser. Fouillez de nouveau les environs à la recherche d'."
+3,TEXT_JOBSCH450_01100_SEQ_03,"Vous avez trouvé  qu'il vous faut. Apportez ça et , que vous a remis Alka Zolka, à Redolent Rose."
+4,TEXT_JOBSCH450_01100_SEQ_04,"Redolent Rose a fait appel à tout son talent pour con­fec­tion­ner vos habits nymiens. Ils ne sont toutefois pas com­plè­te­ment terminés. Remettez  qu'il vous a donné à Serendipity, à la guilde des orfèvres, pour qu'elle apporte sa touche au chapeau."
+5,TEXT_JOBSCH450_01100_SEQ_05,"Votre mortier d'érudite est fini. Au tour des gants, et pour cela vous devez aller à Gridania, à la guilde des tanneurs, et remettre  à maître Geva."
+6,TEXT_JOBSCH450_01100_SEQ_06,"Vous possédez désormais une jolie paire de mitaines d'érudite en cuir. Il ne vous manque plus qu'une paire de souliers, et qui de mieux pour ça que le cordonnier Beli ? Montrez-lui  pour qu'il puisse se mettre à l'œuvre."
+7,TEXT_JOBSCH450_01100_SEQ_07,"Votre panoplie d'érudite est désormais complète. Il ne vous reste plus qu'à montrer à votre camarade de recherche, Alka Zolka, de quoi vous avez l'air avec. Nul doute qu'il doit faire les cent pas à la guilde des maraudeurs, à Limsa Lominsa, en vous attendant."
+8,TEXT_JOBSCH450_01100_SEQ_08,"Alka Zolka était im­pres­sion­né en vous voyant vêtue comme une vraie érudite de la cité de Nym, ayant du mal à croire que les artisans d'Éorzéa aient réussi ce tour de force."
+9,TEXT_JOBSCH450_01100_SEQ_09,
+10,TEXT_JOBSCH450_01100_SEQ_10,
+11,TEXT_JOBSCH450_01100_SEQ_11,
+12,TEXT_JOBSCH450_01100_SEQ_12,
+13,TEXT_JOBSCH450_01100_SEQ_13,
+14,TEXT_JOBSCH450_01100_SEQ_14,
+15,TEXT_JOBSCH450_01100_SEQ_15,
+16,TEXT_JOBSCH450_01100_SEQ_16,
+17,TEXT_JOBSCH450_01100_SEQ_17,
+18,TEXT_JOBSCH450_01100_SEQ_18,
+19,TEXT_JOBSCH450_01100_SEQ_19,
+20,TEXT_JOBSCH450_01100_SEQ_20,
+21,TEXT_JOBSCH450_01100_SEQ_21,
+22,TEXT_JOBSCH450_01100_SEQ_22,
+23,TEXT_JOBSCH450_01100_SEQ_23,
+24,TEXT_JOBSCH450_01100_TODO_00,"Examiner , à Fangebrume"
+25,TEXT_JOBSCH450_01100_TODO_01,Examiner de nouveau 
+26,TEXT_JOBSCH450_01100_TODO_02,"Donner  et  à Redolent Rose, à la guilde des couturiers"
+27,TEXT_JOBSCH450_01100_TODO_03,Donner  à Serendipity
+28,TEXT_JOBSCH450_01100_TODO_04,"Donner  à Geva, à la guilde des tanneurs"
+29,TEXT_JOBSCH450_01100_TODO_05,Donner  à Beli
+30,TEXT_JOBSCH450_01100_TODO_06,"Parler à Alka Zolka, vêtue de la tenue d'érudite"
+31,TEXT_JOBSCH450_01100_TODO_07,
+32,TEXT_JOBSCH450_01100_TODO_08,
+33,TEXT_JOBSCH450_01100_TODO_09,
+34,TEXT_JOBSCH450_01100_TODO_10,
+35,TEXT_JOBSCH450_01100_TODO_11,
+36,TEXT_JOBSCH450_01100_TODO_12,
+37,TEXT_JOBSCH450_01100_TODO_13,
+38,TEXT_JOBSCH450_01100_TODO_14,
+39,TEXT_JOBSCH450_01100_TODO_15,
+40,TEXT_JOBSCH450_01100_TODO_16,
+41,TEXT_JOBSCH450_01100_TODO_17,
+42,TEXT_JOBSCH450_01100_TODO_18,
+43,TEXT_JOBSCH450_01100_TODO_19,
+44,TEXT_JOBSCH450_01100_TODO_20,
+45,TEXT_JOBSCH450_01100_TODO_21,
+46,TEXT_JOBSCH450_01100_TODO_22,
+47,TEXT_JOBSCH450_01100_TODO_23,
+48,TEXT_JOBSCH450_01100_ALKAZOLKA_000_000,"Ah, tu tombes bien, Player ! J'ai pas mal avancé dans mes recherches pendant que tu t'habituais à contrôler ta fée. Ce que j'ai découvert va très cer­tai­ne­ment t'intéresser."
+49,TEXT_JOBSCH450_01100_ALKAZOLKA_000_001,"Figure-toi que j'ai réussi à restaurer un relief de ma tablette de pierre qui montre des érudits nymiens, et j'ai aussi déchiffré un texte qui décrit leurs tenues !"
+50,TEXT_JOBSCH450_01100_ALKAZOLKA_000_002,Tu te rends compte ? On va pro­ba­ble­ment pouvoir reconstituer les habits que ces tacticiens portaient... Ce qui pourrait stimuler davantage la mémoire de ta fée !
+51,TEXT_JOBSCH450_01100_ALKAZOLKA_000_003,"Avec le peu de ren­sei­gne­ments que nous avons, nous allons avoir besoin de l'expertise d'artisans confirmés... et j'ai donc demandé de l'aide à certains des meilleurs en Éorzéa."
+52,TEXT_JOBSCH450_01100_ALKAZOLKA_000_004,"Tiens, j'ai tout résumé dans . Tu vas le prendre avec toi, le remettre à Redolent Rose, le maître de la guilde des couturiers à Ul'dah, et lui demander de te fabriquer une tenue."
+53,TEXT_JOBSCH450_01100_ALKAZOLKA_000_005,"Mais avant d'aller là-bas, il faut que tu obtiennes . C'est l'un des matériaux nécessaires."
+54,TEXT_JOBSCH450_01100_ALKAZOLKA_000_006,"On ne trouve ces végétaux rares qu'à Fangebrume, dans le Mor Dhona. Tu ne vois aucun inconvénient à aller fouiller parmi les lianes et les ronces, n'est-ce pas ? Dis-toi qu'il faut savoir souffrir un peu pour être bien vêtue."
+55,TEXT_JOBSCH450_01100_ALKAZOLKA_000_007,N'oublie pas de remettre ça aussi à Redolent Rose. J'ai hâte de te voir accoutrée comme une érudite de l'époque où Nym était à son apogée !
+56,TEXT_JOBSCH450_01100_ALKAZOLKA_000_010,"Tu as oublié ce que je t'ai expliqué ? Va obtenir  à Fangebrume, dans le Mor Dhona, et remets-le à Redolent Rose, à la guilde des couturiers d'Ul'dah, avec  que je t'ai confié."
+57,TEXT_JOBSCH450_01100_REDOLENTROSE_000_020,"Bonjour, ma jolie. C'est donc vous, la jeune personne que m'envoie ce monsieur Alka Zolka ? Comme quoi l'habit ne fait pas l'érudite..."
+58,TEXT_JOBSCH450_01100_REDOLENTROSE_000_021,"Votre ami n'a pas été très clair dans son courrier, mais ce que vous désirez, c'est que je confectionne un habit en me basant sur ce traité, n'est-ce pas ?"
+59,TEXT_JOBSCH450_01100_REDOLENTROSE_000_022,"Je vois... Ça ne va pas être aisé, mais cette idée de reproduire un vêtement ancien me botte ! Ces tenues d'autrefois ont un air indémodable et une saveur qu'on ne retrouve pas dans ce que les gens portent de nos jours."
+60,TEXT_JOBSCH450_01100_REDOLENTROSE_000_023,"Vous m'avez aussi apporté . Très bien ! Il me servira à préparer la teinture nécessaire. J'espère que vous aimez le bleu foncé, parce que vous allez être servie. Allez, au travail !"
+61,TEXT_JOBSCH450_01100_REDOLENTROSE_000_024,Ah ! Et voilà ! 
+62,TEXT_JOBSCH450_01100_REDOLENTROSE_000_025,"Malgré ma grande expérience de la couture, je dois vous avouer que ce vêtement m'a donné du fil à retordre. Mais, croyez-moi, j'ai donné le meilleur de moi-même."
+63,TEXT_JOBSCH450_01100_REDOLENTROSE_000_026,Je tiens toutefois à attirer votre attention sur le fait que je n'ai fini que le bermuda. Les autres pièces requièrent le savoir-faire d'artisans d'autres disciplines.
+64,TEXT_JOBSCH450_01100_REDOLENTROSE_000_027,"Pour le chapeau, veuillez vous adresser à Serendipity des orfèvres. Les gants sont l'affaire de maître Geva de la guilde des tanneurs, et les chaussures nécessitent le travail de son confrère Beli."
+65,TEXT_JOBSCH450_01100_REDOLENTROSE_000_028,"Vous n'aurez qu'à remettre  à chacun d'entre eux, et ils sauront ce qu'ils doivent faire."
+66,TEXT_JOBSCH450_01100_REDOLENTROSE_000_029,"Ah, lorsque tout sera prêt, allez donc montrer à votre ami, Alka Zolka, à quoi vous ressemblez vêtue de cet habit. Il avait l'air avide de voir une érudite à la mode de Nym de ses propres yeux."
+67,TEXT_JOBSCH450_01100_REDOLENTROSE_000_040,"Je me suis occupé de la partie des jambes. Pour les autres pièces, vous devez vous adresser aux artisans des disciplines concernées."
+68,TEXT_JOBSCH450_01100_REDOLENTROSE_000_041,"Pour le chapeau, veuillez vous adresser à Serendipity des orfèvres. Les gants sont l'affaire de maître Geva de la guilde des tanneurs, et les chaussures nécessitent le travail de son confrère Beli."
+69,TEXT_JOBSCH450_01100_REDOLENTROSE_000_042,"Vous n'avez qu'à leur montrer  que je vous ai remis, et ils sauront ce qu'ils doivent faire."
+70,TEXT_JOBSCH450_01100_REDOLENTROSE_000_043,"Lorsque tout sera prêt, allez donc montrer à votre ami, Alka Zolka, à quoi vous ressemblez vêtue de cette tenue. Je crois bien qu'il est avide de voir une érudite à la mode de Nym en vrai."
+71,TEXT_JOBSCH450_01100_SERENDIPITY_000_050,"Bonsoir, bonsoir. C'est donc vous, cette érudite dont m'a parlé Redolent Rose."
+72,TEXT_JOBSCH450_01100_SERENDIPITY_000_051,Il m'a tout expliqué. Je vais donc me mettre au travail im­mé­dia­te­ment et apporter ma touche à ce mortier.
+73,TEXT_JOBSCH450_01100_SERENDIPITY_000_052,C'est fait ! J'ai incrusté un bouton et des décorations de mithril sur le chapeau con­fec­tion­né par Redolent Rose.
+74,TEXT_JOBSCH450_01100_SERENDIPITY_000_053,"L'éclat blanc de ce métal précieux se marie très bien au bleu foncé du tissu, je trouve. Oui, oui, c'est parfait comme ça !"
+75,TEXT_JOBSCH450_01100_GEVA_000_060,Tu es l'érudite pour laquelle Redolent Rose a fabriqué un habit ? Hmpf !
+76,TEXT_JOBSCH450_01100_GEVA_000_061,Pas la peine de m'expliquer quoi que ce soit. Je devine très bien ce que tu attends de moi. Je vais donc m'occuper de ces gants tout de suite.
+77,TEXT_JOBSCH450_01100_GEVA_000_062,Voilà. C'est ce que tu désirais ? J'ai cousu du cuir de buffle que j'avais commandé à Limsa Lominsa pour renforcer les gants.
+78,TEXT_JOBSCH450_01100_GEVA_000_063,J'ai fait en sorte que la pointe des doigts ne soit pas couverte pour te permettre de feuilleter ton grimoire plus facilement. Je compte sur toi pour en prendre grand soin.
+79,TEXT_JOBSCH450_01100_BELI_000_070,"Bonsoir. Vous venez pour cette tenue d'érudite, n'est-ce pas ? Écoutez, en tant que cordonnier, je me fais toujours un plaisir d'apporter mon aide lorsqu'on me la demande."
+80,TEXT_JOBSCH450_01100_BELI_100_070,"Et puis, là, j'ai le sentiment que c'est quelque chose d'assez ex­cep­tion­nel. Je vais donc mettre tout mon cœur à l'ouvrage !"
+81,TEXT_JOBSCH450_01100_BELI_000_071,Regardez-moi ces souliers ! J'y ai mis toute mon âme ! Je me suis basé sur le dessin que vous m'avez remis et j'ai utilisé du cuir de buffle et de sanglier.
+82,TEXT_JOBSCH450_01100_BELI_000_072,J'espère bien que vous les porterez avec honneur... et pendant de longues années.
+83,TEXT_JOBSCH450_01100_REDOLENTROSE_000_079,"Oh, non ! Ne me dites pas que vous avez perdu votre bermuda d'érudite ! Vous autres aventuriers ne savez pas prendre soin de vos affaires... Tenez, en voici un autre, mais n'allez pas l'égarer, cette fois !"
+84,TEXT_JOBSCH450_01100_SERENDIPITY_000_079,"Comment !? Vous avez perdu le mortier sur lequel j'avais incrusté un bouton et des décorations... !? Bon, je vais vous en refaire un, mais prenez-en le plus grand soin. D'accord ?"
+85,TEXT_JOBSCH450_01100_GEVA_000_079,"Pas la peine de me le dire, je devine à ton regard que tu as perdu les gants que j'avais con­fec­tion­nés pour toi. Ne t'avais-je pas dit d'en prendre soin... ? Tiens, en voici une nouvelle paire. Fais attention, cette fois."
+86,TEXT_JOBSCH450_01100_BELI_100_079,"... Et dire que j'avais mis toute mon âme dans ces souliers... Bon, ça passe pour cette fois, mais prenez un peu plus soin de vos affaires !"
+87,TEXT_JOBSCH450_01100_ALKAZOLKA_000_079,"Allez, montre-moi vite de quoi tu as l'air avec tes vêtements d'érudit ! ... Si jamais il te manque quelque chose, tu peux toujours retourner voir les artisans."
+88,TEXT_JOBSCH450_01100_ALKAZOLKA_000_080,"Ah, Player ! Alors ? Alors ? Ta tenue d'érudite est terminée ?"
+89,TEXT_JOBSCH450_01100_ALKAZOLKA_000_090,Oh ! Voilà donc ce à quoi ressemblaient les vêtements des tacticiens de Nym !
+90,TEXT_JOBSCH450_01100_ALKAZOLKA_000_091,C'est fantastique ! Et dire qu'on a réussi à les reproduire uniquement sur la base de ce relief et de quelques descriptions !
+91,TEXT_JOBSCH450_01100_ALKAZOLKA_000_092,Je crois que nous pouvons tirer notre chapeau aux artisans qui ont réalisé ce véritable tour de force ! C'est presque un tour de magie même !
+92,TEXT_JOBSCH450_01100_ALKAZOLKA_000_093,Oh ! On dirait bien que ta petite camarade aime ton nouvel accoutrement ! Mon plan est donc un grand succès ! Hé hé hé !
+93,TEXT_JOBSCH450_01100_POP_MESSAGE,Vous ressentez une présence hostile !

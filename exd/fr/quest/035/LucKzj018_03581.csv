@@ -1,0 +1,66 @@
+#,0,1
+0,TEXT_LUCKZJ018_03581_SEQ_00,"**Règle spéciale :  synchronisation de quête**
+Pulshs Ooan a l'air ardemment intéressé par le feu."
+1,TEXT_LUCKZJ018_03581_SEQ_01,
+2,TEXT_LUCKZJ018_03581_SEQ_02,
+3,TEXT_LUCKZJ018_03581_SEQ_03,
+4,TEXT_LUCKZJ018_03581_SEQ_04,
+5,TEXT_LUCKZJ018_03581_SEQ_05,
+6,TEXT_LUCKZJ018_03581_SEQ_06,
+7,TEXT_LUCKZJ018_03581_SEQ_07,
+8,TEXT_LUCKZJ018_03581_SEQ_08,
+9,TEXT_LUCKZJ018_03581_SEQ_09,
+10,TEXT_LUCKZJ018_03581_SEQ_10,
+11,TEXT_LUCKZJ018_03581_SEQ_11,
+12,TEXT_LUCKZJ018_03581_SEQ_12,
+13,TEXT_LUCKZJ018_03581_SEQ_13,
+14,TEXT_LUCKZJ018_03581_SEQ_14,
+15,TEXT_LUCKZJ018_03581_SEQ_15,
+16,TEXT_LUCKZJ018_03581_SEQ_16,
+17,TEXT_LUCKZJ018_03581_SEQ_17,
+18,TEXT_LUCKZJ018_03581_SEQ_18,
+19,TEXT_LUCKZJ018_03581_SEQ_19,
+20,TEXT_LUCKZJ018_03581_SEQ_20,
+21,TEXT_LUCKZJ018_03581_SEQ_21,
+22,TEXT_LUCKZJ018_03581_SEQ_22,
+23,TEXT_LUCKZJ018_03581_SEQ_23,
+24,TEXT_LUCKZJ018_03581_TODO_00,Utiliser  sur 
+25,TEXT_LUCKZJ018_03581_TODO_01,Attendre devant 
+26,TEXT_LUCKZJ018_03581_TODO_02,Obtenir  dans 
+27,TEXT_LUCKZJ018_03581_TODO_03,Donner  à l'Ondo cuisinier
+28,TEXT_LUCKZJ018_03581_TODO_04,Donner  à Pulshs Ooan
+29,TEXT_LUCKZJ018_03581_TODO_05,
+30,TEXT_LUCKZJ018_03581_TODO_06,
+31,TEXT_LUCKZJ018_03581_TODO_07,
+32,TEXT_LUCKZJ018_03581_TODO_08,
+33,TEXT_LUCKZJ018_03581_TODO_09,
+34,TEXT_LUCKZJ018_03581_TODO_10,
+35,TEXT_LUCKZJ018_03581_TODO_11,
+36,TEXT_LUCKZJ018_03581_TODO_12,
+37,TEXT_LUCKZJ018_03581_TODO_13,
+38,TEXT_LUCKZJ018_03581_TODO_14,
+39,TEXT_LUCKZJ018_03581_TODO_15,
+40,TEXT_LUCKZJ018_03581_TODO_16,
+41,TEXT_LUCKZJ018_03581_TODO_17,
+42,TEXT_LUCKZJ018_03581_TODO_18,
+43,TEXT_LUCKZJ018_03581_TODO_19,
+44,TEXT_LUCKZJ018_03581_TODO_20,
+45,TEXT_LUCKZJ018_03581_TODO_21,
+46,TEXT_LUCKZJ018_03581_TODO_22,
+47,TEXT_LUCKZJ018_03581_TODO_23,
+48,TEXT_LUCKZJ018_03581_PULSHSOOAN_000_000,"Fssshoh ! Humaine, figure-toi qu'il y a quelque chose que j'aimerais te demander. J'ai entendu dire que les gens de ton peuple mettaient la nourriture sssur le feu pour la conssserver plus longtemps. Ccc'est vrai, ççça ?"
+49,TEXT_LUCKZJ018_03581_PULSHSOOAN_000_001,"Fsssah ! J'en étais sssûr ! Depuis que la mer n'est plus là, nos aliments ssse périment très vite. Ccc'est dû à l'air, je penssse."
+50,TEXT_LUCKZJ018_03581_PULSHSOOAN_000_002,"Pour cccette raison, cccertains d'entre nous essaient de cuisiner comme les sssans-branchies. Pour ççça, on utilise une marmite qu'on a trouvée pas loin d'iccci. Le problème, ccc'est qu'on sssait pas trop comment faire et on a déjà brûlé quelques ingrédients bêtement."
+51,TEXT_LUCKZJ018_03581_PULSHSOOAN_000_003,"Fsssheuh, dis, tu voudrais pas nous montrer comment il faut sss'y prendre exactement ? Tout ccce que tu auras à faire, ccc'est d'utiliser ccces pattes de trilobite et les faire cuire dans la grande marmite. Notre cuisinier te regardera faire."
+52,TEXT_LUCKZJ018_03581_PULSHSOOAN_000_004,"Comme nous avons un peu peur du feu, on a placccé la marmite sur un petit promontoire à l'essst de Baïne. Merccci d'avanccce, humaine."
+53,TEXT_LUCKZJ018_03581_PULSHSOOAN_000_010,"Fsssheuh, comme je t'ai dit, notre marmite est à l'essst d'iccci, sssur un petit promontoire. Je compte sssur toi pour montrer à notre cuisinier comment on fait cuire des pattes de trilobite. Merccci d'avanccce, humaine !"
+54,TEXT_LUCKZJ018_03581_ONDOPEOPLE03581_000_011,"Fsssh... Tu sssais comment on prépare un ragoût avec des pattes de trilobite, sssans-branchies ? Moi, j'ai beau essayer, j'y arrive pas..."
+55,TEXT_LUCKZJ018_03581_SYSTEM_000_020,Vous avez le sentiment qu'il vaut mieux laisser cuire  un peu plus. Attendez devant .
+56,TEXT_LUCKZJ018_03581_SYSTEM_000_025, a l'air bien cuit. Il est temps de le sortir  et de le donner à l'Ondo cuisinier.
+57,TEXT_LUCKZJ018_03581_ONDOPEOPLE03581_000_030,"Fssshoh, le ragoût est prêt ? ..."
+58,TEXT_LUCKZJ018_03581_ONDOPEOPLE03581_000_031,Fssshouah !!! Ccc'est brûlant !! ... On dirait un jet d'eau chaude causé par un volcan !
+59,TEXT_LUCKZJ018_03581_ONDOPEOPLE03581_000_032,"Mais sssi ccc'est tiède, la nourriture sss'abîme très vite et elle est pas bonne. Je sssavais pas comment faire, mais grâccce à toi, je crois que j'ai compris : il faut attendre un peu plus longtemps que ççça sssoit bien cuit."
+60,TEXT_LUCKZJ018_03581_ONDOPEOPLE03581_000_033,"Je te remercccie, sssans-branchies. Tiens, prends-en un peu et apporte ççça à Pulshs Ooan, sss'il te plaît."
+61,TEXT_LUCKZJ018_03581_ONDOPEOPLE03581_000_035,"Je compte sssur toi pour apporter un peu du ragoût à Pulshs Ooan. Merccci, sssans-branchies."
+62,TEXT_LUCKZJ018_03581_PULSHSOOAN_000_040,Fsssh... Alors ? Tu as réussi à apprendre à notre cuisinier comment faire cuire des pattes de trilobite ? ...
+63,TEXT_LUCKZJ018_03581_PULSHSOOAN_000_041,"Fssshoh ! Ccce ragoût est tout chaud et délicccieux ! J'ai bien fait de te demander, humaine ! Grâccce à toi, on va pouvoir manger ççça tous les jours ! Merccci infiniment ! Fssshmiam miam..."

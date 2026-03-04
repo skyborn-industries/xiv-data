@@ -1,0 +1,13 @@
+#,0,1
+0,TEXT_CMNDEFSCRIPCONVERT_00390_TALK_GREETING_00000,"Bonsoir aventurière ! Je peux échanger vos  et  contre des  ou des , si vous voulez."
+1,TEXT_CMNDEFSCRIPCONVERT_00390_ASK_SCRIP_Q000,Quel type d'assignats voulez-vous échanger ?
+2,TEXT_CMNDEFSCRIPCONVERT_00390_ASK_SCRIP_A001,
+3,TEXT_CMNDEFSCRIPCONVERT_00390_ASK_SCRIP_A002,
+4,TEXT_CMNDEFSCRIPCONVERT_00390_ASK_SCRIP_A003,Annuler
+5,TEXT_CMNDEFSCRIPCONVERT_00390_ASK_EXCHANGE_Q000,Échanger UNKNOWN  contre UNKNOWN  ?
+6,TEXT_CMNDEFSCRIPCONVERT_00390_ASK_LIMIT_Q000,"**Attention : tous les  au-delà de la limite ne pourront pas être obtenus.**
+
+Confirmer l'échange ?"
+7,TEXT_CMNDEFSCRIPCONVERT_00390_SYSTEM_EXCHANGE_00000,Vous avez obtenu UNKNOWN  en échange de UNKNOWN .
+8,TEXT_CMNDEFSCRIPCONVERT_00390_TALK_NOTOBTAINABLE_00000,Oh ! Je crains que vous ne soyez pas en possession ...
+9,TEXT_CMNDEFSCRIPCONVERT_00390_TALK_MAXIMUM_00000,"Chère cliente, je suis au regret de vous dire que vous ne pouvez pas détenir davantage ..."

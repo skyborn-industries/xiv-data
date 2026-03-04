@@ -1,0 +1,13 @@
+#,0,1
+0,TEXT_CMNDEFTOMESTONECONVERT_00391_WHICH_Q,Que voulez-vous faire ?
+1,TEXT_CMNDEFTOMESTONECONVERT_00391_WHICH_CANCEL,Annuler
+2,TEXT_CMNDEFTOMESTONECONVERT_00391_HELP,"Des , vous dites ? Rowena ne les prend plus, ça ne se vendait pas. Mais vous savez, dans ce métier, on trouve vite un autre filon !"
+3,TEXT_CMNDEFTOMESTONECONVERT_00391_TALK_NOT_HAVE,"Si vous vouliez, je pourrais vous les échanger contre des ... Mais vous n'avez pas , alors ça ne vous servira pas..."
+4,TEXT_CMNDEFTOMESTONECONVERT_00391_TALK_Q,"Si vous voulez, je peux prendre vos  et vous donner des  en échange. Alors ?"
+5,TEXT_CMNDEFTOMESTONECONVERT_00391_EXCHANGE_Q,Échanger 0  contre 0  ?
+6,TEXT_CMNDEFTOMESTONECONVERT_00391_EXCHANGE_YES,Échanger
+7,TEXT_CMNDEFTOMESTONECONVERT_00391_EXCHANGE_NO,Annuler
+8,TEXT_CMNDEFTOMESTONECONVERT_00391_TALK_NOT_GET,Oh ? J'ai l'impression que vous avez déjà suf­fi­sam­ment ...
+9,TEXT_CMNDEFTOMESTONECONVERT_00391_OVERMAX_Q,"**Attention : tous les  au-delà de la limite ne pourront pas être obtenus.**
+
+ Confirmer l'échange ?"

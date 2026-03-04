@@ -1,0 +1,45 @@
+#,0,1
+0,TEXT_HOUFIXCOMPANYSUBMARINE_00447_TALK_ACTOR,0
+1,TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_SELECT_TITLE_0,Registriere ein Tauchboot.
+2,TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_SELECT_TITLE,"Wähle ein Tauchboot.
+Erkundungsfahrzeuge im Einsatz: UNKNOWN/UNKNOWN
+Erdseim-Fässer in Besitz: UNKNOWN"
+3,TEXT_HOUFIXCOMPANYSUBMARINE_00447_ADD_NEW_SUBMARINE,Registrierung eines neuen Tauchboots (UNKNOWN Registriermarke)
+4,TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_NAME,*UNKNOWN* (Rang UNKNOWN) 
+5,TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_NAME_FINISH,*UNKNOWN* (Rang UNKNOWN) (Erkundung abgeschlossen)
+6,TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_SELECT_EXIT,Nichts
+7,TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_CMD_TITLE,"Einstellungen an *UNKNOWN* (Rang UNKNOWN) vornehmen
+Erkundungsfahrzeuge im Einsatz: UNKNOWN/UNKNOWN
+Erdseim-Fässer in Besitz: UNKNOWN"
+8,TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_CMD_EXPEDITION,Auf Erkundung gehen
+9,TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_CMD_RESULT,Bericht der letzten Erkundung
+10,TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_CMD_PARTS,Bauteile austauschen
+11,TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_CMD_REPAIR_PARTS,Bauteile reparieren
+12,TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_CMD_SETTING,Einstellungen
+13,TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_CONF_COLOR,Bauteile färben
+14,TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_CONF_NAME,Name ändern
+15,TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_CONF_REMOVE,Demontieren
+16,TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_VOY_TITLE,"*UNKNOWN* (Rang UNKNOWN) auf Erkundung
+Erkundungsfahrzeuge im Einsatz: UNKNOWN/UNKNOWN
+Rückkehr: UNKNOWN Tag UNKNOWN Std UNKNOWN Min"
+17,TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_VOY_CUR_COND,Erkundung abbrechen
+18,TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_VOY_CUR_MAP,Seekarte einsehen
+19,TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_VOY_CUR_STATUS,Tauchboot überprüfen
+20,TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_NAME_TITLE,Gib einen Namen für das Tauchboot ein.
+21,TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_NAME_CAPTION,Name des Tauchboots
+22,TEXT_HOUFIXCOMPANYSUBMARINE_00447_SUBMARINE_NAME_MES_0,"Du kannst Buchstaben, Ziffern, die Leertaste und folgende Zeichen verwenden:
+**'. , : ; ! ? & - _**
+Zwei oder mehr aufeinanderfolgende Leerzeichen sind nicht möglich.
+Das erste und letzte Zeichen darf kein Leerzeichen sein.
+Ein Name nur aus Satzzeichen ist nicht möglich."
+23,TEXT_HOUFIXCOMPANYSUBMARINE_00447_REMOVE_SUBMARINE_TITLE,"**Achtung: Die Bauteile erhältst du zurück, nicht aber die Registriermarken. Daten wie der Rang des Tauchboots werden nicht gespeichert.**
+Das Tauchboot wirklich demontieren?"
+24,TEXT_HOUFIXCOMPANYSUBMARINE_00447_REMOVE_SUBMARINE_CHECK,Demontieren
+25,TEXT_HOUFIXCOMPANYSUBMARINE_00447_NO_REGISTRATION_1,Zur Registrierung sind Tauchboot-Bauteile sowie eine Gebühr in Form von Registriermarken erforderlich.
+26,TEXT_HOUFIXCOMPANYSUBMARINE_00447_NO_REGISTRATION_2,Registriermarken können beim Unterkunftsbeamten mit Ge­sell­schaftstalern gekauft werden.
+27,TEXT_HOUFIXCOMPANYSUBMARINE_00447_NO_REGISTRATION_3,"Vier verschiedene Tauchboot-Bauteile sind nötig: Rumpf-, Brücke-, Bug- und Heckteile. Sie können in der Produktionsanlage der Freien Ge­sell­schaft hergestellt werden."
+28,TEXT_HOUFIXCOMPANYSUBMARINE_00447_NO_ENERGY,Tauchboote benötigen Erdseim als Treibstoff. Erdseim-Fässer können beim Unterkunftsbeamten mit Ge­sell­schaftstalern gekauft werden.
+29,TEXT_HOUFIXCOMPANYSUBMARINE_00447_NO_EXPLOG_1,"Wenn eine Erkundung abgeschlossen ist, kann das Logbuch eingesehen werden, in dem alle Aktivitäten festgehalten sind."
+30,TEXT_HOUFIXCOMPANYSUBMARINE_00447_NO_EXPLOG_2,Dieses Logbuch liefert Hinweise für die nächste Erkundungsreise. So kann die Effizienz der Erkundungen immer mehr erhöht werden.
+31,TEXT_HOUFIXCOMPANYSUBMARINE_00447_NO_EXPLOG_3,"Allerdings wird immer nur der letzte Logbucheintrag angezeigt. Wenn du ihn aber mit denen der Erkundungen anderer Mitglieder der Freien Ge­sell­schaft vergleichst, werdet ihr sicher herausfinden, wie ihr euer Tauchboot am besten ausstatten könnt."
+32,TEXT_HOUFIXCOMPANYSUBMARINE_00447_NO_REPAIR_ITEM,Tauchboot-Bauteile können mit speziellen Magitek-Reparaturkits repariert werden.

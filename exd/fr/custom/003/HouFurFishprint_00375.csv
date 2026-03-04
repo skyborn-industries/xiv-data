@@ -1,0 +1,8 @@
+#,0,1
+0,TEXT_HOUFURFISHPRINT_00375_Q1_000_000,[Ichtyogramme : ]
+1,TEXT_HOUFURFISHPRINT_00375_Q1_000_001,[Ichtyogramme : aucun]
+2,TEXT_HOUFURFISHPRINT_00375_A1_000_002,Placer un ichtyogramme
+3,TEXT_HOUFURFISHPRINT_00375_A1_000_003,Retirer l'ichtyogramme
+4,TEXT_HOUFURFISHPRINT_00375_A1_000_004,Annuler
+5,TEXT_HOUFURFISHPRINT_00375_Q2_000_000,"Retirer l'ichtyogramme “” ?
+*** L'objet ci-dessous sera perdu.**"

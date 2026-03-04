@@ -1,0 +1,93 @@
+#,0,1
+0,TEXT_BANNAM406_03114_SEQ_00,"**Règle spéciale :  synchronisation de quête avec limitation de job ou de classe**
+** Il n'est possible de progresser dans cette quête qu'avec la classe qui a servi à la commencer.*
+
+Seigetsu semble inquiet... voire énervé."
+1,TEXT_BANNAM406_03114_SEQ_01,"Parler au Namazu amateur de thé, à Onsal Hakair"
+2,TEXT_BANNAM406_03114_SEQ_02,Livrer ce qui vous a été demandé au Namazu amateur de thé
+3,TEXT_BANNAM406_03114_SEQ_03,Remettre  à Seigetsu
+4,TEXT_BANNAM406_03114_SEQ_04,
+5,TEXT_BANNAM406_03114_SEQ_05,
+6,TEXT_BANNAM406_03114_SEQ_06,
+7,TEXT_BANNAM406_03114_SEQ_07,
+8,TEXT_BANNAM406_03114_SEQ_08,
+9,TEXT_BANNAM406_03114_SEQ_09,
+10,TEXT_BANNAM406_03114_SEQ_10,
+11,TEXT_BANNAM406_03114_SEQ_11,
+12,TEXT_BANNAM406_03114_SEQ_12,
+13,TEXT_BANNAM406_03114_SEQ_13,
+14,TEXT_BANNAM406_03114_SEQ_14,
+15,TEXT_BANNAM406_03114_SEQ_15,
+16,TEXT_BANNAM406_03114_SEQ_16,
+17,TEXT_BANNAM406_03114_SEQ_17,
+18,TEXT_BANNAM406_03114_SEQ_18,
+19,TEXT_BANNAM406_03114_SEQ_19,
+20,TEXT_BANNAM406_03114_SEQ_20,
+21,TEXT_BANNAM406_03114_SEQ_21,
+22,TEXT_BANNAM406_03114_SEQ_22,
+23,TEXT_BANNAM406_03114_SEQ_23,
+24,TEXT_BANNAM406_03114_TODO_00,"Parler au Namazu amateur de thé, à Onsal Hakair"
+25,TEXT_BANNAM406_03114_TODO_01,Fabriquer 
+26,TEXT_BANNAM406_03114_TODO_02,Remettre  à Seigetsu
+27,TEXT_BANNAM406_03114_TODO_03,
+28,TEXT_BANNAM406_03114_TODO_04,
+29,TEXT_BANNAM406_03114_TODO_05,
+30,TEXT_BANNAM406_03114_TODO_06,
+31,TEXT_BANNAM406_03114_TODO_07,
+32,TEXT_BANNAM406_03114_TODO_08,
+33,TEXT_BANNAM406_03114_TODO_09,
+34,TEXT_BANNAM406_03114_TODO_10,
+35,TEXT_BANNAM406_03114_TODO_11,
+36,TEXT_BANNAM406_03114_TODO_12,
+37,TEXT_BANNAM406_03114_TODO_13,
+38,TEXT_BANNAM406_03114_TODO_14,
+39,TEXT_BANNAM406_03114_TODO_15,
+40,TEXT_BANNAM406_03114_TODO_16,
+41,TEXT_BANNAM406_03114_TODO_17,
+42,TEXT_BANNAM406_03114_TODO_18,
+43,TEXT_BANNAM406_03114_TODO_19,
+44,TEXT_BANNAM406_03114_TODO_20,
+45,TEXT_BANNAM406_03114_TODO_21,
+46,TEXT_BANNAM406_03114_TODO_22,
+47,TEXT_BANNAM406_03114_TODO_23,
+48,TEXT_BANNAM406_03114_KOFUINSEIGETSU_000_000,"Bonsoir ! Vous avez déjà entendu parler des alcools rituels ? Je me posais quelques questions sur le sujet il y a peu... Je ne sais pas si vous avez remarqué, mais certains peuples offrent des boissons en libation au cours de leurs festivités et de leurs cérémonies religieuses."
+49,TEXT_BANNAM406_03114_KOFUINSEIGETSU_000_001,"Je me disais que ça vaudrait sans doute le coup d'essayer, mais à bien y réfléchir, ce n'est pas l'alcool qui fait tourner la tête des Namazu, mais le thé ! Nos divinités pré­fé­re­raient donc sans doute savourer une petite infusion plutôt qu'une liqueur de fruits macérés."
+50,TEXT_BANNAM406_03114_KOFUINSEIGETSU_000_002,"Par chance, il se trouve que les Mol nous avaient justement invités à l'une de leurs cérémonies du thé. J'y ai donc envoyé un de mes congénères et ce que je craignais s'est produit... Il n'est toujours pas rentré !"
+51,TEXT_BANNAM406_03114_KOFUINSEIGETSU_000_003,"Je suis sûr qu'il s'est échoué quelque part comme une grosse baleine pour cuver ses excès ! Vous, à qui cette boisson ne fait aucun effet, vous pourriez peut-être retrouver le Namazu amateur de thé à Onsal Hakair et l'aider s'il semble avoir besoin d'un coup de main."
+52,TEXT_BANNAM406_03114_DAILYNAMAZUO03114_000_010,"OYOYO ! Vous m'avez fait peur ! J'étais en train de trier l'herbe quand vous êtes venue me parler... C'est Seigetsu qui vous envoie ? Moi qui le prenais pour un simple rat de bibliothèque, il est plus attentionné que ce que je croyais !"
+53,TEXT_BANNAM406_03114_DAILYNAMAZUO03114_000_011,"Il m'a demandé de me rendre chez les Mol pour choisir une boisson rituelle, et j'étais plutôt content quand j'ai compris qu'il était question de thé... Mais maintenant, il veut aussi que j'en prépare !"
+54,TEXT_BANNAM406_03114_DAILYNAMAZUO03114_100_011,"Je veux bien en boire autant qu'il me le demandera, mais je n'ai aucune idée de comment ça se sert dans les règles de l'art, moi ! Je ne pensais pas que les événements allaient prendre une telle tournure... Et le pire, c'est que je manque d'éléments clefs pour mener à bien ma mission !"
+55,TEXT_BANNAM406_03114_DAILYNAMAZUO03114_000_012,"Par exemple, je n'ai pas  nécessaires pour faire bouillir l'eau et les feuilles. Les métaux qui permettraient d'en concevoir au moins trois se trouvent dans la caisse juste à côté, mais c'est pas comme si je pouvais m'en charger moi-même.
+Prenez tout ce dont vous aurez besoin si c'est pour me rendre ce service !"
+56,TEXT_BANNAM406_03114_DAILYNAMAZUO03114_000_013,"Par exemple, je n'ai pas  nécessaires pour égoutter les feuilles. Les matériaux qui permettraient d'en préparer au moins trois se trouvent dans la caisse juste à côté, mais c'est pas comme si je pouvais m'en charger moi-même.
+Prenez tout ce dont vous aurez besoin si c'est pour me rendre ce service !"
+57,TEXT_BANNAM406_03114_DAILYNAMAZUO03114_000_014,"Par exemple, je n'ai pas  que j'aimerais au moins servir avec ce breuvage... Et vous savez ce qu'on dit ? “Il ne faut jamais boire le ventre vide !” Les ingrédients qui permettraient d'en préparer au moins trois se trouvent dans la caisse juste à côté, mais c'est pas comme si je pouvais m'en charger moi-même.
+Prenez tout ce dont vous aurez besoin si c'est pour me rendre ce service !"
+58,TEXT_BANNAM406_03114_DAILYNAMAZUO03114_000_015,"Par exemple, vous avez déjà vu du thé servi sans eau ? Si j'avais trois , ce serait bien ! Je sais qu'on peut en puiser à l'est de Mol Iloh. Je vous en serais ex­trê­me­ment re­con­nais­sant de m'en rapporter !"
+59,TEXT_BANNAM406_03114_DAILYNAMAZUO03114_000_016,"Par exemple, il me faudrait trois , car on en met dans le thé après avoir laissé infuser les feuilles pour en modifier le parfum. Je sais qu'on peut justement en cueillir à l'est de Mol Iloh. Je vous en serais ex­trê­me­ment re­con­nais­sant si vous pouviez m'en rapporter !"
+60,TEXT_BANNAM406_03114_DAILYNAMAZUO03114_000_017,"Par exemple, il me faudrait ... ne serait-ce que pour y mettre le thé. Je sais qu'on en trouve dans la Hak Khaal et que ces créatures adorent  ! Ça me rendrait un fier service si vous pouviez m'en rapporter."
+61,TEXT_BANNAM406_03114_DAILYNAMAZUO03114_000_018,"Vous verrez quand vous m'aurez donné ce dont j'ai besoin, je verserai du thé à tour de bras ! Oyoyo... est-ce qu'on dit “tour de nageoires” pour les gens comme moi ?"
+62,TEXT_BANNAM406_03114_DAILYNAMAZUO03114_000_019,Ne me dites pas que vous manquez de matières premières... ? Vous avez pensé à regarder dans la caisse ?
+63,TEXT_BANNAM406_03114_DAILYNAMAZUO03114_000_020,Ne me dites pas que vous manquez de matières premières... ? Vous avez pensé à regarder dans la caisse ?
+64,TEXT_BANNAM406_03114_DAILYNAMAZUO03114_000_021,Ne me dites pas que vous manquez de matières premières... ? Vous avez pensé à regarder dans la caisse ?
+65,TEXT_BANNAM406_03114_SYSTEM_000_022,"Cette caisse est remplie de matériaux, mais il semblerait que vous n'en ayez pas besoin pour le moment..."
+66,TEXT_BANNAM406_03114_SYSTEM_000_023,"Cette caisse est remplie de matériaux, mais il semblerait que vous n'en ayez pas besoin pour le moment..."
+67,TEXT_BANNAM406_03114_SYSTEM_000_024,"Cette caisse est remplie de matériaux, mais il semblerait que vous n'en ayez pas besoin pour le moment..."
+68,TEXT_BANNAM406_03114_SYSTEM_000_025,"Cette caisse est remplie de matériaux, mais il semblerait que vous n'en ayez pas besoin pour le moment..."
+69,TEXT_BANNAM406_03114_SYSTEM_000_026,Vous obtenez les matériaux nécessaires à votre synthèse !
+70,TEXT_BANNAM406_03114_SYSTEM_000_027,Vous obtenez les matériaux nécessaires à votre synthèse !
+71,TEXT_BANNAM406_03114_SYSTEM_000_028,Vous obtenez les matériaux nécessaires à votre synthèse !
+72,TEXT_BANNAM406_03114_DAILYNAMAZUO03114_000_029,Vous devriez pouvoir trouver ce que je vous ai demandé à l'est de Mol Iloh !
+73,TEXT_BANNAM406_03114_DAILYNAMAZUO03114_000_030,Vous devriez pouvoir trouver ce que je vous ai demandé à l'est de Mol Iloh !
+74,TEXT_BANNAM406_03114_DAILYNAMAZUO03114_000_031,Vous devriez pouvoir trouver ce que je vous ai demandé dans la Hak Khaal !
+75,TEXT_BANNAM406_03114_DAILYNAMAZUO03114_000_040,"Quand vous me donnerez ce que je vous ai demandé, je pourrai enfin préparer tout le thé dont Seigetsu a besoin ! Enfin... je crois."
+76,TEXT_BANNAM406_03114_DAILYNAMAZUO03114_000_041,"Oyoyo, je vais enfin pouvoir m'y mettre ! Je n'ai plus qu'à... oui, c'est ça... plus qu'à mettre deux ou trois choses au point et..."
+77,TEXT_BANNAM406_03114_DAILYNAMAZUO03114_000_042,"OYOYO ! Regardez un peu ... Comme c'est beau, ces volutes de vapeur qui s'en échappent ! On n'a qu'une envie, c'est d'y goûter. D'ailleurs, si je m'écoutais..."
+78,TEXT_BANNAM406_03114_DAILYNAMAZUO03114_000_043,"Mais non, ce ne serait pas sérieux ! Apportez-la plutôt à Seigetsu. Je suis sûr que ça lui fera plaisir !"
+79,TEXT_BANNAM406_03114_DAILYNAMAZUO03114_100_043,"Moi, je vais rester ici pour en préparer un peu plus... Et peut-être aussi pour y goûter. Rien qu'une ou deux gorgées !"
+80,TEXT_BANNAM406_03114_DAILYNAMAZUO03114_000_044,N'oubliez pas d'apporter . Je suis certain qu'il sera émerveillé et heureux en observant le fruit de mon travail !
+81,TEXT_BANNAM406_03114_KOFUINSEIGETSU_000_050,"Alors, comment ça s'est passé avec ce Namazu qui ne donnait mys­té­rieu­se­ment plus de nouvelles ? Il a fini par réaliser que le thé n'était pas pour lui, mais pour nos ancêtres ? Il vous a dit quelque chose ?"
+82,TEXT_BANNAM406_03114_KOFUINSEIGETSU_000_051,"Quelle belle  ! J'ai eu peur d'avoir confié cette tâche à un simple ivrogne, mais je vois qu'il était en réalité plein de ressources !"
+83,TEXT_BANNAM406_03114_KOFUINSEIGETSU_000_052,"Hum... ! Quel parfum ! Riche et sauvage !! Il n'y a pas à dire, le thé de Yanxia est sans pareil..."
+84,TEXT_BANNAM406_03114_KOFUINSEIGETSU_000_053,"J'ai hâte de pouvoir y goûter ! Je vais évidemment le laisser en offrande le temps nécessaire, mais comptez sur moi pour y tremper mes barbillons dès que ce ne sera of­fi­ciel­le­ment plus une libation !"
+85,TEXT_BANNAM406_03114_KOFUINSEIGETSU_000_054,"On peut consommer les produits après un certain temps, non ? Vous croyez que ça m'attirerait les foudres de nos ancêtres ? Ce serait vraiment dommage de jeter tout ce que l'on offre ! Quelle grande civilisation se débarrasserait de mets savoureux et comestibles... ? C'est décidé, ce thé sera pour moi !"

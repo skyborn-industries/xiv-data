@@ -1,0 +1,31 @@
+#,0,1
+0,TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_000_000,"Salutations, chère collaboratrice ! Je suis Scanningway, membre du projet d'exploration cosmique. Si d'aventure vous aviez l'intention de nous rejoindre, j'espère pouvoir compter sur votre soutien !"
+1,TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_100_000,"Salutations, chère collaboratrice ! Je suis Scanningway, membre du projet d'exploration cosmique."
+2,TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_100_010,"Mon rôle est de garder une trace des efforts de chaque participant sous forme de données, que je compile ré­gu­liè­re­ment."
+3,TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_100_020,"Ceci permet non seulement d'assurer une certaine efficacité du projet dans son ensemble, mais aussi de mesurer au mieux votre con­tri­bu­tion et de la récompenser à la hauteur de votre implication."
+4,TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_100_030,"Par exemple, le ou la volontaire ayant le plus œuvré sur une période donnée se verra attribuer le titre honorifique de “contributeur exemplaire” par les organisateurs."
+5,TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_100_035,"Si par chance vous êtes l'heureuse élue, vous aurez le privilège de voir votre nom inscrit sur le tableau des con­tri­bu­tions. Ce n'est qu'une modeste recon­nais­san­ce, mais nous espérons ainsi rendre justice aux efforts que vous avez fournis !"
+6,TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_100_040,"Si vous avez des doutes sur quoi que ce soit, vous devriez trouver vos réponses en consultant votre tablette cosmique !"
+7,TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_200_000,"Merci pour votre soutien envers le projet d'exploration cosmique ! Actuellement, aucune collecte de données n'est en cours."
+8,TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_300_000,Merci pour votre soutien envers le projet d'exploration cosmique ! Je suis en train de collecter des données sur la con­tri­bu­tion des différents par­ti­ci­pants au projet pour la période en cours.
+9,TEXT_CTSWKSDELEGATIONMEMBER_00927_SYSTEM_300_000,Que voulez-vous faire ?
+10,TEXT_CTSWKSDELEGATIONMEMBER_00927_Q1_300_000,Vérifier votre con­tri­bu­tion actuelle
+11,TEXT_CTSWKSDELEGATIONMEMBER_00927_Q1_300_010,Discuter
+12,TEXT_CTSWKSDELEGATIONMEMBER_00927_Q1_300_020,Rien en particulier
+13,TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_300_010,"Nous ne sommes pour le moment pas en période de collecte de données, je n'ai donc enregistré aucune information concernant votre con­tri­bu­tion. Toutes mes excuses."
+14,TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_300_020,"Vous souhaitez connaître vos données de con­tri­bu­tion pour la période en cours ? Bien entendu, laissez-moi un instant... Voilà, j'ai accès aux données !"
+15,TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_300_030,"Quant à vous, Player... S-sapristi ! Vous êtes ac­tu­el­le­ment dans le top 10% des meilleurs contributeurs du projet ! Peut-être que ce sera vous, le “contributeur exemplaire” du moment !?"
+16,TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_300_040,"Quant à vous, Player... Ooooh ! Vous êtes ac­tu­el­le­ment dans le top 20% des meilleurs contributeurs du projet ! Le titre de “contributeur exemplaire” est à la portée de votre main !"
+17,TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_300_050,"Quant à vous, Player... Vous vous maintenez dans le top 30% des meilleurs contributeurs du projet. Vos efforts sont tout à fait honorables, continuez comme ça !"
+18,TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_300_060,"Quant à vous, Player... Vous êtes pile dans la moyenne ! Autrement dit, vous êtes ac­tu­el­le­ment dans le top 50% des meilleurs contributeurs du projet. Courage, je sais que vous pouvez faire encore mieux !"
+19,TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_300_070,"Quant à vous, Player... Vous êtes dans le bas du classement, mais vous contribuez ré­gu­liè­re­ment, à votre rythme. Et c'est très bien comme ça !"
+20,TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_300_080,"Eh bien, pour le moment, je n'ai aucune donnée concernant votre con­tri­bu­tion actuelle. Je compte sur votre soutien continu envers le projet !"
+21,TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_300_090,"Oh ! Mais vous êtes Player, détentrice du titre de “contributeur exemplaire” ! J'espère que vous travaillerez toujours avec autant d'ardeur sur le projet !"
+22,TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_300_100,"Oh ! Mais vous êtes Player, détentrice du titre de “contributeur exemplaire” !"
+23,TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_300_110,Permettez-moi de renouveler votre par­ti­ci­pa­tion au classement pour la période de collecte de données en cours. J'espère que vous travaillerez toujours avec autant d'ardeur sur le projet !
+24,TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_300_120,"Ah, pardon ! Vous souhaitiez connaître vos données de con­tri­bu­tion pour la période en cours, n'est-ce pas ? Bien entendu, laissez-moi un instant... Voilà, j'ai accès aux données !"
+25,TEXT_CTSWKSDELEGATIONMEMBER_00927_SYSTEM_300_010,Vous ne pouvez malheureusement pas recevoir le titre de “contributeur exemplaire” lorsque votre hologramme déjà est affiché.
+26,TEXT_CTSWKSDELEGATIONMEMBER_00927_SYSTEM_300_020,"Vous pourrez à nouveau prétendre au titre lorsque débutera la prochaine période de collecte de données, soit le mardi 27 août à 8h (temps réel)."
+27,TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_400_000,"Mon rôle est de garder une trace des efforts de chaque participant sous forme de données. Ceci non seulement afin d'assurer une certaine efficacité du projet dans son ensemble, mais aussi de mesurer au mieux votre con­tri­bu­tion et de la récompenser à la hauteur de votre implication."
+28,TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_400_010,"Par exemple, le ou la volontaire ayant le plus œuvré sur une période donnée se voit attribuer le titre honorifique de “contributeur exemplaire”. Qui sait, peut-être qu'un jour, ce sera vous !"
+29,TEXT_CTSWKSDELEGATIONMEMBER_00927_SCANNINGWAY_400_020,"Si vous avez des doutes sur quoi que ce soit, vous devriez trouver vos réponses en consultant votre tablette cosmique !"
