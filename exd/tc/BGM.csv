@@ -1082,12 +1082,12 @@
 20090,music/ex5/BGM_EX5_Raid_04.scd,90,1,0,False,False,True
 20091,music/ex5/BGM_EX5_Raid_05.scd,90,1,0,False,False,True
 20092,music/ex5/BGM_EX5_Raid_06.scd,90,1,0,False,False,True
-20093,,0,0,0,False,False,False
+20093,music/ex5/BGM_EX5_Raid_07.scd,90,1,0,False,False,True
 20094,music/ffxiv/BGM_Event_Dotabata.scd,90,1,0,False,False,True
 20095,music/ffxiv/BGM_Ride_Valigarmanda.scd,90,1,2,False,False,True
 20096,music/ffxiv/BGM_Ride_Zoraalja.scd,90,1,2,False,False,True
 20097,music/ffxiv/BGM_Ride_Ark.scd,90,1,2,False,False,True
-20098,,0,0,0,False,False,False
+20098,music/ffxiv/BGM_Ride_Arcadia.scd,90,1,2,False,False,True
 20099,,0,0,0,False,False,False
 20100,music/ex5/BGM_EX5_Event_23.scd,90,1,0,False,False,True
 20101,music/ex5/BGM_EX5_Field_Liv_Fate2.scd,90,1,0,False,False,True

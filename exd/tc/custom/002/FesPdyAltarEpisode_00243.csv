@@ -3,7 +3,7 @@
 就由我來為各位冒險者加以說明。"
 1,TEXT_FESPDYALTAREPISODE_00243_Q1_000_000,想了解什麼？
 2,TEXT_FESPDYALTAREPISODE_00243_A1_000_001,你們在這裡是做什麼的？
-3,TEXT_FESPDYALTAREPISODE_00243_A1_000_002,什麼是「女兒節」？
+3,TEXT_FESPDYALTAREPISODE_00243_A1_000_002,什麼是「公主節」？
 4,TEXT_FESPDYALTAREPISODE_00243_A1_000_003,「艾德薇雅公主」是什麼人？
 5,TEXT_FESPDYALTAREPISODE_00243_A1_000_004,設定在最下層的人偶是誰？
 6,TEXT_FESPDYALTAREPISODE_00243_A1_000_005,設定在第二層的人偶是誰？
@@ -12,7 +12,7 @@
 9,TEXT_FESPDYALTAREPISODE_00243_A1_000_008,設定在最上層的女性人偶是誰？
 10,TEXT_FESPDYALTAREPISODE_00243_A1_000_009,取消
 11,TEXT_FESPDYALTAREPISODE_00243_GUIDEPDY2015_000_010,"為了主人的千金、妮妮茉大小姐，
-我們正在籌備為慶祝「女兒節」所用的裝飾人偶。"
+我們正在籌備為慶祝「公主節」所用的裝飾人偶。"
 12,TEXT_FESPDYALTAREPISODE_00243_GUIDEPDY2015_000_011,"那可不是一件容易事！
 依照計劃，我們要重現出索恩朝時代的真人比例人偶，
 然後搭配上現代的服裝和飾品展示出來。"
@@ -24,7 +24,7 @@
 15,TEXT_FESPDYALTAREPISODE_00243_GUIDEPDY2015_000_014,"如您所見，
 索恩朝時期的真人比例人偶已經被完全重現出來了。
 請您好好見證這跨越百年的歷史記憶吧。"
-16,TEXT_FESPDYALTAREPISODE_00243_GUIDEPDY2015_000_020,"「女兒節」，
+16,TEXT_FESPDYALTAREPISODE_00243_GUIDEPDY2015_000_020,"「公主節」，
 乃是祝福天下所有女孩的節日。"
 17,TEXT_FESPDYALTAREPISODE_00243_GUIDEPDY2015_000_021,"相傳300年前……
 烏爾達哈王國，當時正值索恩朝時期。"
@@ -43,12 +43,12 @@
 於是巴爾德里克王決定每年這一天，
 都從全國抽選一名少女，自己則作為她的管家服侍她一天。"
 23,TEXT_FESPDYALTAREPISODE_00243_GUIDEPDY2015_000_027,"國王逝世後，他生前的這一行為在民間以另一種形式延續著，
-經過長時間的演化，成為了如今的女兒節。
-不光是在烏爾達哈，女兒節在其他城邦也十分盛行。"
+經過長時間的演化，成為了如今的公主節。
+不光是在烏爾達哈，公主節在其他城邦也十分盛行。"
 24,TEXT_FESPDYALTAREPISODE_00243_GUIDEPDY2015_000_030,"艾德薇雅公主是大約300年前的人物……
 她是當時掌管著烏爾達哈的人族王朝——索恩朝的公主。"
 25,TEXT_FESPDYALTAREPISODE_00243_GUIDEPDY2015_000_031,"而她逃離王宮的那次「公主失蹤事件」，
-則作為女兒節的起源，也在民間流傳甚廣、為人津津樂道。"
+則作為公主節的起源，也在民間流傳甚廣、為人津津樂道。"
 26,TEXT_FESPDYALTAREPISODE_00243_GUIDEPDY2015_000_032,"天性無拘無束的艾德薇雅公主，
 和以治國之嚴聞名的巴爾德里克王……
 父女兩人的關係，可說是非常緊張。"
@@ -104,7 +104,7 @@
 45,TEXT_FESPDYALTAREPISODE_00243_GUIDEPDY2015_000_080,"設定在最上層的女性人偶，
 正是模仿艾德薇雅公主本人的人偶，
 與旁邊的男性人偶被統稱為「雙貴」。"
-46,TEXT_FESPDYALTAREPISODE_00243_GUIDEPDY2015_000_81,"說到這裡，特別要提一下女兒節裝飾人偶的起源。
+46,TEXT_FESPDYALTAREPISODE_00243_GUIDEPDY2015_000_81,"說到這裡，特別要提一下公主節裝飾人偶的起源。
 為了傳頌巴爾德里克王與艾德薇雅公主的故事，
 市民們紛紛開始設計製造並展示公主的真人比例人偶。"
 47,TEXT_FESPDYALTAREPISODE_00243_GUIDEPDY2015_000_082,"為了響應巴爾德里克王的「一日管家」這一舉動，

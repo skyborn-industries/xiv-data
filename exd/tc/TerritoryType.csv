@@ -1108,7 +1108,7 @@
 1206,y6e3,ex5/02_ykt_y6/evt/y6e3/level/y6e3,854717,-1,-1,182,830,3702,3740,4750,933,0,20033,0,0,0,1,22,0,15,0,0,5,0,0,0,0,0,-1,False,False,True,False,False,False,False,False,True,False,False,False,False,True,True
 1207,x6e2,ex5/01_xkt_x6/evt/x6e2/level/x6e2,0,-1,-1,212,-1,4501,4512,4654,934,0,20061,0,0,0,1,36,0,15,0,0,5,0,0,0,0,0,-1,False,False,True,False,False,False,False,False,True,False,False,False,False,True,True
 1208,x6d2,ex5/01_xkt_x6/dun/x6d2/level/x6d2,0,122035,124066,0,-1,4501,4512,5007,905,825,1001,0,742,0,1,33,2,3,156,0,5,0,0,0,0,0,-1,False,False,True,False,False,False,False,False,True,False,False,True,False,True,True
-1209,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+1209,y6c1,ex5/02_ykt_y6/cnt/y6c1/level/y6c1,0,122034,124773,0,-1,4500,4511,5000,896,993,1001,0,744,0,1,31,3,33,0,0,5,0,0,0,0,0,-1,False,False,True,False,False,False,False,False,True,False,False,True,False,True,True
 1210,ec050,ex5/02_ykt_y6/evt/y6e1/level/y6e1,0,-1,-1,0,-1,4500,4511,4523,931,828,1001,0,764,0,1,35,1,29,0,0,5,0,0,0,0,0,-1,False,False,True,False,False,False,False,False,True,False,False,True,False,True,True
 1211,ec051,ex5/02_ykt_y6/fld/y6f3/level/y6f3,0,-1,-1,0,1300,4500,4511,4507,859,983,1001,0,765,0,1,31,1,29,0,0,5,0,54,0,0,0,-1,False,False,True,False,False,False,False,False,True,False,False,True,False,True,True
 1212,ec052,ex5/02_ykt_y6/fld/y6f3/level/y6f3,0,-1,-1,0,1300,4500,4511,4507,859,982,1001,0,757,0,1,31,1,29,0,0,5,0,54,0,0,0,-1,False,False,True,False,False,False,False,False,True,False,False,False,False,True,True
@@ -1125,13 +1125,13 @@
 1223,x6e4,ex5/01_xkt_x6/evt/x6e4/level/x6e4,854987,-1,-1,217,-1,4501,4512,4655,937,0,20088,0,0,0,1,36,0,15,0,0,5,0,0,0,0,0,-1,False,False,True,False,False,False,False,False,True,False,False,False,False,True,True
 1224,x6e5,ex5/01_xkt_x6/evt/x6e5/level/x6e5,854725,122035,124323,217,-1,4501,4512,4749,938,0,20088,0,0,0,1,36,0,15,0,0,5,0,0,0,0,0,-1,False,False,True,False,False,False,False,False,True,False,False,False,False,True,True
 1225,x6r1,ex5/01_xkt_x6/rad/x6r1/level/x6r1,0,122035,124324,0,-1,4501,4512,5104,927,985,1001,0,767,0,1,36,2,17,0,0,5,0,0,0,0,0,-1,False,False,True,False,False,False,False,False,True,False,False,True,False,True,True
-1226,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+1226,x6r1_2,ex5/01_xkt_x6/rad/x6r1/level/x6r1,0,122035,124328,0,-1,4501,4512,5104,927,986,1001,0,782,0,1,36,2,17,0,0,5,0,0,0,0,0,-1,False,False,True,False,False,False,False,False,True,False,False,True,False,True,True
 1227,x6r2,ex5/01_xkt_x6/rad/x6r2/level/x6r2,0,122035,124325,0,-1,4501,4512,5102,923,987,1001,0,774,0,1,36,2,17,0,0,5,0,0,0,0,0,-1,False,False,True,False,False,False,False,False,True,False,False,True,False,True,True
-1228,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+1228,x6r2_2,ex5/01_xkt_x6/rad/x6r2/level/x6r2,0,122035,124329,0,-1,4501,4512,5102,923,988,1001,0,775,0,1,36,2,17,0,0,5,0,0,0,0,0,-1,False,False,True,False,False,False,False,False,True,False,False,True,False,True,True
 1229,x6r3,ex5/01_xkt_x6/rad/x6r3/level/x6r3,0,122035,124326,0,-1,4501,4512,5114,926,989,1001,0,758,0,1,36,2,17,0,0,5,0,0,0,0,0,-1,False,False,True,False,False,False,False,False,True,False,False,True,False,True,True
-1230,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+1230,x6r3_2,ex5/01_xkt_x6/rad/x6r3/level/x6r3,0,122035,124330,0,-1,4501,4512,5114,926,990,1001,0,759,0,1,36,2,17,0,0,5,0,0,0,0,0,-1,False,False,True,False,False,False,False,False,True,False,False,True,False,True,True
 1231,x6r4,ex5/01_xkt_x6/rad/x6r4/level/x6r4,0,122035,124327,0,-1,4501,4512,5103,924,991,1001,0,762,0,1,36,2,17,0,0,5,0,0,0,0,0,-1,False,False,True,False,False,False,False,False,True,False,False,True,False,True,True
-1232,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+1232,x6r4_2,ex5/01_xkt_x6/rad/x6r4/level/x6r4,0,122035,124331,0,-1,4501,4512,5103,924,992,1001,0,763,0,1,36,2,17,0,0,5,0,0,0,0,0,-1,False,False,True,False,False,False,False,False,True,False,False,True,False,True,True
 1233,ec059,ffxiv/fst_f1/dun/f1dc/level/f1dc,0,-1,-1,0,-1,23,507,5120,940,1000,1001,0,780,0,1,3,1,29,0,0,5,0,0,0,0,0,-1,False,False,True,False,False,False,False,False,True,False,False,True,False,True,True
 1234,ec060,ex3/01_nvt_n4/dun/n4d9/level/n4d9,0,-1,-1,0,-1,2405,519,5121,941,966,1001,0,778,0,1,37,1,29,0,0,5,0,0,0,0,0,-1,False,False,True,False,False,False,False,False,True,False,False,True,False,True,True
 1235,ec061,ffxiv/wil_w1/fld/w1f2/level/w1f2,0,-1,-1,0,-1,24,505,43,21,925,1001,0,768,0,1,4,1,29,0,0,5,0,0,0,0,0,-1,False,False,True,False,False,False,False,False,True,False,False,True,False,True,True
