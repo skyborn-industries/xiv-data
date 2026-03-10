@@ -27,7 +27,7 @@
 25,否定,0,426,717,0,746,746,746,0,0,5001,64025,124,224,1,1,0,True,True,True,False,True,False,False,False
 26,慌張,0,427,719,0,0,0,0,0,0,5005,64026,125,225,1,1,0,False,False,False,False,True,False,False,False
 27,指向,0,428,720,0,687,687,687,0,0,5108,64027,126,226,1,1,0,True,True,True,False,True,False,False,False
-28,戳指,0,429,721,0,748,748,748,0,3185,5109,64028,127,227,1,1,0,True,True,True,False,True,False,False,False
+28,用手指戳,0,429,721,0,748,748,748,0,3185,5109,64028,127,227,1,1,0,True,True,True,False,True,False,False,False
 29,稱讚,0,430,723,0,749,749,749,0,0,2003,64029,128,228,1,1,0,True,True,True,False,True,False,False,False
 30,激勵,0,431,724,0,0,0,0,0,0,1008,64030,129,229,1,1,0,False,False,False,False,True,False,False,False
 31,敬禮,0,432,725,0,750,750,750,0,0,9,64031,130,230,1,1,0,True,True,True,False,True,False,False,False

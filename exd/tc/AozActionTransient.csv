@@ -159,7 +159,7 @@
 **攻擊屬性：**無
 **評級：**★★
 ","惡精靈等妖異使用的詛咒。
-可以找出特定成長階段的對手的心靈破綻，污染對方的精神，以此停止其生命活動。魔法名中的“級”字可能是什麼地方對成長階段的叫法……",72232,0,0,6,14,4,True,False,False,True,False,False,False,False,False,False,False,False
+可以找出特定成長階段的對手的心靈破綻，污染對方的精神，以此停止其生命活動。魔法名中的「級」字可能是什麼地方對成長階段的叫法……",72232,0,0,6,14,4,True,False,False,True,False,False,False,False,False,False,False,False
 33,"**攻擊類型：**魔法
 **攻擊屬性：**無
 **評級：**★
@@ -254,7 +254,7 @@
 **攻擊屬性：**水
 **評級：**★★★
 ","有生命活水的特殊攻擊。
-機械裝置“水合核心”通過操控流體創造了激流。如果能用魔法進行再現，就算再巨大的敵人也都可以沖走了。",72252,0,0,114,51,4,True,False,False,False,False,False,False,False,False,False,False,False
+機械裝置「水合核心」通過操控流體創造了激流。如果能用魔法進行再現，就算再巨大的敵人也都可以沖走了。",72252,0,0,114,51,4,True,False,False,False,False,False,False,False,False,False,False,False
 52,"**攻擊類型：**魔法
 **攻擊屬性：**冰
 **評級：**★★★★
@@ -394,7 +394,7 @@
 **攻擊屬性：**無
 **評級：**★★★★★
 ","索菲亞的絕招。
-重視“調和”的女神索菲亞會對破壞“均衡”的人們落下神罰的流星。那象徵著毀滅命運的流星，宛如凶星一般。",72280,0,0,183,79,4,True,False,False,False,False,False,False,False,False,False,False,False
+重視「調和」的女神索菲亞會對破壞「均衡」的人們落下神罰的流星。那象徵著毀滅命運的流星，宛如凶星一般。",72280,0,0,183,79,4,True,False,False,False,False,False,False,False,False,False,False,False
 80,"**攻擊類型：**物理打擊
 **攻擊屬性：**無
 **評級：**★★★★★
@@ -464,7 +464,7 @@
 **攻擊屬性：**冰
 **評級：**★★
 ","老者使用的魔法。
-明明是冰屬性魔法，名字中卻帶著焰字。該魔法和老者的原型都出自一本古典小說。不知道“冰焰”是得名於作者的玩笑，還是它造成如同燒傷般的重度凍傷。",72294,0,0,252,93,4,True,False,False,False,False,False,False,False,False,False,False,False
+明明是冰屬性魔法，名字中卻帶著焰字。該魔法和老者的原型都出自一本古典小說。不知道「冰焰」是得名於作者的玩笑，還是它造成如同燒傷般的重度凍傷。",72294,0,0,252,93,4,True,False,False,False,False,False,False,False,False,False,False,False
 94,"**攻擊類型：**魔法
 **攻擊屬性：**火
 **評級：**★★★★
@@ -569,7 +569,7 @@
 **攻擊屬性：**無
 **評級：**★★★★
 ","緹坦妮雅的愛用符文。
-使用妖精語中蘊含咒文要素的“符文”放射乙太波動，受到乙太波動的物件將會因為共振現象而吸收“符文”放射出的乙太。",72315,0,0,657,114,4,True,True,False,False,False,False,False,False,False,False,False,False
+使用妖精語中蘊含咒文要素的「符文」放射乙太波動，受到乙太波動的物件將會因為共振現象而吸收「符文」放射出的乙太。",72315,0,0,657,114,4,True,True,False,False,False,False,False,False,False,False,False,False
 115,"**攻擊類型：**魔法
 **攻擊屬性：**無
 **評級：**★★★★
@@ -614,9 +614,9 @@
 **攻擊屬性：**無
 **評級：**★★★★★
 ","至大災獸的特殊攻擊。
-如同名字含義中的“天啟”一樣，該技能並非通過語言或是文字，而是通過想像的力量造成破壞。如果一直保持著終結一切這種自暴自棄的想法，該技能似乎能夠半永久地持續下去。",72324,0,0,652,123,4,True,False,False,False,False,False,False,False,False,False,False,False
+如同名字含義中的「天啟」一樣，該技能並非通過語言或是文字，而是通過想像的力量造成破壞。如果一直保持著終結一切這種自暴自棄的想法，該技能似乎能夠半永久地持續下去。",72324,0,0,652,123,4,True,False,False,False,False,False,False,False,False,False,False,False
 124,"**攻擊類型：**魔法
 **攻擊屬性：**無
 **評級：**★★★★★
 ","緹坦妮雅的必殺技。
-運用多個符文構築出魔力的旋渦。此外，在妖精語中“終有一死”一詞不光是對有命數之人的藐視，同時也含有對其感到悲哀和同情的意思，是一個非常複雜的詞語。",72325,0,0,657,124,4,True,False,False,False,False,False,False,False,False,False,False,False
+運用多個符文構築出魔力的旋渦。此外，在妖精語中「終有一死」一詞不光是對有命數之人的藐視，同時也含有對其感到悲哀和同情的意思，是一個非常複雜的詞語。",72325,0,0,657,124,4,True,False,False,False,False,False,False,False,False,False,False,False

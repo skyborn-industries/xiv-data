@@ -25,7 +25,7 @@
 23,TEXT_AKTKZD010_04234_SEQ_23,
 24,TEXT_AKTKZD010_04234_TODO_00,和第三站附近救援隊的不滅隊隊員對話
 25,TEXT_AKTKZD010_04234_TODO_01,"在待機
-利用魔導等離子球讓魔導巨兵停止行動"
+利用魔導電漿球讓魔導巨兵停止行動"
 26,TEXT_AKTKZD010_04234_TODO_02,和救援隊的不滅隊隊員對話
 27,TEXT_AKTKZD010_04234_TODO_03,向老子巴孩報告
 28,TEXT_AKTKZD010_04234_TODO_04,
@@ -54,7 +54,7 @@ Player PlayerPlayer PlayerPlayer Player，我有事要拜託您！"
 我們需要讓附近的魔導巨兵停止行動。
 但是放開手去攻擊它們的話，恐怕會波及到周圍。"
 50,TEXT_AKTKZD010_04234_FLAMESOLDIER04234_000_002,"這種時候，
-加隆德煉鐵廠的魔導等離子球就能派上用場了！
+加隆德煉鐵廠的魔導電漿球就能派上用場了！
 只要用它攻擊魔導兵器，就能使其停止行動。"
 51,TEXT_AKTKZD010_04234_FLAMESOLDIER04234_000_003,"不過，這個東西的製作成本據說很昂貴，
 希德閣下說盡量讓命中率高的人來使用，
@@ -63,19 +63,19 @@ Player PlayerPlayer PlayerPlayer Player，我有事要拜託您！"
 出了第三站向南走走就是了！"
 53,TEXT_AKTKZD010_04234_FLAMESOLDIER04234_000_010,"辛苦您專門跑一趟！
 下官這就去把魔導巨兵引過來，
-麻煩您找準時機向它投擲魔導等離子球！"
+麻煩您找準時機向它投擲魔導電漿球！"
 54,TEXT_AKTKZD010_04234_FLAMESOLDIER04234_000_011,（★未使用／削除予定★）
 55,TEXT_AKTKZD010_04234_FLAMESOLDIER04234_000_012,"只要擊中了魔導巨兵，這個道具就會釋放電流使它短路，
 這樣一來就可以讓魔導巨兵停止行動了！"
 56,TEXT_AKTKZD010_04234_FLAMESOLDIER04234_000_020,"下官這就去把魔導巨兵引過來，
-麻煩您找準時機向它投擲魔導等離子球！"
+麻煩您找準時機向它投擲魔導電漿球！"
 57,TEXT_AKTKZD010_04234_FLAMESOLDIER04234_000_021,（★未使用／削除予定★）
 58,TEXT_AKTKZD010_04234_SYSTEM_000_030,"終止魔導巨兵行動作戰開始了。
 瞄準魔導巨兵，
 點選**滑鼠左鍵進行投擲！"
 59,TEXT_AKTKZD010_04234_SYSTEM_000_031,"魔導巨兵靠近，
 或救援隊的不滅隊隊員做出迴避行動，即為失敗。"
-60,TEXT_AKTKZD010_04234_SYSTEM_000_032,"迅速投擲魔導等離子球，
+60,TEXT_AKTKZD010_04234_SYSTEM_000_032,"迅速投擲魔導電漿球，
 使3臺魔導巨兵停止行動！"
 61,TEXT_AKTKZD010_04234_FLAMESOLDIER04234_000_040,"Player PlayerPlayer PlayerPlayer Player，幹得漂亮！
 這樣一來加雷馬市民的護送行動就萬無一失了。"
@@ -85,7 +85,7 @@ Player PlayerPlayer PlayerPlayer Player，我有事要拜託您！"
 63,TEXT_AKTKZD010_04234_AMBAGHAI_000_050,"哦哦，Player Player閣下！
 我已經收到了報告。
 多謝你協助清除魔導巨兵！"
-64,TEXT_AKTKZD010_04234_AMBAGHAI_000_052,"魔導等離子球效果真是沒的說啊。
+64,TEXT_AKTKZD010_04234_AMBAGHAI_000_052,"魔導電漿球效果真是沒話說啊。
 不愧是加隆德煉鐵廠的產品。
 可惜就是數量太少了。"
 65,TEXT_AKTKZD010_04234_AMBAGHAI_000_053,"隨物品一同寄來的信上說，

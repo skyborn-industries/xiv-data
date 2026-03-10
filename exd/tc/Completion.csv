@@ -538,7 +538,7 @@
 1408,戰技,zhanji,,18,21
 1409,能力,nengli,,18,23
 1410,詠唱時間,yongchangshijian,,18,24
-1411,複唱時間,fuchangshijian,,18,25
+1411,冷卻時間,fuchangshijian,,18,25
 1412,行動適性,xingdongshixing,,18,27
 1413,連結,lianjie,,18,56
 1414,召喚獸,zhaohuanshou,,18,31
@@ -785,6 +785,14 @@
 1959,盧比坎特,lubikante,,23,58
 1960,高貝扎,gaobeizha,,23,59
 1961,澤羅姆斯,zeluomusi,,23,60
+1962,佩魯佩魯族,peilupeiluzu,,23,130
+1963,莫布林族,mobulinzu,,23,131
+1964,輝鱗族,huilinzu,,23,132
+1965,尤卡巨人族,youkajurenzu,,23,133
+1966,哈努族,hanuzu,,23,134
+1967,艷翼蛇鳥,yanyisheniao,,23,61
+1968,佐拉加,zuolajia,,23,62
+1969,永恆女王,yonghengnvwang,,23,63
 2000,【任務】,renwu.,@,24,0
 2001,任務副本,renwufuben,,24,100
 2002,任務,renwu,,24,1
@@ -1280,6 +1288,7 @@
 4044,莫雯卓越工具,mowenzhuoyuegongju,,17,366
 4045,亞拉戈神曲神典石,yalageshenqushendianshi,,17,170
 4046,亞拉戈美學神典石,yalagemeixueshendianshi,,17,171
+4047,亞拉戈天道神典石,yalagetiandaoshendianshi,,17,172
 5000,大型任務,daxingrenwu,,24,3001
 5001,每日挑戰,meiritiaozhan,,24,6002
 5002,岩燕廟,yanyanmiao,,24,1210
@@ -1411,3 +1420,19 @@
 5136,澤羅姆斯殲滅戰,zeluomusijianmiezhan,,24,2266
 5137,極 澤羅姆斯殲滅戰,zeluomusijianjizhan,,24,2267
 5138,赤土紅沙,chituhongsha,,24,6308
+5139,生息河岸,shengxihean,,24,1239
+5140,沃克佐莫山,wokezuomoshan,,24,1240
+5141,深空天坑,shenkongtiankeng,,24,1241
+5142,先鋒營,xianfengying,,24,1242
+5143,創生設施,chuangshengsheshi,,24,1243
+5144,亞歷山德里亞,yalishandeliya,,24,1244
+5145,仙人掌谷,xianrencigu,,24,1245
+5146,迷途鬼區,mituguiqu,,24,1246
+5147,艷翼蛇鳥殲滅戰,yanyisheniaojianmiezhan,,24,2270
+5148,極 艷翼蛇鳥殲滅戰,yanyisheniaojianjizhan,,24,2271
+5149,佐拉加殲滅戰,zuolajiajianmiezhan,,24,2272
+5150,極 佐拉加殲滅戰,zuolajiajianjizhan,,24,2273
+5151,永恆女王殲滅戰,yonghengnvwangjianmiezhan,,24,2274
+5152,阿卡狄亞登天鬥技場,akadiyadengtiandoujichang,,24,3115
+5153,阿卡狄亞零式登天鬥技場,akadiyalingshidengtiandoujichang,,24,3116
+5154,輕量級,qingliangji,,24,3117
