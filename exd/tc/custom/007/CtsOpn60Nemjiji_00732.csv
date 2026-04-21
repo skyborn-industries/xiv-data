@@ -20,9 +20,15 @@
 9,TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_050,"這次的事件還真是錯綜複雜，
 要把這些東西都梳理清楚可得費不少工夫！
 嗯……也許該向老師提個建議，增加幾名助手了。"
-10,TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_060,
-11,TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_070,
-12,TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_080,
+10,TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_060,"為了能讓艾里克托尼奧斯滿意，
+我們專門請工匠傾注心血做了這個魔法人偶。
+就有勞你送到他手上了！"
+11,TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_070,"特彌斯的魔法人偶已經交給艾里克托尼奧斯了嗎？
+其實我曾提出製作他變身後模樣的魔法人偶，
+但可惜被老師否決了。"
+12,TEXT_CTSOPN60NEMJIJI_00732_NEMJIJI_000_080,"多虧了你，魔法人偶也順利送到艾里克托尼奧斯手上了。
+那我就繼續展開關於萬魔殿的妄想……
+啊，不，是調查！"
 13,TEXT_CTSOPN60NEMJIJI_00732_Q1_000_000,要做什麼？
 14,TEXT_CTSOPN60NEMJIJI_00732_A1_000_003,確認調查情況
 15,TEXT_CTSOPN60NEMJIJI_00732_A1_000_004,取消
@@ -37,7 +43,7 @@
 19,TEXT_CTSOPN60NEMJIJI_00732_RUISSENAUD_000_103,"尼姆吉吉！
 你要的資料我都已經找齊了，
 不過，那些真的都是解開水晶之謎所必需的資料嗎？"
-20,TEXT_CTSOPN60NEMJIJI_00732_RUISSENAUD_000_104,"其中還有«水生生物的生態»和«各地的鳳凰傳說»等論文，
+20,TEXT_CTSOPN60NEMJIJI_00732_RUISSENAUD_000_104,"其中還有《水生生物的生態》和《各地的鳳凰傳說》等論文，
 都是和萬魔殿的創造生物有關的資料啊。"
 21,TEXT_CTSOPN60NEMJIJI_00732_RUISSENAUD_000_105,"創造生物不是都已經被Player Player打倒、重新封印起來了嗎？
 沒必要再深入調查了吧……"

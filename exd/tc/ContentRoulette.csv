@@ -28,7 +28,7 @@
 
 ※隨機任務中所獲得的額外Gil報酬由參加時的職業與等級決定，在任務過程中所獲得的Gil的差額會在最後作為報酬一併獲取。
 ※隨機任務的獎勵一天只能獲得一次。
-※組滿規定人數參加時不會獲得「少數職能獎勵」。",對應任務：Light Party用高難度迷宮,0,112057,0,0,670,0,0,60,40,0,0,5,2,100,100,5,1,142,2,0,0,1,0,90,0,2,0,0,4,False,True,False,False,True,True,True,False,False,False,False,True,True
+※組滿規定人數參加時不會獲得「少數職能獎勵」。",對應任務：Light Party用高難度迷宮,0,112057,0,0,690,0,0,60,40,0,0,5,2,100,100,5,1,142,2,0,0,1,0,90,0,2,0,0,4,False,True,False,False,True,True,True,False,False,False,False,True,True
 6,隨機任務：討伐殲滅戰,討伐殲滅戰,,"隨機參加當前能夠加入的Full Party用討伐殲滅戰。成功完成任務後得到的報酬會大幅高於正常途徑參加同樣任務時的報酬。
 
 ※隨機任務的獎勵一天只能獲得一次。
@@ -44,7 +44,7 @@
 9,隨機任務：指導者,指導者,,"隨機參加已經完成的指導者對應任務，僅限已成為戰鬥指導者的玩家使用。成功完成任務後得到的報酬會大幅高於正常途徑參加同樣任務時的報酬。
 
 ※隨機任務中所獲得的額外Gil報酬由參加時的職業與等級決定，在任務過程中所獲得的Gil的差額會在最後作為報酬一併獲取。
-※隨機任務的獎勵一天只能獲得一次。",對應任務：指導者對應任務,0,112144,0,0,685,0,0,30,10,0,0,5,2,100,100,8,10,142,1,0,0,1,0,30,120,2,0,0,8,False,True,False,False,True,True,True,False,False,False,False,True,True
+※隨機任務的獎勵一天只能獲得一次。",對應任務：指導者對應任務,0,112144,0,0,695,0,0,30,10,0,0,5,2,100,100,8,10,142,1,0,0,1,0,30,120,2,0,0,8,False,True,False,False,True,True,True,False,False,False,False,True,True
 10,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False
 11,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False
 12,,,,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False
