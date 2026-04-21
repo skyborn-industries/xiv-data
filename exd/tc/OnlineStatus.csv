@@ -37,8 +37,8 @@
 35,團隊隊員,61520,0,25,False,True,False
 36,小隊隊長,61521,3956,26,False,True,False
 37,小隊隊員,61522,3957,27,False,True,False
-38,跨服小隊隊長,61961,3958,28,False,True,True
-39,跨服小隊隊員,61962,3959,29,False,True,True
+38,跨界小隊隊長,61961,3958,28,False,True,True
+39,跨界小隊隊員,61962,3959,29,False,True,True
 40,封閉任務中,61535,0,30,False,True,False
 41,同隊任務中,61506,0,0,False,False,False
 42,同一任務的其他隊伍中,61507,0,0,False,False,False

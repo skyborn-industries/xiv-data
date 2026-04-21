@@ -1046,8 +1046,8 @@ MP自然恢復速度增加",210468,0,16,0,42,0,1,1,16,0,0,0,0,0,0,0,0,False,Fals
 995,衝擊,受到衝擊，攻擊所造成的傷害降低，累積等階過多會被附加腦震盪狀態,218521,-10,0,0,0,4,1,2,17,200,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 996,腦震盪,受到腦震盪的影響，無法行動，且被攻擊時所受到的傷害增加,215712,100,0,0,0,0,1,2,33,100,0,11,0,0,0,0,0,True,False,True,True,False,False,False,False,False,False,False,False,False,False,False,False,False
 997,腦震盪,受到腦震盪的影響，無法行動，且被攻擊時所受到的傷害增加,215712,100,0,0,0,0,1,2,33,100,0,11,0,0,0,0,0,True,False,True,True,False,False,True,False,False,False,False,False,False,False,False,False,False
-998,哥布林藥劑：肌肉,受到藥品影響，變身成為大腳巨猿。除專用技能「毆打」以外無法發動其它技能,215713,0,0,0,69,0,1,1,16,100,0,2,0,0,0,0,0,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False
-999,哥布林藥劑：速度,受到藥品影響，變身成為兀鷲。除專用技能「飛翼斬」以外無法發動其它技能,215714,0,0,0,69,0,1,1,16,100,0,2,0,0,0,0,0,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False
+998,哥布林藥劑：肌肉,受到藥品影響，變身成為大腳巨猿。除專用技能「毆打」以外無法發動其他技能,215713,0,0,0,69,0,1,1,16,100,0,2,0,0,0,0,0,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False
+999,哥布林藥劑：速度,受到藥品影響，變身成為兀鷲。除專用技能「飛翼斬」以外無法發動其他技能,215714,0,0,0,69,0,1,1,16,100,0,2,0,0,0,0,0,False,False,False,False,True,False,False,False,False,False,False,True,False,False,False,False,False
 1000,哥布林藥劑：透明,受到藥品影響，變為透明狀態。不容易被敵人發現,215715,0,0,0,69,0,1,1,16,100,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
 1001,哥布林藥劑中毒,喝了太多哥布林藥劑導致中毒症狀發作，效果時間結束或累積等階過多時會被附加副作用狀態,218541,0,0,0,0,12,1,2,17,100,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 1002,哥布林藥劑副作用,受到哥布林藥劑的副作用影響,215717,1000,6,0,69,0,1,2,4,100,0,1,0,0,0,0,5,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
@@ -1320,7 +1320,7 @@ MP自然恢復速度增加",210468,0,16,0,42,0,1,1,16,0,0,0,0,0,0,0,0,False,Fals
 1265,光之決心,光之戰士堅定了自己的信念，突破了自身極限,215711,10,0,0,0,0,1,1,16,200,0,0,0,0,0,0,0,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
 1266,強效透明,身體變得透明，不會受到怪物攻擊,216209,0,0,0,0,0,1,1,16,2,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
 1267,緊抱,被某些東西緊緊抱住,215764,0,0,0,0,0,1,1,16,100,0,20,3,0,0,0,0,True,False,True,True,False,False,False,True,True,False,False,True,False,False,False,False,False
-1268,劇情中,正處於過場劇情中,215765,0,27,0,0,0,1,1,0,100,0,0,0,0,0,0,0,False,False,True,True,False,False,False,True,True,False,False,True,False,False,False,False,False
+1268,過場劇情中,正處於過場劇情中,215765,0,27,0,0,0,1,1,0,100,0,0,0,0,0,0,0,False,False,True,True,False,False,False,True,True,False,False,True,False,False,False,False,False
 1269,慎行警告,效果結束時若使用了自動攻擊、技能、移動等動作，則會受到懲罰,215747,8341,0,0,0,0,1,2,17,200,0,0,0,23,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 1270,禍泡,身上附著有禍泡，效果時間結束時如未停止行動則會受到巨大傷害,215784,0,24,0,0,0,1,2,17,200,0,0,0,23,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 1271,拼刀,與對方白刃交鋒,215785,0,0,0,0,0,1,2,0,0,0,4,0,0,0,0,0,True,False,True,True,False,False,False,True,True,False,False,False,False,False,False,False,False
@@ -1840,7 +1840,7 @@ MP自然恢復速度增加",210468,0,16,0,42,0,1,1,16,0,0,0,0,0,0,0,0,False,Fals
 1775,リフォージ,自己のエーテルを操作し、属性を変異させた状態。,215938,0,0,0,69,0,1,1,16,0,0,2,0,0,0,0,0,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
 1776,打擊耐性降低,對抗打擊攻擊的耐性有所降低,215064,-12,0,0,0,0,1,2,17,50,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 1777,重建,操縱自己的乙太，使屬性發生變異,215938,0,0,0,69,0,1,1,16,0,0,2,0,0,0,0,0,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
-1778,無法騎乘坐騎,無法騎乘坐騎與使用時尚配飾,216232,0,0,0,0,0,1,1,0,0,0,0,0,47,0,0,0,False,False,False,False,False,False,False,True,True,True,False,True,False,False,False,False,False
+1778,無法騎乘坐騎,無法騎乘坐騎與使用時尚配件,216232,0,0,0,0,0,1,1,0,0,0,0,0,47,0,0,0,False,False,False,False,False,False,False,True,True,True,False,True,False,False,False,False,False
 1779,紫陽花,HP逐漸減少,213304,10,0,0,0,0,1,2,17,10,0,0,0,0,0,0,1,False,False,False,False,False,False,True,False,False,False,True,False,False,False,False,False,False
 1780,魔力汚染,害意ある魔力によって汚染された状態。特定の攻撃によって、戦闘不能状態に陥る。,215057,0,0,0,0,0,1,2,17,200,0,0,0,0,0,0,0,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
 1781,傷害提高,攻擊所造成的傷害提高,215519,10,101,0,39,0,1,1,16,1,0,0,0,0,0,0,0,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
@@ -2013,7 +2013,7 @@ MP自然恢復速度增加",210468,0,16,0,42,0,1,1,16,0,0,0,0,0,0,0,0,False,Fals
 1942,偵察中,正在偵察。進入戰鬥狀態的話，偵察受到阻礙，停留在原地。非戰鬥狀態維持一段時間後偵察結束，狀態解除，得以撤退,215994,0,0,0,0,0,1,1,16,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 1943,武裝衛護,產生減輕傷害的防護區域,212512,100,0,0,0,0,1,1,16,0,0,4,0,27,0,0,0,True,False,True,False,False,False,False,True,False,False,False,True,False,False,False,False,False
 1944,野戰治療陣,減輕範圍內隊員所受傷害，產生能夠恢復HP的區域,212802,50,0,0,0,0,29,1,16,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
-1945,無法騎乘坐騎,無法騎乘坐騎與使用時尚配飾,216232,0,0,0,0,0,1,1,0,0,0,0,0,47,0,0,0,False,False,False,False,False,False,False,True,True,False,False,True,False,False,False,False,False
+1945,無法騎乘坐騎,無法騎乘坐騎與使用時尚配件,216232,0,0,0,0,0,1,1,0,0,0,0,0,47,0,0,0,False,False,False,False,False,False,False,True,True,False,False,True,False,False,False,False,False
 1946,野火,對敵人附加了「野火」,213019,0,0,0,0,0,1,1,16,50,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
 1947,睡眠,陷入沉睡，無法做出任何行動,215013,0,3,0,1,0,1,2,2,100,0,0,0,3,0,0,0,True,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
 1948,魔法傷害降低,魔法攻擊所造成的傷害降低,215055,-10,0,0,0,0,1,2,17,50,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
@@ -2544,7 +2544,7 @@ MP自然恢復速度增加",210468,0,16,0,42,0,1,1,16,0,0,0,0,0,0,0,0,False,Fals
 2444,失傳速度之星,攻擊所造成的傷害提高，暴擊發動率提高，自動攻擊間隔縮短，同時戰技與魔法的詠唱及冷卻時間也會縮短,216621,10,0,0,0,0,1,1,16,50,0,31,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 2445,劍型,以劍為主進行攻擊,215315,0,101,0,0,0,1,1,16,200,0,0,0,0,0,0,0,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
 2446,盾型,以盾為主進行攻擊,215316,0,268,0,0,0,1,1,16,200,0,0,0,0,0,0,0,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
-2447,品質轉換,將品質進行轉換，重物變輕，輕物變重,215317,0,0,0,0,0,1,2,17,200,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+2447,質量轉換,轉換質量，使重物變輕，輕物變重,215317,0,0,0,0,0,1,2,17,200,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 2448,蓄力,累積力量，下一次發動的技能威力上升,215318,0,0,0,0,0,1,1,16,200,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 2449,限制復活,無法接受部分復活效果,215959,0,0,0,100,0,1,2,17,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,True,True,False,False,False,False,False,False,False,False
 2450,模仿,模仿對手的行動，對於物理攻擊將進行物理反擊，對於魔法攻擊將進行魔法反擊,215300,0,254,0,0,0,1,1,16,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
@@ -4078,7 +4078,7 @@ HP逐漸流失",217611,10,402,0,0,8,1,2,17,200,0,0,0,0,0,0,5,False,False,False,F
 3906,百雷銃,受到施加此狀態的玩家攻擊時所受傷害增加,212923,10,0,0,0,0,92,2,17,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
 3907,大魚知識,釣上大尺寸的魚時，尺寸比通常情況更大的概率提高,211122,0,0,0,0,0,1,1,16,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,True,True,False,False,True,False,False,False,False,False
 3908,擊倒,被擊倒在地，無法移動或發動技能,215044,0,0,0,0,0,1,2,3,100,0,4,0,0,0,0,0,True,False,True,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-3909,精神失常,精神失常，無法做出任何行動，精神恢復正常後，清除所有仇恨,215809,0,43,0,0,0,1,2,17,100,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+3909,精神失常,精神失常的狀態，只能朝指標指示的方向移動,215809,0,43,0,0,0,1,2,17,100,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 3910,預備碰觸,慎重提煉的追加效果發生率翻倍,216025,0,0,0,0,0,1,1,16,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,True,True,False,False,True,False,False,False,False,False
 3911,強化洞察,大膽提煉的收藏價值上升量和慎重提煉的追加效果發生率提高,216026,0,0,0,0,0,1,1,16,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,True,True,False,False,True,False,False,False,False,False
 3912,堅意咆哮,"心中充滿堅定的意志和決心，情緒高漲

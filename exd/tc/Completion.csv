@@ -493,7 +493,7 @@
 1353,亞拉戈神典石,yalageshendianshi,,17,150
 1356,投票驅逐,toupiaoquzhu,,17,73
 1357,放棄任務投票,fangqirenwutoupiao,,17,72
-1358,場景標記,changjingbiaoji,,17,215
+1358,場地標記,changjingbiaoji,,17,215
 1359,地面目標,dimianmubiao,,17,212
 1360,武具投影,wujutouying,,17,350
 1362,美容師,meirongshi,,17,351
@@ -613,7 +613,7 @@
 1491,殘暴正義號,canbaozhengyihao,,18,412
 1492,職能技能,zhinengjineng,,18,4
 1494,快捷發言,kuaijiefayan,,18,202
-1496,青磷機車,qinglinjiche,,18,413
+1496,青磷火車,qinglinjiche,,18,413
 1497,哥布林坦克,gebulintanke,,18,415
 1498,哥布林傭兵,gebulinyongbing,,18,416
 1499,戰略值,zhanlvezhi,,18,312
@@ -662,8 +662,8 @@
 1571,公會,budui,,20,9
 1572,新人,xinren,,20,10
 1573,戰隊,zhandui,,20,11
-1574,跨服通訊貝,kuafutongxunbei,,20,12
-1575,跨服通訊貝,kuafutongxunbei,,20,25
+1574,跨界通訊貝,kuafutongxunbei,,20,12
+1575,跨界通訊貝,kuafutongxunbei,,20,25
 1576,戰友列表,zhanyouliebiao,,20,22
 1600,【採集與製作】,caijiyuzhizuo.,@,22,0
 1601,碎晶,suijing,,22,1
@@ -1274,7 +1274,7 @@
 4027,義軍等級,yijundengji,,17,441
 4028,自由探索,ziyoutansuo,,17,74
 4030,博茲雅晶簇,boziyajingcu,,17,446
-4031,時尚配飾,shishangpeishi,,17,203
+4031,時尚配件,shishangpeishi,,17,203
 4032,義軍武器,yijunwuqi,,17,448
 4033,博茲雅搜尋器,boziyasousuoqi,,17,447
 4034,慶典,qingdian,,17,358
@@ -1436,3 +1436,7 @@
 5152,阿卡狄亞登天鬥技場,akadiyadengtiandoujichang,,24,3115
 5153,阿卡狄亞零式登天鬥技場,akadiyalingshidengtiandoujichang,,24,3116
 5154,輕量級,qingliangji,,24,3117
+5156,朱諾：第一巡行,zhunuodiyixunxing,,24,3536
+5157,幻 白虎征魂戰,baihuhuanqiaozhan,,24,2276
+5158,極 永恆女王殲滅戰,yonghengnvwangyixiangjianmiezhan,,24,2275
+5159,玉韋亞瓦塔實驗站,yuweiyawatashiyanzhan,,24,1247
