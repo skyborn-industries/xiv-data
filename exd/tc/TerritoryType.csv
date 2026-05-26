@@ -1137,7 +1137,7 @@
 1235,ec061,ffxiv/wil_w1/fld/w1f2/level/w1f2,0,-1,-1,0,-1,24,505,43,21,925,1001,0,768,0,1,4,1,29,0,0,5,0,0,0,0,0,-1,False,False,True,False,False,False,False,False,True,False,False,True,False,True,True
 1236,ec062,ffxiv/wil_w1/fld/w1f4/level/w1f4,0,-1,-1,0,-1,24,505,45,23,1002,1001,0,769,0,1,4,1,29,0,0,5,0,0,0,0,0,-1,False,False,True,False,False,False,False,False,True,False,False,True,False,True,True
 1237,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-1238,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+1238,n4gw,ex3/01_nvt_n4/goe/n4gw/level/n4gw,0,122027,124071,0,-1,2950,518,5137,77,1006,1001,0,837,0,1,15,2,17,0,0,5,0,0,0,0,0,-1,False,False,True,False,False,False,False,False,True,False,False,True,False,True,True
 1239,e3fb_3,ex2/02_est_e3/fld/e3fb/level/e3fb,0,122024,124169,0,-1,2401,515,2354,450,1007,1001,0,792,0,1,10,2,10,93,0,5,0,0,0,0,0,-1,True,False,True,False,False,False,False,False,True,False,False,True,False,True,True
 1240,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 1241,,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
