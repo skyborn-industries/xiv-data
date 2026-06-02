@@ -12171,10 +12171,13 @@ Lisez la description pour en savoir plus."
 11193,
 11194,"Échanger l'objet ci-dessous
 contre 0  ?"
-11195,"以下のアイテムを
-×0と交換します。
+11195,"Échanger
 
-×0"
+0 
+
+contre
+
+0  ?"
 11196,
 11197,
 11198,
@@ -18171,7 +18174,7 @@ MNO/INV/MRG"
 16466,Enregistrement depuis le centre de données physique du Monde d'origine
 16467,
 16468,Bonus non disponible
-16469,**Récompense non obtenue**
+16469,Récompense non obtenue
 16470,**Récompense obtenue (UNKNOWN/UNKNOWN)**
 16471,
 16472,
@@ -18620,7 +18623,7 @@ Souhaitez-vous tout de même sortir de la zone et annuler votre par­ti­ci­pa�
 16879,Programme de développement de la station sélénienne
 16880,Programme de développement de Phaenna
 16881,Programme de développement d'Oizys
-16882,
+16882,Programme de développement d'Auxesia
 16883,Progression : UNKNOWN en cours via par­ti­ci­pa­tion aux missions cosmiques
 16884,"Progression : ouvrage collectif en cours de préparation, recrutement de volontaires à prévoir"
 16885,Progression : con­struc­tion d'une installation débutée
@@ -18639,13 +18642,13 @@ Souhaitez-vous tout de même sortir de la zone et annuler votre par­ti­ci­pa�
 16897,Oui
 16898,Non
 16899,Évaluation : 0 / Rang argent : 0 / Rang or : 0
-16900,
+16900,Évaluation : 0 / Record : 0
 16901,Rang argent : 00:00 restantes
 16902,Rang or : 00:00 restantes
 16903,???
 16904,Phaenna
 16905,Oizys
-16906,
+16906,Auxesia
 16907,Nv objet moyen : UNKNOWN ou plus
 16908,Matériaux
 16909,Valeur de collection :
@@ -18696,11 +18699,11 @@ Souhaitez-vous tout de même sortir de la zone et annuler votre par­ti­ci­pa�
 16952,niveau novice
 16953,niveau intermédiaire
 16954,niveau avancé
-16955,
+16955,niveau expert
 16956,développement de la station
 16957,développement de Phaenna
 16958,développement d'Oizys
-16959,
+16959,développement d'Auxesia
 16960,Afficher l'aide
 16961,Afficher l'aide
 16962,Aucune mission disponible.
@@ -18722,7 +18725,7 @@ Temps restant : UNKNOWNm00s"
 16977, UNKNOWN:00
 16978,Phaenna
 16979,Oizys
-16980,
+16980,Auxesia
 16981,Vous pouvez obtenir ces récompenses lorsque vous pilotez un robot.
 16982,PARÉ AU LANCEMENT
 16983,INTERVENTION MÉCANIQUE
@@ -18951,19 +18954,19 @@ Série d'or actuelle : UNKNOWN"
 17171,*** La série d'or prendra fin si vous abandonnez la mission.**
 17172,Utiliser  ?
 17173,Vestige caché
-17174,
-17175,
-17176,
-17177,
-17178,
-17179,
-17180,
+17174,Afficher l'aide des points cosmiques
+17175,Afficher l'aide des points de maîtrise
+17176,Missions de maîtrise
+17177,Missions de maîtrise
+17178,Points de maîtrise pour la classe “”
+17179,0/0
+17180,Record
 17181,
-17182,
-17183,
-17184,
+17182,Objectif 1
+17183,Objectif 2
+17184,Record
 17185,Points cosmiques
-17186,
+17186,Points de maîtrise
 17187,
 17188,
 17189,
@@ -19671,7 +19674,7 @@ Veuillez réessayer ultérieurement."
 17856,Échange de teintures
 17857,Annuler
 17858,Annuler l'échange de teintures ?
-17859,
+17859,Bonus d'objectif
 17860,Cet objet est serti. Voulez-vous l'échanger ?
 17861,Confirmer
 17862,Cet objet appartient à une tenue. Voulez vous l'échanger ?
