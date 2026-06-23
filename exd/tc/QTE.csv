@@ -22,6 +22,6 @@
 20,保護,快速連擊按鈕保護克萊夫！,SE_Bt_Etc_QTE_Ready,SE_Bt_Etc_QTE_Success,SE_Bt_Etc_QTE_Fail,5,88,3,25,15,0,False,True,True,False
 21,抵抗,快速連擊按鈕抵禦攻擊！,SE_Bt_Etc_QTE_Ready,SE_Bt_Etc_QTE_Success,SE_Bt_Etc_QTE_Fail,5,88,3,25,15,0,False,True,True,False
 22,拼刀,快速連擊按鈕抗住攻擊！,SE_Bt_Etc_QTE_Ready,SE_Bt_Etc_QTE_Success,SE_Bt_Etc_QTE_Fail,5,88,10,30,3,0,False,False,True,False
-23,脫離,快速連擊按鈕掙脫出來，説明庫伊奇！,SE_Bt_Etc_QTE_Ready,SE_Bt_Etc_QTE_Success,SE_Bt_Etc_QTE_Fail,2,88,22,17,0,0,False,False,True,False
+23,脫離,快速連擊按鈕掙脫出來，幫助庫伊奇！,SE_Bt_Etc_QTE_Ready,SE_Bt_Etc_QTE_Success,SE_Bt_Etc_QTE_Fail,2,88,22,17,0,0,False,False,True,False
 24,脫離,快速連擊按鈕突破攻擊！,SE_Bt_Etc_QTE_Ready,SE_Bt_Etc_QTE_Success,SE_Bt_Etc_QTE_Fail,2,88,20,45,0,0,False,False,True,False
 25,,,,,,0,0,0,0,0,0,False,False,False,False

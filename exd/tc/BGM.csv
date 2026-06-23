@@ -1101,8 +1101,8 @@
 20109,music/ffxiv/BGM_Ride_Queen.scd,90,1,2,False,False,True
 20110,music/ffxiv/BGM_Ride_CT71.scd,90,1,2,False,False,True
 20111,music/ffxiv/BGM_Ride_CHS71.scd,90,1,2,False,False,True
-20112,,0,0,0,False,False,False
-20113,,0,0,0,False,False,False
+20112,music/ex5/BGM_EX5_Event_26.scd,90,1,0,False,False,True
+20113,music/ex5/BGM_EX5_Event_27.scd,90,1,0,True,True,False
 20114,music/ex5/BGM_EX5_EoV_01.scd,90,1,0,False,False,True
 20115,music/ex5/BGM_EX5_EoV_02.scd,90,1,0,False,False,True
 20116,music/ex5/BGM_EX5_EoV_03.scd,90,1,0,False,False,True
@@ -1127,7 +1127,7 @@
 20135,music/ex5/BGM_EX5_Ban_14.scd,90,1,0,False,False,True
 20136,music/ex5/BGM_EX5_Ban_15.scd,90,1,0,False,False,True
 20137,music/ex5/BGM_EX5_Ban_16.scd,90,1,0,False,False,True
-20138,,0,0,0,False,False,False
+20138,music/ex5/BGM_EX5_Event_28.scd,90,1,0,False,False,True
 20139,music/ex5/BGM_EX5_EoV_21.scd,90,1,0,False,False,True
 20140,,0,0,0,False,False,False
 20141,,0,0,0,False,False,False

@@ -5818,7 +5818,7 @@
 2005816,67420,3960,3,7,0,0,False,False,False,False,False,False,False,False,True,False,True,False,False,False
 2005817,67420,2075,3,7,0,0,False,False,False,False,False,False,False,False,True,False,True,False,False,False
 2005818,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-2005819,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+2005819,0,38461,2,0,0,0,False,False,False,False,False,False,False,False,False,False,True,False,False,False
 2005820,67407,5801,3,7,0,0,False,False,False,False,False,False,False,False,False,False,True,False,False,False
 2005821,67407,2075,3,7,0,0,False,False,False,False,False,False,False,False,True,False,True,False,False,False
 2005822,0,8687,2,0,0,0,False,False,False,False,False,False,False,False,False,False,True,False,False,False
@@ -12113,7 +12113,7 @@
 2012111,69929,1625,3,7,0,0,False,False,False,False,False,False,False,False,True,False,True,False,False,False
 2012112,69931,2075,3,7,0,0,False,False,False,False,False,False,False,False,True,False,True,False,False,False
 2012113,854434,4397,3,7,0,0,False,False,False,False,False,False,False,False,True,False,True,False,False,False
-2012114,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+2012114,131585,2632,3,0,0,0,False,False,False,False,False,False,False,False,True,False,True,False,False,False
 2012115,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 2012116,69932,2632,3,7,0,0,False,False,False,False,False,False,False,False,True,False,True,False,False,False
 2012117,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
@@ -14417,9 +14417,9 @@
 2014415,984210,39190,1,0,0,0,False,False,False,False,False,False,False,False,True,False,True,False,False,False
 2014416,984211,39190,1,0,0,0,False,False,False,False,False,False,False,False,True,False,True,False,False,False
 2014417,984212,34503,1,0,0,0,False,False,False,False,False,False,False,False,True,False,True,False,False,False
-2014418,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-2014419,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-2014420,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+2014418,70724,1624,3,7,0,0,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+2014419,70725,2075,3,7,0,0,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+2014420,70727,1626,3,7,0,0,False,False,False,False,False,False,False,False,False,False,True,False,False,False
 2014421,70729,2075,3,7,0,0,False,False,False,False,False,False,False,False,True,False,True,False,False,False
 2014422,984216,34503,1,0,0,0,False,False,False,False,False,False,False,False,True,False,True,False,False,False
 2014423,70730,2075,3,7,0,0,False,False,False,False,False,False,False,False,True,False,True,False,False,False
@@ -14436,10 +14436,10 @@
 2014434,131583,38586,3,0,0,0,False,False,False,False,False,False,False,False,True,False,True,False,False,False
 2014435,70733,2075,3,7,0,0,False,False,False,False,False,False,False,False,True,False,True,False,False,False
 2014436,70730,2075,3,7,0,0,False,False,False,False,False,False,False,False,True,False,True,False,False,False
-2014437,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-2014438,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-2014439,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-2014440,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+2014437,70503,38861,3,7,0,0,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+2014438,70503,38861,3,7,0,0,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+2014439,70503,38861,3,7,0,0,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+2014440,70503,2075,3,7,0,0,False,False,False,False,False,False,False,False,True,False,True,False,False,False
 2014441,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 2014442,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 2014443,70766,15936,3,7,0,0,False,False,False,False,False,False,False,False,False,False,True,False,False,False
@@ -14455,7 +14455,7 @@
 2014453,1704262,38586,3,7,0,0,False,False,False,False,False,False,False,False,False,False,True,False,False,False
 2014454,70769,2075,3,7,0,0,False,False,False,False,False,False,False,False,True,False,True,False,False,False
 2014455,70770,2076,3,7,0,0,False,False,False,False,False,False,False,False,True,False,True,False,False,False
-2014456,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+2014456,70776,2075,3,7,0,0,False,False,False,False,False,False,False,False,True,False,True,False,False,False
 2014457,70730,2075,3,7,0,0,False,False,False,False,False,False,False,False,True,False,True,False,False,False
 2014458,854931,4397,3,7,0,0,False,False,False,False,False,False,False,False,True,False,True,False,False,False
 2014459,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
@@ -14585,8 +14585,8 @@
 2014583,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 2014584,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 2014585,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-2014586,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
-2014587,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+2014586,70503,39188,3,7,0,0,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+2014587,0,39205,2,0,0,0,False,False,False,False,False,False,False,False,False,False,True,False,False,False
 2014588,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 2014589,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
 2014590,0,0,0,0,0,0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
